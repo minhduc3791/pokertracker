@@ -1,0 +1,13 @@
+.planning/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Poker Tracker
+*.db
+*.log
+poker_tracker.db
+

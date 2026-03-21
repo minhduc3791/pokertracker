@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokerTracker - Player Statistics</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            margin-bottom: 30px;
+        }
+        
+        .logo {
+            font-size: 28px;
+            font-weight: 700;
+            background: linear-gradient(135deg, #00d9ff, #00ff88);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .stats-summary {
+            display: flex;
+            gap: 30px;
+        }
+        
+        .stat-box {
+            background: rgba(255,255,255,0.05);
+            padding: 15px 25px;
+            border-radius: 12px;
+            text-align: center;
+        }
+        
+        .stat-box .value {
+            font-size: 32px;
+            font-weight: 700;
+            color: #00d9ff;
+        }
+        
+        .stat-box .label {
+            font-size: 12px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .main-content {
+            display: grid;
+            grid-template-columns: 400px 1fr;
+            gap: 30px;
+        }
+        
+        .player-list {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            padding: 20px;
+            max-height: calc(100vh - 180px);
+            overflow-y: auto;
+        }
+        
+        .player-list h2 {
+            font-size: 16px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 20px;
+        }
+        
+        .player-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+        
+        .player-card:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateX(5px);
+        }
+        
+        .player-card.selected {
+            border-color: #00d9ff;
+            background: rgba(0,217,255,0.1);
+        }
+        
+        .player-card.hero {
+            border-left: 4px solid #00ff88;
+        }
+        
+        .player-name {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .hero-badge {
+            background: #00ff88;
+            color: #1a1a2e;
+            font-size: 10px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-weight: 700;
+        }
+        
+        .player-stats-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            font-size: 12px;
+        }
+        
+        .mini-stat {
+            text-align: center;
+        }
+        
+        .mini-stat .val {
+            font-weight: 600;
+            color: #00d9ff;
+        }
+        
+        .mini-stat .name {
+            color: #666;
+            font-size: 10px;
+        }
+        
+        .detail-panel {
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            padding: 30px;
+            min-height: calc(100vh - 180px);
+        }
+        
+        .no-selection {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 400px;
+            color: #666;
+        }
+        
+        .no-selection svg {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 20px;
+            opacity: 0.3;
+        }
+        
+        .player-detail {
+            display: none;
+        }
+        
+        .player-detail.active {
+            display: block;
+        }
+        
+        .detail-header {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .detail-avatar {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #00d9ff, #00ff88);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a2e;
+        }
+        
+        .detail-info h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+        
+        .detail-info .tables {
+            color: #888;
+            font-size: 14px;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .stat-card {
+            background: rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 20px;
+        }
+        
+        .stat-card h3 {
+            font-size: 14px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 15px;
+        }
+        
+        .stat-bar-container {
+            margin-bottom: 15px;
+        }
+        
+        .stat-bar-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        
+        .stat-bar-label .name {
+            color: #888;
+        }
+        
+        .stat-bar-label .value {
+            font-weight: 600;
+        }
+        
+        .stat-bar {
+            height: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        
+        .stat-bar-fill {
+            height: 100%;
+            border-radius: 4px;
+            transition: width 0.5s ease;
+        }
+        
+        .stat-bar-fill.vpip { background: linear-gradient(90deg, #00d9ff, #00ff88); }
+        .stat-bar-fill.three-bet { background: linear-gradient(90deg, #ff6b6b, #feca57); }
+        .stat-bar-fill.wtsd { background: linear-gradient(90deg, #a55eea, #5f27cd); }
+        .stat-bar-fill.wsd { background: linear-gradient(90deg, #26de81, #20bf6b); }
+        
+        .stat-bar-raw {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .category-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin: 30px 0 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .stat-classification {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .stat-classification.tight { background: #3498db; }
+        .stat-classification.normal { background: #2ecc71; }
+        .stat-classification.loose { background: #e74c3c; }
+        .stat-classification.weak { background: #f39c12; }
+        .stat-classification.strong { background: #9b59b6; }
+        
+        .refresh-btn {
+            background: rgba(255,255,255,0.1);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+        
+        .refresh-btn:hover {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        .refresh-btn svg {
+            width: 16px;
+            height: 16px;
+            vertical-align: middle;
+            margin-right: 8px;
+        }
+        
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: rgba(255,255,255,0.05);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: rgba(255,255,255,0.2);
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">PokerTracker</div>
+            <div class="stats-summary">
+                <div class="stat-box">
+                    <div class="value" id="total-hands">-</div>
+                    <div class="label">Total Hands</div>
+                </div>
+                <div class="stat-box">
+                    <div class="value" id="total-players">-</div>
+                    <div class="label">Players</div>
+                </div>
+            </div>
+            <button class="refresh-btn" onclick="loadData()">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M23 4v6h-6M1 20v-6h6M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+                </svg>
+                Refresh
+            </button>
+        </header>
+        
+        <div class="main-content">
+            <div class="player-list">
+                <h2>Players</h2>
+                <div id="players-container"></div>
+            </div>
+            
+            <div class="detail-panel">
+                <div class="no-selection" id="no-selection">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1">
+                        <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2M9 11a4 4 0 100-8 4 4 0 000 8zM23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>
+                    </svg>
+                    <p>Select a player to view statistics</p>
+                </div>
+                
+                <div class="player-detail" id="player-detail">
+                    <div class="detail-header">
+                        <div class="detail-avatar" id="avatar">?</div>
+                        <div class="detail-info">
+                            <h1 id="detail-name">Player Name</h1>
+                            <div class="tables" id="detail-tables">0 tables</div>
+                        </div>
+                    </div>
+                    
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <h3>VPIP - Voluntarily Put In Pot</h3>
+                            <div class="stat-bar-container">
+                                <div class="stat-bar-label">
+                                    <span class="name">VPIP</span>
+                                    <span class="value"><span id="vpip-pct">0</span>%</span>
+                                </div>
+                                <div class="stat-bar">
+                                    <div class="stat-bar-fill vpip" id="vpip-bar" style="width: 0%"></div>
+                                </div>
+                                <div class="stat-bar-raw" id="vpip-raw">0 / 0 hands</div>
+                            </div>
+                            <span class="stat-classification" id="vpip-class">-</span>
+                        </div>
+                        
+                        <div class="stat-card">
+                            <h3>3-Bet</h3>
+                            <div class="stat-bar-container">
+                                <div class="stat-bar-label">
+                                    <span class="name">3-Bet</span>
+                                    <span class="value"><span id="3bet-pct">0</span>%</span>
+                                </div>
+                                <div class="stat-bar">
+                                    <div class="stat-bar-fill three-bet" id="3bet-bar" style="width: 0%"></div>
+                                </div>
+                                <div class="stat-bar-raw" id="3bet-raw">0 / 0</div>
+                            </div>
+                            <span class="stat-classification" id="3bet-class">-</span>
+                        </div>
+                        
+                        <div class="stat-card">
+                            <h3>WTSD - Went to Showdown</h3>
+                            <div class="stat-bar-container">
+                                <div class="stat-bar-label">
+                                    <span class="name">WTSD</span>
+                                    <span class="value"><span id="wtsd-pct">0</span>%</span>
+                                </div>
+                                <div class="stat-bar">
+                                    <div class="stat-bar-fill wtsd" id="wtsd-bar" style="width: 0%"></div>
+                                </div>
+                                <div class="stat-bar-raw" id="wtsd-raw">0 / 0</div>
+                            </div>
+                            <span class="stat-classification" id="wtsd-class">-</span>
+                        </div>
+                        
+                        <div class="stat-card">
+                            <h3>W$SD - Won at Showdown</h3>
+                            <div class="stat-bar-container">
+                                <div class="stat-bar-label">
+                                    <span class="name">W$SD</span>
+                                    <span class="value"><span id="wsd-pct">0</span>%</span>
+                                </div>
+                                <div class="stat-bar">
+                                    <div class="stat-bar-fill wsd" id="wsd-bar" style="width: 0%"></div>
+                                </div>
+                                <div class="stat-bar-raw" id="wsd-raw">0 / 0</div>
+                            </div>
+                            <span class="stat-classification" id="wsd-class">-</span>
+                        </div>
+                    </div>
+                    
+                    <div class="category-title">All Statistics</div>
+                    <div class="stats-grid" id="all-stats-grid"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let players = [];
+        let selectedPlayerId = null;
+        
+        async function loadData() {
+            try {
+                const [summaryRes, playersRes] = await Promise.all([
+                    fetch('/api/summary'),
+                    fetch('/api/players')
+                ]);
+                
+                const summary = await summaryRes.json();
+                document.getElementById('total-hands').textContent = summary.total_hands.toLocaleString();
+                document.getElementById('total-players').textContent = summary.total_players;
+                
+                players = await playersRes.json();
+                renderPlayers();
+            } catch (error) {
+                console.error('Failed to load data:', error);
+            }
+        }
+        
+        function renderPlayers() {
+            const container = document.getElementById('players-container');
+            container.innerHTML = players.map(p => `
+                <div class="player-card ${p.is_hero ? 'hero' : ''} ${selectedPlayerId === p.id ? 'selected' : ''}" 
+                     onclick="selectPlayer(${p.id})">
+                    <div class="player-name">
+                        <span>${p.screen_name}</span>
+                        ${p.is_hero ? '<span class="hero-badge">HERO</span>' : ''}
+                    </div>
+                    <div class="player-stats-row">
+                        <div class="mini-stat">
+                            <div class="val">${p.hands_played}</div>
+                            <div class="name">Hands</div>
+                        </div>
+                        <div class="mini-stat">
+                            <div class="val">${p.vpip.percent}%</div>
+                            <div class="name">VPIP</div>
+                        </div>
+                        <div class="mini-stat">
+                            <div class="val">${p.three_bet.percent}%</div>
+                            <div class="name">3B</div>
+                        </div>
+                        <div class="mini-stat">
+                            <div class="val">${p.w_sd.percent}%</div>
+                            <div class="name">W$SD</div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+        
+        async function selectPlayer(playerId) {
+            selectedPlayerId = playerId;
+            renderPlayers();
+            
+            try {
+                const res = await fetch(`/api/players/${playerId}`);
+                const player = await res.json();
+                showPlayerDetail(player);
+            } catch (error) {
+                console.error('Failed to load player:', error);
+            }
+        }
+        
+        function showPlayerDetail(player) {
+            document.getElementById('no-selection').style.display = 'none';
+            document.getElementById('player-detail').classList.add('active');
+            
+            document.getElementById('avatar').textContent = player.screen_name.charAt(0).toUpperCase();
+            document.getElementById('detail-name').textContent = player.screen_name + (player.is_hero ? ' (HERO)' : '');
+            document.getElementById('detail-tables').textContent = player.tables.length + ' table(s)';
+            
+            const stats = player.stats;
+            
+            updateStatCard('vpip', stats['VPIP']);
+            updateStatCard('3bet', stats['3BET']);
+            updateStatCard('wtsd', stats['WTSD']);
+            updateStatCard('wsd', stats['W$SD']);
+            
+            renderAllStats(stats);
+        }
+        
+        function updateStatCard(id, stat) {
+            if (!stat) {
+                stat = { percent: 0, numerator: 0, denominator: 0 };
+            }
+            
+            document.getElementById(`${id}-pct`).textContent = stat.percent;
+            document.getElementById(`${id}-bar`).style.width = Math.min(stat.percent, 100) + '%';
+            document.getElementById(`${id}-raw`).textContent = `${stat.numerator} / ${stat.denominator}`;
+            
+            const classification = getClassification(id, stat.percent);
+            const classEl = document.getElementById(`${id}-class`);
+            classEl.textContent = classification.text;
+            classEl.className = 'stat-classification ' + classification.class;
+        }
+        
+        function getClassification(statId, percent) {
+            if (statId === 'vpip') {
+                if (percent < 20) return { text: 'Tight', class: 'tight' };
+                if (percent < 35) return { text: 'Normal', class: 'normal' };
+                return { text: 'Loose', class: 'loose' };
+            } else if (statId === '3bet') {
+                if (percent < 5) return { text: 'Tight', class: 'tight' };
+                if (percent < 10) return { text: 'Normal', class: 'normal' };
+                return { text: 'Loose', class: 'loose' };
+            } else if (statId === 'wtsd') {
+                if (percent < 25) return { text: 'Tight', class: 'tight' };
+                if (percent < 35) return { text: 'Normal', class: 'normal' };
+                return { text: 'Loose', class: 'loose' };
+            } else if (statId === 'wsd') {
+                if (percent < 45) return { text: 'Weak', class: 'weak' };
+                if (percent < 55) return { text: 'Normal', class: 'normal' };
+                return { text: 'Strong', class: 'strong' };
+            }
+            return { text: '-', class: '' };
+        }
+        
+        const STAT_NAMES = {
+            'VPIP': 'Voluntarily Put In Pot',
+            '3BET': '3-Bet',
+            'F_TB': 'Fold to Bet',
+            'CALL_CB': 'Call CBet',
+            'RAISE_CB': 'Raise CBet',
+            'CB_TURN': 'CBet Turn',
+            'F_CB_T': 'Fold CBet Turn',
+            'C_CB_T': 'Call CBet Turn',
+            'R_CB_T': 'Raise CBet Turn',
+            'WTSD': 'Went to Showdown',
+            'W$SD': 'Won $ at Showdown'
+        };
+        
+        function renderAllStats(stats) {
+            const grid = document.getElementById('all-stats-grid');
+            grid.innerHTML = '';
+            
+            for (const [name, data] of Object.entries(stats)) {
+                const pct = data ? data.percent : 0;
+                const num = data ? data.numerator : 0;
+                const den = data ? data.denominator : 0;
+                
+                grid.innerHTML += `
+                    <div class="stat-card">
+                        <h3>${STAT_NAMES[name] || name}</h3>
+                        <div class="stat-bar-container">
+                            <div class="stat-bar-label">
+                                <span class="name">${name}</span>
+                                <span class="value">${pct}%</span>
+                            </div>
+                            <div class="stat-bar">
+                                <div class="stat-bar-fill vpip" style="width: ${Math.min(pct, 100)}%"></div>
+                            </div>
+                            <div class="stat-bar-raw">${num} / ${den}</div>
+                        </div>
+                    </div>
+                `;
+            }
+        }
+        
+        loadData();
+    </script>
+</body>
+</html>

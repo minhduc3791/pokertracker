@@ -1,6 +1,7 @@
 # Core dependencies
 psutil>=5.9.0
 watchdog>=3.0.0
+flask>=3.0.0
 
 # Windows-only dependencies (install on Windows for GUI features)
 # pip install transparent-overlay pywin32 PyQt5 pyinstaller

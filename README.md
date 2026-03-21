@@ -1,49 +1,82 @@
 # PokerTracker
 
-Real-time poker statistics HUD overlay for Natural8 with a detailed statistics viewer.
+Real-time poker statistics HUD overlay for Natural8 with a web-based statistics dashboard.
 
 ## Features
 
-- **Real-time HUD Overlay** - Displays player statistics on top of your poker tables
+- **Real-time HUD Overlay** - Displays player statistics on top of your poker tables (Windows only)
+- **Web Dashboard** - Beautiful web-based GUI for viewing player statistics
 - **Hand History Parsing** - Automatically parses Natural8 hand history files
 - **Player Statistics** - Tracks VPIP, 3Bet, CBet, WTSD, W$SD and more
 - **Multi-Table Support** - Separate HUD for each table
-- **Statistics Viewer** - Detailed view with player selection and filtering
-- **System Tray Integration** - Runs in background with tray icon
+- **System Tray Integration** - Runs in background with tray icon (Windows)
 - **Background Operation** - Starts minimized, runs when Natural8 is active
 
-## Requirements
+## Quick Start
 
-- Windows 10/11 (for HUD overlay)
-- Python 3.8+
-- Natural8 poker client
-
-## Installation
+### 1. Install Dependencies
 
 ```bash
-# Clone the repository
-git clone https://github.com/minhduc3791/pokertracker.git
-cd pokertracker
-
-# Install dependencies
 pip install -r requirements.txt
 ```
 
-## Windows Installation (with GUI)
+### 2. Run the Dashboard
 
 ```bash
-pip install transparent-overlay pywin32 PyQt5
+python -m src.gui.app
 ```
 
-## Usage
+Then open your browser to: **http://localhost:5000**
 
-### Running the Tracker
+### 3. Run the Console Viewer (alternative)
+
+```bash
+python -m src.viewer
+```
+
+### 4. Run the Tracker
 
 ```bash
 python -m src.main
 ```
 
-### Configuration
+## Dashboard Features
+
+- **Player List** - Scrollable list with VPIP, 3B, W$SD stats
+- **Player Selection** - Click any player to view detailed stats
+- **Stat Classifications** - Tight/Normal/Loose, Weak/Strong indicators
+- **Progress Bars** - Visual representation of percentages
+- **All Stats View** - Complete breakdown of all tracked statistics
+- **Auto-refresh** - Click Refresh button to reload data
+
+## Project Structure
+
+```
+pokertracker/
+├── src/
+│   ├── main.py              # Main tracker entry point
+│   ├── config.py            # Configuration management
+│   ├── database.py          # SQLite database manager
+│   ├── natural8_parser.py   # Hand history parser
+│   ├── stats_engine.py      # Statistics calculation
+│   ├── process_detector.py  # Natural8 process detection
+│   ├── file_watcher.py      # Hand history file watcher
+│   ├── hud.py               # HUD overlay (Windows)
+│   ├── tray.py              # System tray manager
+│   ├── app.py               # Application shell (Windows)
+│   ├── viewer.py             # Console statistics viewer
+│   └── gui/
+│       ├── app.py           # Web dashboard server
+│       └── templates/
+│           └── index.html   # Dashboard UI
+├── tests/                   # Test suite
+├── hand-histories/          # Hand history files
+├── config.json              # Configuration
+├── requirements.txt          # Python dependencies
+└── README.md
+```
+
+## Configuration
 
 Edit `config.json` in the project root:
 
@@ -54,44 +87,6 @@ Edit `config.json` in the project root:
     "hero_screen_name": "YourScreenName",
     "database_path": "poker_tracker.db"
 }
-```
-
-### Statistics Viewer
-
-Run the viewer to see detailed player statistics:
-
-```bash
-python -m src.viewer
-```
-
-The viewer allows you to:
-- View all players with summary statistics
-- Select a player to see detailed breakdown
-- Filter by table name
-- Sort by any statistic
-- See hand history samples
-
-## Project Structure
-
-```
-pokertracker/
-├── src/
-│   ├── main.py           # Main entry point
-│   ├── config.py         # Configuration management
-│   ├── database.py       # SQLite database manager
-│   ├── natural8_parser.py # Hand history parser
-│   ├── stats_engine.py   # Statistics calculation
-│   ├── process_detector.py # Natural8 process detection
-│   ├── file_watcher.py    # Hand history file watcher
-│   ├── hud.py             # HUD overlay
-│   ├── tray.py            # System tray manager
-│   ├── app.py             # Application shell
-│   └── viewer.py          # Statistics viewer
-├── tests/                # Test suite
-├── hand-histories/       # Hand history files
-├── config.json           # Configuration
-├── requirements.txt      # Python dependencies
-└── README.md
 ```
 
 ## Statistics Tracked

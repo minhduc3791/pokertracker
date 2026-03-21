@@ -6,17 +6,11 @@ from pathlib import Path
 
 block_cipher = None
 
-script_dir = Path(os.path.dirname(os.path.abspath(SPECFILE)))
-project_root = script_dir.parent
-
 a = Analysis(
-    [str(project_root / 'src' / 'gui.py')],
-    pathex=[str(project_root / 'src')],
+    ['src\\gui.py'],
+    pathex=[],
     binaries=[],
-    datas=[
-        (str(project_root / 'icon.ico'), '.'),
-        (str(project_root / 'icon.png'), '.'),
-    ],
+    datas=[],
     hiddenimports=[
         'psutil',
         'watchdog',
@@ -43,9 +37,8 @@ pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 exe = EXE(
     pyz,
     a.scripts,
-    a.binaries,
-    a.zipfiles,
-    a.datas,
+    [],
+    [],
     [],
     name='PokerTracker',
     debug=False,
@@ -60,5 +53,4 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=str(project_root / 'icon.ico'),
 )

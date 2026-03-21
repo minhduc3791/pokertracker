@@ -9,7 +9,7 @@ block_cipher = None
 project_root = Path(SPECFILE).parent
 
 a = Analysis(
-    ['src/main.py'],
+    ['src/gui.py'],
     pathex=[str(project_root / 'src')],
     binaries=[],
     datas=[
@@ -19,10 +19,6 @@ a = Analysis(
     hiddenimports=[
         'psutil',
         'watchdog',
-        'transparent_overlay',
-        'win32gui',
-        'win32con',
-        'win32api',
         'src.config',
         'src.database',
         'src.natural8_parser',
@@ -30,15 +26,11 @@ a = Analysis(
         'src.process_detector',
         'src.file_watcher',
         'src.parser_base',
-        'src.hud',
-        'src.tray',
-        'src.app',
+        'tkinter',
     ],
     hookspath=[],
     hooksconfig={},
-    runtime_hooks=[
-        str(project_root / 'runtime_hook.py'),
-    ],
+    runtime_hooks=[],
     excludes=[],
     win_no_prefer_redirects=False,
     win_private_assemblies=False,

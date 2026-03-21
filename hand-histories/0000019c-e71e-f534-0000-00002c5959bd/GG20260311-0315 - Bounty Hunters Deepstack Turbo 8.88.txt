@@ -1,0 +1,60 @@
+Poker Hand #TM5693542512: Tournament #269070353, Bounty Hunters Deepstack Turbo $8.88 Hold'em No Limit - Level1(50/100(15)) - 2026/03/11 14:15:02
+Table '16' 8-max Seat #8 is the button
+Seat 1: 1a83b43e (20,000 in chips)
+Seat 2: Hero (20,000 in chips)
+Seat 3: 8ed4276a (20,000 in chips)
+Seat 4: 6b2618d (20,000 in chips)
+Seat 5: 5fd2e10d (20,000 in chips)
+Seat 6: 3ed702df (20,000 in chips)
+Seat 7: 1da84753 (20,000 in chips)
+Seat 8: 8f13b80d (20,000 in chips)
+8ed4276a: posts the ante 15
+8f13b80d: posts the ante 15
+6b2618d: posts the ante 15
+3ed702df: posts the ante 15
+Hero: posts the ante 15
+1a83b43e: posts the ante 15
+5fd2e10d: posts the ante 15
+1da84753: posts the ante 15
+1a83b43e: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 1a83b43e 
+Dealt to Hero [Kc Ad]
+Dealt to 8ed4276a 
+Dealt to 6b2618d 
+Dealt to 5fd2e10d 
+Dealt to 3ed702df 
+Dealt to 1da84753 
+Dealt to 8f13b80d 
+8ed4276a: folds
+6b2618d: folds
+5fd2e10d: folds
+3ed702df: folds
+1da84753: raises 100 to 200
+8f13b80d: folds
+1a83b43e: folds
+Hero: raises 1,070 to 1,270
+1da84753: raises 2,033 to 3,303
+Hero: raises 16,682 to 19,985 and is all-in
+1da84753: calls 16,682 and is all-in
+Hero: shows [Kc Ad]
+1da84753: shows [Ah As]
+*** FLOP *** [9c 6c 9h]
+*** TURN *** [9c 6c 9h] [2h]
+*** RIVER *** [9c 6c 9h 2h] [Ts]
+*** SHOWDOWN ***
+1da84753 collected 40,140 from pot
+*** SUMMARY ***
+Total pot 40,140 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 6c 9h 2h Ts]
+Seat 1: 1a83b43e (small blind) folded before Flop
+Seat 2: Hero (big blind) showed [Kc Ad] and lost with a pair of Nines
+Seat 3: 8ed4276a folded before Flop
+Seat 4: 6b2618d folded before Flop
+Seat 5: 5fd2e10d folded before Flop
+Seat 6: 3ed702df folded before Flop
+Seat 7: 1da84753 showed [Ah As] and won (40,140) with two pair, Aces and Nines
+Seat 8: 8f13b80d (button) folded before Flop
+
+

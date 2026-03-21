@@ -1,0 +1,975 @@
+Poker Hand #TM5629941934: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level11(700/1,400(200)) - 2026/02/25 05:29:14
+Table '392' 8-max Seat #3 is the button
+Seat 1: 1ffc0e9f (59,680 in chips)
+Seat 2: f84c0177 (34,633 in chips)
+Seat 3: Hero (2,751 in chips)
+Seat 4: acbffaa (27,907 in chips)
+Seat 5: db51ece5 (39,399 in chips)
+Seat 6: 9f03c4a9 (115,312 in chips)
+Seat 7: 46f81c88 (44,840 in chips)
+Seat 8: ee868774 (62,298 in chips)
+f84c0177: posts the ante 200
+Hero: posts the ante 200
+ee868774: posts the ante 200
+46f81c88: posts the ante 200
+9f03c4a9: posts the ante 200
+1ffc0e9f: posts the ante 200
+db51ece5: posts the ante 200
+acbffaa: posts the ante 200
+acbffaa: posts small blind 700
+db51ece5: posts big blind 1,400
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [6s Qc]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+9f03c4a9: folds
+46f81c88: raises 2,800 to 4,200
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: calls 2,551 and is all-in
+acbffaa: folds
+db51ece5: calls 2,800
+*** FLOP *** [5h Qh 7s]
+db51ece5: checks
+46f81c88: bets 4,200
+db51ece5: calls 4,200
+*** TURN *** [5h Qh 7s] [Tc]
+db51ece5: checks
+46f81c88: checks
+*** RIVER *** [5h Qh 7s Tc] [Ks]
+db51ece5: checks
+46f81c88: bets 36,240 and is all-in
+db51ece5: folds
+Uncalled bet (36,240) returned to 46f81c88
+46f81c88: shows [Ad Kc] (a pair of Kings)
+Hero: shows [6s Qc] (a pair of Queens)
+*** SHOWDOWN ***
+46f81c88 collected 9,953 from pot
+46f81c88 collected 11,698 from pot
+*** SUMMARY ***
+Total pot 21,651 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Qh 7s Tc Ks]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero (button) showed [6s Qc] and lost with a pair of Queens
+Seat 4: acbffaa (small blind) folded before Flop
+Seat 5: db51ece5 (big blind) folded on the River
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 showed [Ad Kc] and won (21,651) with a pair of Kings
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941889: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level11(700/1,400(200)) - 2026/02/25 05:28:19
+Table '392' 8-max Seat #2 is the button
+Seat 1: 1ffc0e9f (28,540 in chips)
+Seat 2: f84c0177 (34,833 in chips)
+Seat 3: Hero (31,291 in chips)
+Seat 4: acbffaa (29,507 in chips)
+Seat 5: db51ece5 (39,599 in chips)
+Seat 6: 9f03c4a9 (115,512 in chips)
+Seat 7: 46f81c88 (45,040 in chips)
+Seat 8: ee868774 (62,498 in chips)
+f84c0177: posts the ante 200
+ee868774: posts the ante 200
+46f81c88: posts the ante 200
+Hero: posts the ante 200
+9f03c4a9: posts the ante 200
+1ffc0e9f: posts the ante 200
+db51ece5: posts the ante 200
+acbffaa: posts the ante 200
+Hero: posts small blind 700
+acbffaa: posts big blind 1,400
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Ad Js]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: raises 2,800 to 4,200
+f84c0177: folds
+Hero: raises 26,891 to 31,091 and is all-in
+acbffaa: folds
+1ffc0e9f: calls 24,140 and is all-in
+Uncalled bet (2,751) returned to Hero
+Hero: shows [Ad Js]
+1ffc0e9f: shows [9d Th]
+*** FLOP *** [Kc 2s Kd]
+*** TURN *** [Kc 2s Kd] [Td]
+*** RIVER *** [Kc 2s Kd Td] [9s]
+f84c0177: shows [Kh] (three of a kind, Kings)
+*** SHOWDOWN ***
+1ffc0e9f collected 59,680 from pot
+*** SUMMARY ***
+Total pot 59,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 2s Kd Td 9s]
+Seat 1: 1ffc0e9f showed [9d Th] and won (59,680) with two pair, Kings and Tens
+Seat 2: f84c0177 (button) folded before Flop
+Seat 3: Hero (small blind) showed [Ad Js] and lost with a pair of Kings
+Seat 4: acbffaa (big blind) folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941839: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level11(700/1,400(200)) - 2026/02/25 05:27:22
+Table '392' 8-max Seat #1 is the button
+Seat 1: 1ffc0e9f (28,740 in chips)
+Seat 2: f84c0177 (37,833 in chips)
+Seat 3: Hero (37,091 in chips)
+Seat 4: acbffaa (29,707 in chips)
+Seat 5: db51ece5 (39,799 in chips)
+Seat 6: 9f03c4a9 (105,712 in chips)
+Seat 7: 46f81c88 (45,240 in chips)
+Seat 8: ee868774 (62,698 in chips)
+f84c0177: posts the ante 200
+ee868774: posts the ante 200
+46f81c88: posts the ante 200
+Hero: posts the ante 200
+9f03c4a9: posts the ante 200
+1ffc0e9f: posts the ante 200
+db51ece5: posts the ante 200
+acbffaa: posts the ante 200
+f84c0177: posts small blind 700
+Hero: posts big blind 1,400
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [7d 6c]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: raises 1,400 to 2,800
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: calls 2,100
+Hero: calls 1,400
+*** FLOP *** [8c 8s 5c]
+f84c0177: checks
+Hero: checks
+9f03c4a9: bets 2,800
+f84c0177: folds
+Hero: calls 2,800
+*** TURN *** [8c 8s 5c] [Kd]
+Hero: checks
+9f03c4a9: checks
+*** RIVER *** [8c 8s 5c Kd] [Jh]
+Hero: checks
+9f03c4a9: checks
+Hero: shows [7d 6c] (a pair of Eights)
+9f03c4a9: shows [As 9h] (a pair of Eights)
+*** SHOWDOWN ***
+9f03c4a9 collected 15,600 from pot
+*** SUMMARY ***
+Total pot 15,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 8s 5c Kd Jh]
+Seat 1: 1ffc0e9f (button) folded before Flop
+Seat 2: f84c0177 (small blind) folded on the Flop
+Seat 3: Hero (big blind) showed [7d 6c] and lost with a pair of Eights
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 showed [As 9h] and won (15,600) with a pair of Eights
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941787: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level11(700/1,400(200)) - 2026/02/25 05:26:19
+Table '392' 8-max Seat #8 is the button
+Seat 1: 1ffc0e9f (29,640 in chips)
+Seat 2: f84c0177 (39,433 in chips)
+Seat 3: Hero (37,291 in chips)
+Seat 4: acbffaa (39,707 in chips)
+Seat 5: db51ece5 (39,999 in chips)
+Seat 6: 9f03c4a9 (115,712 in chips)
+Seat 7: 46f81c88 (45,440 in chips)
+Seat 8: ee868774 (39,598 in chips)
+f84c0177: posts the ante 200
+ee868774: posts the ante 200
+46f81c88: posts the ante 200
+Hero: posts the ante 200
+9f03c4a9: posts the ante 200
+1ffc0e9f: posts the ante 200
+db51ece5: posts the ante 200
+acbffaa: posts the ante 200
+1ffc0e9f: posts small blind 700
+f84c0177: posts big blind 1,400
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Jd 9h]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+Hero: folds
+acbffaa: raises 1,400 to 2,800
+db51ece5: folds
+9f03c4a9: calls 2,800
+46f81c88: folds
+ee868774: raises 7,000 to 9,800
+1ffc0e9f: folds
+f84c0177: folds
+acbffaa: calls 7,000
+9f03c4a9: calls 7,000
+*** FLOP *** [3h 4c 9c]
+acbffaa: checks
+9f03c4a9: checks
+ee868774: bets 29,598 and is all-in
+acbffaa: folds
+9f03c4a9: folds
+Uncalled bet (29,598) returned to ee868774
+*** SHOWDOWN ***
+ee868774 collected 33,100 from pot
+*** SUMMARY ***
+Total pot 33,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 4c 9c]
+Seat 1: 1ffc0e9f (small blind) folded before Flop
+Seat 2: f84c0177 (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded on the Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 folded on the Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 (button) won (33,100)
+
+
+Poker Hand #TM5629941738: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:25:23
+Table '392' 8-max Seat #7 is the button
+Seat 1: 1ffc0e9f (23,122 in chips)
+Seat 2: f84c0177 (44,271 in chips)
+Seat 3: Hero (37,471 in chips)
+Seat 4: acbffaa (39,887 in chips)
+Seat 5: db51ece5 (40,179 in chips)
+Seat 6: 9f03c4a9 (115,892 in chips)
+Seat 7: 46f81c88 (45,620 in chips)
+Seat 8: ee868774 (40,378 in chips)
+f84c0177: posts the ante 180
+46f81c88: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+ee868774: posts small blind 600
+1ffc0e9f: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Qs 2d]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+f84c0177: raises 1,200 to 2,400
+Hero: folds
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: calls 1,200
+*** FLOP *** [Jc Js 7d]
+1ffc0e9f: checks
+f84c0177: bets 2,258
+1ffc0e9f: calls 2,258
+*** TURN *** [Jc Js 7d] [4h]
+1ffc0e9f: checks
+f84c0177: checks
+*** RIVER *** [Jc Js 7d 4h] [9c]
+1ffc0e9f: bets 11,356
+f84c0177: folds
+Uncalled bet (11,356) returned to 1ffc0e9f
+*** SHOWDOWN ***
+1ffc0e9f collected 11,356 from pot
+*** SUMMARY ***
+Total pot 11,356 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Js 7d 4h 9c]
+Seat 1: 1ffc0e9f (big blind) won (11,356)
+Seat 2: f84c0177 folded on the River
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 (button) folded before Flop
+Seat 8: ee868774 (small blind) folded before Flop
+
+
+Poker Hand #TM5629941700: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:24:29
+Table '392' 8-max Seat #6 is the button
+Seat 1: 1ffc0e9f (23,302 in chips)
+Seat 2: f84c0177 (44,451 in chips)
+Seat 3: Hero (37,651 in chips)
+Seat 4: acbffaa (40,067 in chips)
+Seat 5: db51ece5 (40,359 in chips)
+Seat 6: 9f03c4a9 (116,072 in chips)
+Seat 7: 46f81c88 (41,960 in chips)
+Seat 8: ee868774 (42,958 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+46f81c88: posts small blind 600
+ee868774: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [4h Qs]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+1ffc0e9f: folds
+f84c0177: folds
+Hero: folds
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: raises 1,200 to 2,400
+ee868774: calls 1,200
+*** FLOP *** [Qd Kd 3h]
+46f81c88: checks
+ee868774: checks
+*** TURN *** [Qd Kd 3h] [6h]
+46f81c88: checks
+ee868774: checks
+*** RIVER *** [Qd Kd 3h 6h] [Js]
+46f81c88: checks
+ee868774: checks
+46f81c88: shows [8c Ah] (Ace high)
+ee868774: shows [5c 8s] (King high)
+*** SHOWDOWN ***
+46f81c88 collected 6,240 from pot
+*** SUMMARY ***
+Total pot 6,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Kd 3h 6h Js]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 (button) folded before Flop
+Seat 7: 46f81c88 (small blind) showed [8c Ah] and won (6,240) with Ace high
+Seat 8: ee868774 (big blind) showed [5c 8s] and lost with King high
+
+
+Poker Hand #TM5629941652: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:23:32
+Table '392' 8-max Seat #5 is the button
+Seat 1: 1ffc0e9f (31,320 in chips)
+Seat 2: f84c0177 (44,631 in chips)
+Seat 3: Hero (37,831 in chips)
+Seat 4: acbffaa (43,847 in chips)
+Seat 5: db51ece5 (40,539 in chips)
+Seat 6: 9f03c4a9 (116,852 in chips)
+Seat 7: 46f81c88 (28,662 in chips)
+Seat 8: ee868774 (43,138 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+9f03c4a9: posts small blind 600
+46f81c88: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Ks 9c]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+ee868774: folds
+1ffc0e9f: raises 2,400 to 3,600
+f84c0177: folds
+Hero: folds
+acbffaa: calls 3,600
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: calls 2,400
+*** FLOP *** [Th 7d 3h]
+46f81c88: checks
+1ffc0e9f: bets 4,238
+acbffaa: folds
+46f81c88: calls 4,238
+*** TURN *** [Th 7d 3h] [As]
+46f81c88: bets 8,400
+1ffc0e9f: folds
+Uncalled bet (8,400) returned to 46f81c88
+*** SHOWDOWN ***
+46f81c88 collected 21,316 from pot
+*** SUMMARY ***
+Total pot 21,316 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 7d 3h As]
+Seat 1: 1ffc0e9f folded on the Turn
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded on the Flop
+Seat 5: db51ece5 (button) folded before Flop
+Seat 6: 9f03c4a9 (small blind) folded before Flop
+Seat 7: 46f81c88 (big blind) won (21,316)
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941600: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:22:35
+Table '392' 8-max Seat #4 is the button
+Seat 1: 1ffc0e9f (31,500 in chips)
+Seat 2: f84c0177 (44,811 in chips)
+Seat 3: Hero (31,313 in chips)
+Seat 4: acbffaa (44,027 in chips)
+Seat 5: db51ece5 (41,319 in chips)
+Seat 6: 9f03c4a9 (121,690 in chips)
+Seat 7: 46f81c88 (28,842 in chips)
+Seat 8: ee868774 (43,318 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+db51ece5: posts small blind 600
+9f03c4a9: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Td 9d]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: raises 1,200 to 2,400
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: calls 1,200
+*** FLOP *** [6c Kd Tc]
+9f03c4a9: checks
+Hero: bets 2,258
+9f03c4a9: calls 2,258
+*** TURN *** [6c Kd Tc] [4c]
+9f03c4a9: checks
+Hero: checks
+*** RIVER *** [6c Kd Tc 4c] [9h]
+9f03c4a9: checks
+Hero: bets 8,517
+9f03c4a9: folds
+Uncalled bet (8,517) returned to Hero
+*** SHOWDOWN ***
+Hero collected 11,356 from pot
+*** SUMMARY ***
+Total pot 11,356 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Kd Tc 4c 9h]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero won (11,356)
+Seat 4: acbffaa (button) folded before Flop
+Seat 5: db51ece5 (small blind) folded before Flop
+Seat 6: 9f03c4a9 (big blind) folded on the River
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941552: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:21:43
+Table '392' 8-max Seat #3 is the button
+Seat 1: 1ffc0e9f (31,680 in chips)
+Seat 2: f84c0177 (44,991 in chips)
+Seat 3: Hero (27,053 in chips)
+Seat 4: acbffaa (44,807 in chips)
+Seat 5: db51ece5 (43,899 in chips)
+Seat 6: 9f03c4a9 (121,870 in chips)
+Seat 7: 46f81c88 (29,022 in chips)
+Seat 8: ee868774 (43,498 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+acbffaa: posts small blind 600
+db51ece5: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Jc Ad]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+9f03c4a9: folds
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: raises 1,200 to 2,400
+acbffaa: folds
+db51ece5: calls 1,200
+*** FLOP *** [7h Jh 5s]
+db51ece5: checks
+Hero: bets 2,258
+db51ece5: folds
+Uncalled bet (2,258) returned to Hero
+*** SHOWDOWN ***
+Hero collected 6,840 from pot
+*** SUMMARY ***
+Total pot 6,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Jh 5s]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero (button) won (6,840)
+Seat 4: acbffaa (small blind) folded before Flop
+Seat 5: db51ece5 (big blind) folded on the Flop
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941501: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:20:51
+Table '392' 8-max Seat #2 is the button
+Seat 1: 1ffc0e9f (31,860 in chips)
+Seat 2: f84c0177 (45,171 in chips)
+Seat 3: Hero (40,810 in chips)
+Seat 4: acbffaa (29,970 in chips)
+Seat 5: db51ece5 (44,079 in chips)
+Seat 6: 9f03c4a9 (122,050 in chips)
+Seat 7: 46f81c88 (29,202 in chips)
+Seat 8: ee868774 (43,678 in chips)
+f84c0177: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+Hero: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+Hero: posts small blind 600
+acbffaa: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [7d 9s]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: raises 1,200 to 2,400
+acbffaa: calls 1,200
+*** FLOP *** [4d 2c Jc]
+Hero: bets 2,060
+acbffaa: calls 2,060
+*** TURN *** [4d 2c Jc] [7s]
+Hero: checks
+acbffaa: checks
+*** RIVER *** [4d 2c Jc 7s] [3c]
+Hero: checks
+acbffaa: bets 9,117
+Hero: calls 9,117
+acbffaa: shows [6s 5d] (a straight, Seven to Three)
+Hero: shows [7d 9s] (a pair of Sevens)
+*** SHOWDOWN ***
+acbffaa collected 28,594 from pot
+*** SUMMARY ***
+Total pot 28,594 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 2c Jc 7s 3c]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 (button) folded before Flop
+Seat 3: Hero (small blind) showed [7d 9s] and lost with a pair of Sevens
+Seat 4: acbffaa (big blind) showed [6s 5d] and won (28,594) with a straight, Seven to Three
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941480: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:20:30
+Table '392' 8-max Seat #1 is the button
+Seat 1: 1ffc0e9f (32,040 in chips)
+Seat 2: f84c0177 (45,951 in chips)
+Seat 3: Hero (42,190 in chips)
+Seat 4: acbffaa (30,150 in chips)
+Seat 5: db51ece5 (41,019 in chips)
+Seat 6: 9f03c4a9 (122,230 in chips)
+Seat 7: 46f81c88 (29,382 in chips)
+Seat 8: ee868774 (43,858 in chips)
+f84c0177: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+Hero: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+f84c0177: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [7s 2h]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+acbffaa: folds
+db51ece5: raises 1,200 to 2,400
+9f03c4a9: folds
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: folds
+Uncalled bet (1,200) returned to db51ece5
+*** SHOWDOWN ***
+db51ece5 collected 4,440 from pot
+*** SUMMARY ***
+Total pot 4,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 1ffc0e9f (button) folded before Flop
+Seat 2: f84c0177 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 collected (4,440)
+Seat 6: 9f03c4a9 folded before Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941416: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:19:18
+Table '392' 8-max Seat #8 is the button
+Seat 1: 1ffc0e9f (34,620 in chips)
+Seat 2: f84c0177 (55,251 in chips)
+Seat 3: Hero (27,010 in chips)
+Seat 4: acbffaa (30,330 in chips)
+Seat 5: db51ece5 (41,199 in chips)
+Seat 6: 9f03c4a9 (124,810 in chips)
+Seat 7: 46f81c88 (29,562 in chips)
+Seat 8: ee868774 (44,038 in chips)
+f84c0177: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+Hero: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+1ffc0e9f: posts small blind 600
+f84c0177: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [6d 6c]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+Hero: raises 1,200 to 2,400
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: calls 2,400
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: calls 1,800
+f84c0177: calls 1,200
+*** FLOP *** [8c 3d 5c]
+1ffc0e9f: checks
+f84c0177: checks
+Hero: bets 6,720
+9f03c4a9: folds
+1ffc0e9f: folds
+f84c0177: calls 6,720
+*** TURN *** [8c 3d 5c] [5h]
+f84c0177: checks
+Hero: checks
+*** RIVER *** [8c 3d 5c 5h] [As]
+f84c0177: checks
+Hero: checks
+f84c0177: shows [4s 3s] (two pair, Fives and Threes)
+Hero: shows [6d 6c] (two pair, Sixes and Fives)
+*** SHOWDOWN ***
+Hero collected 24,480 from pot
+*** SUMMARY ***
+Total pot 24,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 3d 5c 5h As]
+Seat 1: 1ffc0e9f (small blind) folded on the Flop
+Seat 2: f84c0177 (big blind) showed [4s 3s] and lost with two pair, Fives and Threes
+Seat 3: Hero showed [6d 6c] and won (24,480) with two pair, Sixes and Fives
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 folded on the Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 (button) folded before Flop
+
+
+Poker Hand #TM5629941378: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:18:28
+Table '392' 8-max Seat #7 is the button
+Seat 1: 1ffc0e9f (37,200 in chips)
+Seat 2: f84c0177 (55,431 in chips)
+Seat 3: Hero (27,190 in chips)
+Seat 4: acbffaa (30,510 in chips)
+Seat 5: db51ece5 (41,379 in chips)
+Seat 6: 9f03c4a9 (120,550 in chips)
+Seat 7: 46f81c88 (29,742 in chips)
+Seat 8: ee868774 (44,818 in chips)
+f84c0177: posts the ante 180
+46f81c88: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+ee868774: posts small blind 600
+1ffc0e9f: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [7h Qs]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+f84c0177: folds
+Hero: folds
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: raises 1,200 to 2,400
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: calls 1,200
+*** FLOP *** [Tc Qh 6c]
+1ffc0e9f: checks
+9f03c4a9: bets 4,800
+1ffc0e9f: folds
+Uncalled bet (4,800) returned to 9f03c4a9
+*** SHOWDOWN ***
+9f03c4a9 collected 6,840 from pot
+*** SUMMARY ***
+Total pot 6,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Qh 6c]
+Seat 1: 1ffc0e9f (big blind) folded on the Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 won (6,840)
+Seat 7: 46f81c88 (button) folded before Flop
+Seat 8: ee868774 (small blind) folded before Flop
+
+
+Poker Hand #TM5629941333: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:17:36
+Table '392' 8-max Seat #6 is the button
+Seat 1: 1ffc0e9f (58,769 in chips)
+Seat 2: f84c0177 (55,611 in chips)
+Seat 3: Hero (27,370 in chips)
+Seat 4: acbffaa (30,690 in chips)
+Seat 5: db51ece5 (41,559 in chips)
+Seat 6: 9f03c4a9 (120,730 in chips)
+Seat 7: 46f81c88 (30,522 in chips)
+Seat 8: ee868774 (21,569 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+46f81c88: posts small blind 600
+ee868774: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [5s 7c]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+1ffc0e9f: calls 1,200
+f84c0177: folds
+Hero: folds
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: folds
+46f81c88: folds
+ee868774: raises 20,189 to 21,389 and is all-in
+1ffc0e9f: calls 20,189
+ee868774: shows [4h Ah]
+1ffc0e9f: shows [9s Qc]
+*** FLOP *** [9d 2d 2h]
+*** TURN *** [9d 2d 2h] [As]
+*** RIVER *** [9d 2d 2h As] [3h]
+*** SHOWDOWN ***
+ee868774 collected 44,818 from pot
+*** SUMMARY ***
+Total pot 44,818 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 2d 2h As 3h]
+Seat 1: 1ffc0e9f showed [9s Qc] and lost with two pair, Nines and Twos
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 folded before Flop
+Seat 6: 9f03c4a9 (button) folded before Flop
+Seat 7: 46f81c88 (small blind) folded before Flop
+Seat 8: ee868774 (big blind) showed [4h Ah] and won (44,818) with two pair, Aces and Twos
+
+
+Poker Hand #TM5629941264: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level10(600/1,200(180)) - 2026/02/25 05:16:18
+Table '392' 8-max Seat #5 is the button
+Seat 1: 1ffc0e9f (58,949 in chips)
+Seat 2: f84c0177 (65,250 in chips)
+Seat 3: Hero (27,550 in chips)
+Seat 4: acbffaa (30,870 in chips)
+Seat 5: db51ece5 (29,040 in chips)
+Seat 6: 9f03c4a9 (121,510 in chips)
+Seat 7: 46f81c88 (31,902 in chips)
+Seat 8: ee868774 (21,749 in chips)
+f84c0177: posts the ante 180
+Hero: posts the ante 180
+ee868774: posts the ante 180
+46f81c88: posts the ante 180
+9f03c4a9: posts the ante 180
+1ffc0e9f: posts the ante 180
+db51ece5: posts the ante 180
+acbffaa: posts the ante 180
+9f03c4a9: posts small blind 600
+46f81c88: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [Th 9s]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: raises 1,200 to 2,400
+Hero: folds
+acbffaa: folds
+db51ece5: calls 2,400
+9f03c4a9: folds
+46f81c88: folds
+*** FLOP *** [3c Ac 3d]
+f84c0177: bets 2,654
+db51ece5: calls 2,654
+*** TURN *** [3c Ac 3d] [9h]
+f84c0177: bets 4,405
+db51ece5: calls 4,405
+*** RIVER *** [3c Ac 3d 9h] [5h]
+f84c0177: checks
+db51ece5: checks
+f84c0177: shows [Qc Qh] (two pair, Queens and Threes)
+db51ece5: shows [4s Ah] (two pair, Aces and Threes)
+*** SHOWDOWN ***
+db51ece5 collected 22,158 from pot
+*** SUMMARY ***
+Total pot 22,158 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c Ac 3d 9h 5h]
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 showed [Qc Qh] and lost with two pair, Queens and Threes
+Seat 3: Hero folded before Flop
+Seat 4: acbffaa folded before Flop
+Seat 5: db51ece5 (button) showed [4s Ah] and won (22,158) with two pair, Aces and Threes
+Seat 6: 9f03c4a9 (small blind) folded before Flop
+Seat 7: 46f81c88 (big blind) folded before Flop
+Seat 8: ee868774 folded before Flop
+
+
+Poker Hand #TM5629941245: Tournament #265798446, Bounty Hunters Mini Main $5.40 Hold'em No Limit - Level9(500/1,000(150)) - 2026/02/25 05:15:57
+Table '392' 8-max Seat #4 is the button
+Seat 1: 1ffc0e9f (59,099 in chips)
+Seat 2: f84c0177 (65,400 in chips)
+Seat 3: Hero (25,000 in chips)
+Seat 4: acbffaa (31,020 in chips)
+Seat 5: db51ece5 (29,690 in chips)
+Seat 6: 9f03c4a9 (122,660 in chips)
+Seat 7: 46f81c88 (32,052 in chips)
+Seat 8: ee868774 (21,899 in chips)
+f84c0177: posts the ante 150
+Hero: posts the ante 150
+ee868774: posts the ante 150
+46f81c88: posts the ante 150
+9f03c4a9: posts the ante 150
+1ffc0e9f: posts the ante 150
+db51ece5: posts the ante 150
+acbffaa: posts the ante 150
+db51ece5: posts small blind 500
+9f03c4a9: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to 1ffc0e9f 
+Dealt to f84c0177 
+Dealt to Hero [9c Qs]
+Dealt to acbffaa 
+Dealt to db51ece5 
+Dealt to 9f03c4a9 
+Dealt to 46f81c88 
+Dealt to ee868774 
+46f81c88: folds
+ee868774: folds
+1ffc0e9f: folds
+f84c0177: folds
+Hero: raises 1,000 to 2,000
+acbffaa: folds
+db51ece5: folds
+9f03c4a9: folds
+Uncalled bet (1,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,700 from pot
+*** SUMMARY ***
+Total pot 3,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 1ffc0e9f folded before Flop
+Seat 2: f84c0177 folded before Flop
+Seat 3: Hero collected (3,700)
+Seat 4: acbffaa (button) folded before Flop
+Seat 5: db51ece5 (small blind) folded before Flop
+Seat 6: 9f03c4a9 (big blind) folded before Flop
+Seat 7: 46f81c88 folded before Flop
+Seat 8: ee868774 folded before Flop
+
+

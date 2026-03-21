@@ -1,0 +1,444 @@
+Poker Hand #TM5628458715: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level13(500/1,000(150)) - 2026/02/25 01:47:39
+Table '51' 8-max Seat #4 is the button
+Seat 1: Hero (1,346 in chips)
+Seat 2: db2c372e (38,726 in chips)
+Seat 3: 3a0b65ad (31,680 in chips)
+Seat 4: 2fc04484 (31,964 in chips)
+Seat 5: e9ff8fdf (33,500 in chips)
+Seat 6: 3b7a0ad8 (45,782 in chips)
+Seat 7: f65a5b47 (27,868 in chips)
+Seat 8: 24132d82 (76,020 in chips)
+2fc04484: posts the ante 150
+Hero: posts the ante 150
+24132d82: posts the ante 150
+f65a5b47: posts the ante 150
+db2c372e: posts the ante 150
+e9ff8fdf: posts the ante 150
+3a0b65ad: posts the ante 150
+3b7a0ad8: posts the ante 150
+e9ff8fdf: posts small blind 500
+3b7a0ad8: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Kc 9d]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+f65a5b47: folds
+24132d82: folds
+Hero: raises 196 to 1,196 and is all-in
+db2c372e: folds
+3a0b65ad: folds
+2fc04484: folds
+e9ff8fdf: folds
+3b7a0ad8: calls 196
+Hero: shows [Kc 9d]
+3b7a0ad8: shows [Ad 3h]
+*** FLOP *** [8c 7d 4s]
+*** TURN *** [8c 7d 4s] [8h]
+*** RIVER *** [8c 7d 4s 8h] [6s]
+*** SHOWDOWN ***
+3b7a0ad8 collected 4,092 from pot
+*** SUMMARY ***
+Total pot 4,092 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 7d 4s 8h 6s]
+Seat 1: Hero showed [Kc 9d] and lost with a pair of Eights
+Seat 2: db2c372e folded before Flop
+Seat 3: 3a0b65ad folded before Flop
+Seat 4: 2fc04484 (button) folded before Flop
+Seat 5: e9ff8fdf (small blind) folded before Flop
+Seat 6: 3b7a0ad8 (big blind) showed [Ad 3h] and won (4,092) with a pair of Eights
+Seat 7: f65a5b47 folded before Flop
+Seat 8: 24132d82 folded before Flop
+
+
+Poker Hand #TM5628458682: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level13(500/1,000(150)) - 2026/02/25 01:46:40
+Table '51' 8-max Seat #3 is the button
+Seat 1: Hero (25,090 in chips)
+Seat 2: db2c372e (38,876 in chips)
+Seat 3: 3a0b65ad (9,810 in chips)
+Seat 4: 2fc04484 (32,614 in chips)
+Seat 5: e9ff8fdf (34,650 in chips)
+Seat 6: 3b7a0ad8 (45,932 in chips)
+Seat 7: f65a5b47 (23,744 in chips)
+Seat 8: 24132d82 (76,170 in chips)
+2fc04484: posts the ante 150
+Hero: posts the ante 150
+24132d82: posts the ante 150
+f65a5b47: posts the ante 150
+db2c372e: posts the ante 150
+e9ff8fdf: posts the ante 150
+3a0b65ad: posts the ante 150
+3b7a0ad8: posts the ante 150
+2fc04484: posts small blind 500
+e9ff8fdf: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Jh Qc]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+3b7a0ad8: folds
+f65a5b47: raises 1,000 to 2,000
+24132d82: folds
+Hero: raises 22,940 to 24,940 and is all-in
+db2c372e: folds
+3a0b65ad: calls 9,660 and is all-in
+2fc04484: folds
+e9ff8fdf: folds
+f65a5b47: calls 21,594 and is all-in
+Uncalled bet (1,346) returned to Hero
+Hero: shows [Jh Qc]
+3a0b65ad: shows [Tc Ts]
+f65a5b47: shows [Kh Ac]
+*** FLOP *** [4d 6d 3h]
+*** TURN *** [4d 6d 3h] [8d]
+*** RIVER *** [4d 6d 3h 8d] [Th]
+*** SHOWDOWN ***
+3a0b65ad collected 31,680 from pot
+f65a5b47 collected 27,868 from pot
+*** SUMMARY ***
+Total pot 59,548 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 6d 3h 8d Th]
+Seat 1: Hero showed [Jh Qc] and lost with Queen high
+Seat 2: db2c372e folded before Flop
+Seat 3: 3a0b65ad (button) showed [Tc Ts] and won (31,680) with three of a kind, Tens
+Seat 4: 2fc04484 (small blind) folded before Flop
+Seat 5: e9ff8fdf (big blind) folded before Flop
+Seat 6: 3b7a0ad8 folded before Flop
+Seat 7: f65a5b47 showed [Kh Ac] and won (27,868) with Ace high
+Seat 8: 24132d82 folded before Flop
+
+
+Poker Hand #TM5628458631: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level13(500/1,000(150)) - 2026/02/25 01:45:21
+Table '51' 8-max Seat #2 is the button
+Seat 1: Hero (25,240 in chips)
+Seat 2: db2c372e (17,738 in chips)
+Seat 3: 3a0b65ad (10,460 in chips)
+Seat 4: 2fc04484 (33,764 in chips)
+Seat 5: e9ff8fdf (35,800 in chips)
+Seat 6: 3b7a0ad8 (46,082 in chips)
+Seat 7: f65a5b47 (41,482 in chips)
+Seat 8: 24132d82 (76,320 in chips)
+2fc04484: posts the ante 150
+Hero: posts the ante 150
+24132d82: posts the ante 150
+f65a5b47: posts the ante 150
+db2c372e: posts the ante 150
+e9ff8fdf: posts the ante 150
+3b7a0ad8: posts the ante 150
+3a0b65ad: posts the ante 150
+3a0b65ad: posts small blind 500
+2fc04484: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Ks 4c]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+e9ff8fdf: calls 1,000
+3b7a0ad8: folds
+f65a5b47: raises 2,000 to 3,000
+24132d82: folds
+Hero: folds
+db2c372e: raises 14,588 to 17,588 and is all-in
+3a0b65ad: folds
+2fc04484: folds
+e9ff8fdf: folds
+f65a5b47: calls 14,588
+db2c372e: shows [4s As]
+f65a5b47: shows [Kc Kd]
+*** FLOP *** [6s 9s Ah]
+*** TURN *** [6s 9s Ah] [3h]
+*** RIVER *** [6s 9s Ah 3h] [Td]
+*** SHOWDOWN ***
+db2c372e collected 38,876 from pot
+*** SUMMARY ***
+Total pot 38,876 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 9s Ah 3h Td]
+Seat 1: Hero folded before Flop
+Seat 2: db2c372e (button) showed [4s As] and won (38,876) with a pair of Aces
+Seat 3: 3a0b65ad (small blind) folded before Flop
+Seat 4: 2fc04484 (big blind) folded before Flop
+Seat 5: e9ff8fdf folded before Flop
+Seat 6: 3b7a0ad8 folded before Flop
+Seat 7: f65a5b47 showed [Kc Kd] and lost with a pair of Kings
+Seat 8: 24132d82 folded before Flop
+
+
+Poker Hand #TM5628458586: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level12(400/800(120)) - 2026/02/25 01:44:20
+Table '51' 8-max Seat #1 is the button
+Seat 1: Hero (23,200 in chips)
+Seat 2: db2c372e (18,258 in chips)
+Seat 3: 3a0b65ad (11,380 in chips)
+Seat 4: 2fc04484 (33,884 in chips)
+Seat 5: e9ff8fdf (35,920 in chips)
+Seat 6: 3b7a0ad8 (46,202 in chips)
+Seat 7: f65a5b47 (41,602 in chips)
+Seat 8: 24132d82 (76,440 in chips)
+2fc04484: posts the ante 120
+Hero: posts the ante 120
+24132d82: posts the ante 120
+f65a5b47: posts the ante 120
+db2c372e: posts the ante 120
+e9ff8fdf: posts the ante 120
+3b7a0ad8: posts the ante 120
+3a0b65ad: posts the ante 120
+db2c372e: posts small blind 400
+3a0b65ad: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Tc Ad]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+2fc04484: folds
+e9ff8fdf: folds
+3b7a0ad8: folds
+f65a5b47: folds
+24132d82: folds
+Hero: raises 22,280 to 23,080 and is all-in
+db2c372e: folds
+3a0b65ad: folds
+Uncalled bet (22,280) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,960 from pot
+*** SUMMARY ***
+Total pot 2,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) collected (2,960)
+Seat 2: db2c372e (small blind) folded before Flop
+Seat 3: 3a0b65ad (big blind) folded before Flop
+Seat 4: 2fc04484 folded before Flop
+Seat 5: e9ff8fdf folded before Flop
+Seat 6: 3b7a0ad8 folded before Flop
+Seat 7: f65a5b47 folded before Flop
+Seat 8: 24132d82 folded before Flop
+
+
+Poker Hand #TM5628458571: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level12(400/800(120)) - 2026/02/25 01:43:46
+Table '51' 8-max Seat #8 is the button
+Seat 1: Hero (20,760 in chips)
+Seat 2: db2c372e (19,178 in chips)
+Seat 3: 3a0b65ad (11,500 in chips)
+Seat 4: 2fc04484 (34,004 in chips)
+Seat 5: e9ff8fdf (36,040 in chips)
+Seat 6: 3b7a0ad8 (46,322 in chips)
+Seat 7: f65a5b47 (42,522 in chips)
+Seat 8: 24132d82 (76,560 in chips)
+2fc04484: posts the ante 120
+Hero: posts the ante 120
+24132d82: posts the ante 120
+f65a5b47: posts the ante 120
+db2c372e: posts the ante 120
+e9ff8fdf: posts the ante 120
+3b7a0ad8: posts the ante 120
+3a0b65ad: posts the ante 120
+Hero: posts small blind 400
+db2c372e: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [3s Ad]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+3a0b65ad: folds
+2fc04484: folds
+e9ff8fdf: folds
+3b7a0ad8: folds
+f65a5b47: calls 800
+24132d82: folds
+Hero: raises 19,840 to 20,640 and is all-in
+db2c372e: folds
+f65a5b47: folds
+Uncalled bet (19,840) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,360 from pot
+*** SUMMARY ***
+Total pot 3,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) collected (3,360)
+Seat 2: db2c372e (big blind) folded before Flop
+Seat 3: 3a0b65ad folded before Flop
+Seat 4: 2fc04484 folded before Flop
+Seat 5: e9ff8fdf folded before Flop
+Seat 6: 3b7a0ad8 folded before Flop
+Seat 7: f65a5b47 folded before Flop
+Seat 8: 24132d82 (button) folded before Flop
+
+
+Poker Hand #TM5628458549: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level12(400/800(120)) - 2026/02/25 01:43:15
+Table '51' 8-max Seat #7 is the button
+Seat 1: Hero (21,680 in chips)
+Seat 2: db2c372e (19,298 in chips)
+Seat 3: 3a0b65ad (11,620 in chips)
+Seat 4: 2fc04484 (34,124 in chips)
+Seat 5: e9ff8fdf (36,160 in chips)
+Seat 6: 3b7a0ad8 (46,442 in chips)
+Seat 7: f65a5b47 (42,642 in chips)
+Seat 8: 24132d82 (74,920 in chips)
+2fc04484: posts the ante 120
+Hero: posts the ante 120
+f65a5b47: posts the ante 120
+24132d82: posts the ante 120
+db2c372e: posts the ante 120
+e9ff8fdf: posts the ante 120
+3b7a0ad8: posts the ante 120
+3a0b65ad: posts the ante 120
+24132d82: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [5d 3c]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+db2c372e: folds
+3a0b65ad: folds
+2fc04484: folds
+e9ff8fdf: folds
+3b7a0ad8: folds
+f65a5b47: folds
+24132d82: raises 800 to 1,600
+Hero: folds
+Uncalled bet (800) returned to 24132d82
+*** SHOWDOWN ***
+24132d82 collected 2,560 from pot
+*** SUMMARY ***
+Total pot 2,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: db2c372e folded before Flop
+Seat 3: 3a0b65ad folded before Flop
+Seat 4: 2fc04484 folded before Flop
+Seat 5: e9ff8fdf folded before Flop
+Seat 6: 3b7a0ad8 folded before Flop
+Seat 7: f65a5b47 (button) folded before Flop
+Seat 8: 24132d82 (small blind) collected (2,560)
+
+
+Poker Hand #TM5628458508: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level12(400/800(120)) - 2026/02/25 01:42:13
+Table '51' 8-max Seat #6 is the button
+Seat 1: Hero (9,880 in chips)
+Seat 2: db2c372e (19,418 in chips)
+Seat 3: 3a0b65ad (11,740 in chips)
+Seat 4: 2fc04484 (44,004 in chips)
+Seat 5: e9ff8fdf (36,280 in chips)
+Seat 6: 3b7a0ad8 (46,562 in chips)
+Seat 7: f65a5b47 (43,162 in chips)
+Seat 8: 24132d82 (75,840 in chips)
+2fc04484: posts the ante 120
+Hero: posts the ante 120
+24132d82: posts the ante 120
+f65a5b47: posts the ante 120
+db2c372e: posts the ante 120
+e9ff8fdf: posts the ante 120
+3b7a0ad8: posts the ante 120
+3a0b65ad: posts the ante 120
+f65a5b47: posts small blind 400
+24132d82: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [Ad Js]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+Hero: raises 8,960 to 9,760 and is all-in
+db2c372e: folds
+3a0b65ad: folds
+2fc04484: raises 34,124 to 43,884 and is all-in
+e9ff8fdf: folds
+3b7a0ad8: folds
+f65a5b47: folds
+24132d82: folds
+Uncalled bet (34,124) returned to 2fc04484
+2fc04484: shows [8c 8d]
+Hero: shows [Ad Js]
+*** FLOP *** [9h Kd Qh]
+*** TURN *** [9h Kd Qh] [Qc]
+*** RIVER *** [9h Kd Qh Qc] [Jc]
+*** SHOWDOWN ***
+Hero collected 21,680 from pot
+*** SUMMARY ***
+Total pot 21,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Kd Qh Qc Jc]
+Seat 1: Hero showed [Ad Js] and won (21,680) with two pair, Queens and Jacks
+Seat 2: db2c372e folded before Flop
+Seat 3: 3a0b65ad folded before Flop
+Seat 4: 2fc04484 showed [8c 8d] and lost with two pair, Queens and Eights
+Seat 5: e9ff8fdf folded before Flop
+Seat 6: 3b7a0ad8 (button) folded before Flop
+Seat 7: f65a5b47 (small blind) folded before Flop
+Seat 8: 24132d82 (big blind) folded before Flop
+
+
+Poker Hand #TM5628458477: Tournament #265756324, Bounty Hunters Special $2.50 Hold'em No Limit - Level12(400/800(120)) - 2026/02/25 01:41:34
+Table '51' 8-max Seat #5 is the button
+Seat 1: Hero (10,000 in chips)
+Seat 2: db2c372e (19,538 in chips)
+Seat 3: 3a0b65ad (11,860 in chips)
+Seat 4: 2fc04484 (44,124 in chips)
+Seat 5: e9ff8fdf (34,240 in chips)
+Seat 6: 3b7a0ad8 (47,082 in chips)
+Seat 7: f65a5b47 (44,082 in chips)
+Seat 8: 24132d82 (75,960 in chips)
+2fc04484: posts the ante 120
+Hero: posts the ante 120
+24132d82: posts the ante 120
+f65a5b47: posts the ante 120
+db2c372e: posts the ante 120
+e9ff8fdf: posts the ante 120
+3a0b65ad: posts the ante 120
+3b7a0ad8: posts the ante 120
+3b7a0ad8: posts small blind 400
+f65a5b47: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Hero [7s 9d]
+Dealt to db2c372e 
+Dealt to 3a0b65ad 
+Dealt to 2fc04484 
+Dealt to e9ff8fdf 
+Dealt to 3b7a0ad8 
+Dealt to f65a5b47 
+Dealt to 24132d82 
+24132d82: folds
+Hero: folds
+db2c372e: folds
+3a0b65ad: folds
+2fc04484: folds
+e9ff8fdf: raises 1,600 to 2,400
+3b7a0ad8: folds
+f65a5b47: folds
+Uncalled bet (1,600) returned to e9ff8fdf
+*** SHOWDOWN ***
+e9ff8fdf collected 2,960 from pot
+*** SUMMARY ***
+Total pot 2,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: db2c372e folded before Flop
+Seat 3: 3a0b65ad folded before Flop
+Seat 4: 2fc04484 folded before Flop
+Seat 5: e9ff8fdf (button) collected (2,960)
+Seat 6: 3b7a0ad8 (small blind) folded before Flop
+Seat 7: f65a5b47 (big blind) folded before Flop
+Seat 8: 24132d82 folded before Flop
+
+

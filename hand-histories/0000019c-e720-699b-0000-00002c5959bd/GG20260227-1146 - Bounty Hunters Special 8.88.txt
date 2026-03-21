@@ -1,0 +1,132 @@
+Poker Hand #TM5639810537: Tournament #266392558, Bounty Hunters Special $8.88 Hold'em No Limit - Level9(200/400(60)) - 2026/02/27 22:48:03
+Table '28' 8-max Seat #8 is the button
+Seat 1: c284adc (43,113 in chips)
+Seat 2: c5f744c1 (26,834 in chips)
+Seat 3: 84e8ab94 (9,140 in chips)
+Seat 4: 52cb9503 (40,596 in chips)
+Seat 5: Hero (9,940 in chips)
+Seat 6: cba32fb3 (14,158 in chips)
+Seat 7: e30aa81e (8,894 in chips)
+Seat 8: c05cc423 (20,434 in chips)
+84e8ab94: posts the ante 60
+Hero: posts the ante 60
+52cb9503: posts the ante 60
+c05cc423: posts the ante 60
+c284adc: posts the ante 60
+cba32fb3: posts the ante 60
+c5f744c1: posts the ante 60
+e30aa81e: posts the ante 60
+c284adc: posts small blind 200
+c5f744c1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to c284adc 
+Dealt to c5f744c1 
+Dealt to 84e8ab94 
+Dealt to 52cb9503 
+Dealt to Hero [Kd Qh]
+Dealt to cba32fb3 
+Dealt to e30aa81e 
+Dealt to c05cc423 
+84e8ab94: calls 400
+52cb9503: folds
+Hero: raises 400 to 800
+cba32fb3: raises 1,600 to 2,400
+e30aa81e: folds
+c05cc423: folds
+c284adc: calls 2,200
+c5f744c1: folds
+84e8ab94: folds
+Hero: calls 1,600
+*** FLOP *** [Jd 4d Td]
+c284adc: checks
+Hero: checks
+cba32fb3: bets 11,698 and is all-in
+c284adc: calls 11,698
+Hero: calls 7,480 and is all-in
+cba32fb3: shows [Ah Js] (a pair of Jacks)
+c284adc: shows [Th 9d] (a pair of Tens)
+Hero: shows [Kd Qh] (King high)
+*** TURN *** [Jd 4d Td] [2h]
+*** RIVER *** [Jd 4d Td 2h] [8h]
+*** SHOWDOWN ***
+cba32fb3 collected 30,920 from pot
+cba32fb3 collected 8,436 from pot
+*** SUMMARY ***
+Total pot 39,356 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 4d Td 2h 8h]
+Seat 1: c284adc (small blind) showed [Th 9d] and lost with a pair of Tens
+Seat 2: c5f744c1 (big blind) folded before Flop
+Seat 3: 84e8ab94 folded before Flop
+Seat 4: 52cb9503 folded before Flop
+Seat 5: Hero showed [Kd Qh] and lost with King high
+Seat 6: cba32fb3 showed [Ah Js] and won (39,356) with a pair of Jacks
+Seat 7: e30aa81e folded before Flop
+Seat 8: c05cc423 (button) folded before Flop
+
+
+Poker Hand #TM5639810495: Tournament #266392558, Bounty Hunters Special $8.88 Hold'em No Limit - Level9(200/400(60)) - 2026/02/27 22:46:24
+Table '28' 8-max Seat #7 is the button
+Seat 1: c284adc (55,850 in chips)
+Seat 2: c5f744c1 (12,737 in chips)
+Seat 3: 84e8ab94 (10,000 in chips)
+Seat 4: 52cb9503 (40,656 in chips)
+Seat 5: Hero (10,000 in chips)
+Seat 6: cba32fb3 (14,218 in chips)
+Seat 7: e30aa81e (8,954 in chips)
+Seat 8: c05cc423 (20,694 in chips)
+84e8ab94: posts the ante 60
+Hero: posts the ante 60
+52cb9503: posts the ante 60
+c284adc: posts the ante 60
+c05cc423: posts the ante 60
+cba32fb3: posts the ante 60
+c5f744c1: posts the ante 60
+e30aa81e: posts the ante 60
+c05cc423: posts small blind 200
+c284adc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to c284adc 
+Dealt to c5f744c1 
+Dealt to 84e8ab94 
+Dealt to 52cb9503 
+Dealt to Hero [5d Jd]
+Dealt to cba32fb3 
+Dealt to e30aa81e 
+Dealt to c05cc423 
+c5f744c1: raises 400 to 800
+84e8ab94: calls 800
+52cb9503: folds
+Hero: folds
+cba32fb3: folds
+e30aa81e: folds
+c05cc423: folds
+c284adc: calls 400
+*** FLOP *** [8c Qh 3c]
+c284adc: checks
+c5f744c1: bets 2,033
+84e8ab94: folds
+c284adc: calls 2,033
+*** TURN *** [8c Qh 3c] [Qc]
+c284adc: checks
+c5f744c1: checks
+*** RIVER *** [8c Qh 3c Qc] [8s]
+c284adc: bets 2,359
+c5f744c1: raises 7,485 to 9,844 and is all-in
+c284adc: calls 7,485
+c5f744c1: shows [Qs As] (a full house, Queens full of Eights)
+c284adc: shows [Js 8d] (a full house, Eights full of Queens)
+*** SHOWDOWN ***
+c5f744c1 collected 26,834 from pot
+*** SUMMARY ***
+Total pot 26,834 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Qh 3c Qc 8s]
+Seat 1: c284adc (big blind) showed [Js 8d] and lost with a full house, Eights full of Queens
+Seat 2: c5f744c1 showed [Qs As] and won (26,834) with a full house, Queens full of Eights
+Seat 3: 84e8ab94 folded on the Flop
+Seat 4: 52cb9503 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: cba32fb3 folded before Flop
+Seat 7: e30aa81e (button) folded before Flop
+Seat 8: c05cc423 (small blind) folded before Flop
+
+

@@ -1,0 +1,129 @@
+Poker Hand #TM5599880477: Tournament #264038935, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level5(800/1,600(250)) - 2026/02/17 12:28:44
+Table '84' 8-max Seat #4 is the button
+Seat 1: Hero (99,750 in chips)
+Seat 2: f59e7e53 (158,490 in chips)
+Seat 3: 8134b22 (194,588 in chips)
+Seat 4: bd43b4db (254,750 in chips)
+Seat 5: 63b1c426 (142,735 in chips)
+Seat 6: 19abf47a (120,980 in chips)
+Seat 7: 360bdb0b (101,520 in chips)
+Seat 8: 64fa306c (110,573 in chips)
+360bdb0b: posts the ante 250
+19abf47a: posts the ante 250
+64fa306c: posts the ante 250
+Hero: posts the ante 250
+f59e7e53: posts the ante 250
+63b1c426: posts the ante 250
+8134b22: posts the ante 250
+bd43b4db: posts the ante 250
+63b1c426: posts small blind 800
+19abf47a: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to Hero [Ks Kc]
+Dealt to f59e7e53 
+Dealt to 8134b22 
+Dealt to bd43b4db 
+Dealt to 63b1c426 
+Dealt to 19abf47a 
+Dealt to 360bdb0b 
+Dealt to 64fa306c 
+360bdb0b: folds
+64fa306c: folds
+Hero: raises 1,600 to 3,200
+f59e7e53: folds
+8134b22: folds
+bd43b4db: folds
+63b1c426: calls 2,400
+19abf47a: calls 1,600
+*** FLOP *** [2h 9d 8h]
+63b1c426: checks
+19abf47a: checks
+Hero: bets 5,800
+63b1c426: raises 23,800 to 29,600
+19abf47a: folds
+Hero: calls 23,800
+*** TURN *** [2h 9d 8h] [Jd]
+63b1c426: bets 71,200
+Hero: calls 66,700 and is all-in
+Uncalled bet (4,500) returned to 63b1c426
+63b1c426: shows [2c 2d] (three of a kind, Twos)
+Hero: shows [Ks Kc] (a pair of Kings)
+*** RIVER *** [2h 9d 8h Jd] [4d]
+*** SHOWDOWN ***
+63b1c426 collected 204,200 from pot
+*** SUMMARY ***
+Total pot 204,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 9d 8h Jd 4d]
+Seat 1: Hero showed [Ks Kc] and lost with a pair of Kings
+Seat 2: f59e7e53 folded before Flop
+Seat 3: 8134b22 folded before Flop
+Seat 4: bd43b4db (button) folded before Flop
+Seat 5: 63b1c426 (small blind) showed [2c 2d] and won (204,200) with three of a kind, Twos
+Seat 6: 19abf47a (big blind) folded on the Flop
+Seat 7: 360bdb0b folded before Flop
+Seat 8: 64fa306c folded before Flop
+
+
+Poker Hand #TM5599880462: Tournament #264038935, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level5(800/1,600(250)) - 2026/02/17 12:28:07
+Table '84' 8-max Seat #3 is the button
+Seat 1: Hero (100,000 in chips)
+Seat 2: f59e7e53 (158,740 in chips)
+Seat 3: 8134b22 (194,838 in chips)
+Seat 4: bd43b4db (255,800 in chips)
+Seat 5: 63b1c426 (135,385 in chips)
+Seat 6: 19abf47a (126,030 in chips)
+Seat 7: 360bdb0b (101,770 in chips)
+Seat 8: 64fa306c (110,823 in chips)
+360bdb0b: posts the ante 250
+19abf47a: posts the ante 250
+64fa306c: posts the ante 250
+Hero: posts the ante 250
+f59e7e53: posts the ante 250
+63b1c426: posts the ante 250
+8134b22: posts the ante 250
+bd43b4db: posts the ante 250
+bd43b4db: posts small blind 800
+63b1c426: posts big blind 1,600
+*** HOLE CARDS ***
+Dealt to Hero [3s 8c]
+Dealt to f59e7e53 
+Dealt to 8134b22 
+Dealt to bd43b4db 
+Dealt to 63b1c426 
+Dealt to 19abf47a 
+Dealt to 360bdb0b 
+Dealt to 64fa306c 
+19abf47a: raises 1,600 to 3,200
+360bdb0b: folds
+64fa306c: folds
+Hero: folds
+f59e7e53: folds
+8134b22: folds
+bd43b4db: folds
+63b1c426: calls 1,600
+*** FLOP *** [Qc 2s Jc]
+63b1c426: checks
+19abf47a: checks
+*** TURN *** [Qc 2s Jc] [Ks]
+63b1c426: checks
+19abf47a: checks
+*** RIVER *** [Qc 2s Jc Ks] [Jd]
+63b1c426: bets 1,600
+19abf47a: calls 1,600
+63b1c426: shows [Kc 4c] (two pair, Kings and Jacks)
+19abf47a: shows [7d 7h] (two pair, Jacks and Sevens)
+*** SHOWDOWN ***
+63b1c426 collected 12,400 from pot
+*** SUMMARY ***
+Total pot 12,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 2s Jc Ks Jd]
+Seat 1: Hero folded before Flop
+Seat 2: f59e7e53 folded before Flop
+Seat 3: 8134b22 (button) folded before Flop
+Seat 4: bd43b4db (small blind) folded before Flop
+Seat 5: 63b1c426 (big blind) showed [Kc 4c] and won (12,400) with two pair, Kings and Jacks
+Seat 6: 19abf47a showed [7d 7h] and lost with two pair, Jacks and Sevens
+Seat 7: 360bdb0b folded before Flop
+Seat 8: 64fa306c folded before Flop
+
+

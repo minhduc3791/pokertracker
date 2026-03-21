@@ -1,0 +1,1579 @@
+Poker Hand #TM5624284490: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level5(100/200(25)) - 2026/02/23 17:19:20
+Table '10' 8-max Seat #3 is the button
+Seat 1: 8ab88bd7 (10,299 in chips)
+Seat 2: 25330222 (4,176 in chips)
+Seat 3: f2510ea7 (11,177 in chips)
+Seat 4: 58ac57a8 (24,773 in chips)
+Seat 5: cfc84332 (17,256 in chips)
+Seat 6: Hero (7,938 in chips)
+Seat 7: 3bfc238a (7,799 in chips)
+58ac57a8: posts the ante 25
+Hero: posts the ante 25
+8ab88bd7: posts the ante 25
+cfc84332: posts the ante 25
+f2510ea7: posts the ante 25
+25330222: posts the ante 25
+3bfc238a: posts the ante 25
+58ac57a8: posts small blind 100
+cfc84332: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to 25330222 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [6h 6s]
+Dealt to 3bfc238a 
+Hero: raises 200 to 400
+3bfc238a: calls 400
+8ab88bd7: folds
+25330222: folds
+f2510ea7: calls 400
+58ac57a8: folds
+cfc84332: calls 200
+*** FLOP *** [7d 7s Td]
+cfc84332: checks
+Hero: checks
+3bfc238a: checks
+f2510ea7: bets 619
+cfc84332: folds
+Hero: calls 619
+3bfc238a: folds
+*** TURN *** [7d 7s Td] [2c]
+Hero: checks
+f2510ea7: bets 900
+Hero: calls 900
+*** RIVER *** [7d 7s Td 2c] [8c]
+Hero: checks
+f2510ea7: bets 7,370
+Hero: calls 5,994 and is all-in
+Uncalled bet (1,376) returned to f2510ea7
+f2510ea7: shows [8s 8h] (a full house, Eights full of Sevens)
+Hero: shows [6h 6s] (two pair, Sevens and Sixes)
+*** SHOWDOWN ***
+f2510ea7 collected 16,901 from pot
+*** SUMMARY ***
+Total pot 16,901 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 7s Td 2c 8c]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: 25330222 folded before Flop
+Seat 3: f2510ea7 (button) showed [8s 8h] and won (16,901) with a full house, Eights full of Sevens
+Seat 4: 58ac57a8 (small blind) folded before Flop
+Seat 5: cfc84332 (big blind) folded on the Flop
+Seat 6: Hero showed [6h 6s] and lost with two pair, Sevens and Sixes
+Seat 7: 3bfc238a folded on the Flop
+
+
+Poker Hand #TM5624284481: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level5(100/200(25)) - 2026/02/23 17:18:39
+Table '10' 8-max Seat #1 is the button
+Seat 1: 8ab88bd7 (9,326 in chips)
+Seat 3: f2510ea7 (11,302 in chips)
+Seat 4: 58ac57a8 (25,521 in chips)
+Seat 5: cfc84332 (17,281 in chips)
+Seat 6: Hero (7,963 in chips)
+Seat 7: 3bfc238a (7,824 in chips)
+Seat 8: e651773a (8,723 in chips)
+58ac57a8: posts the ante 25
+Hero: posts the ante 25
+8ab88bd7: posts the ante 25
+cfc84332: posts the ante 25
+e651773a: posts the ante 25
+3bfc238a: posts the ante 25
+f2510ea7: posts the ante 25
+f2510ea7: posts small blind 100
+58ac57a8: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Qh Tc]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: raises 200 to 400
+f2510ea7: folds
+58ac57a8: calls 200
+*** FLOP *** [Jc 5h 6c]
+58ac57a8: checks
+8ab88bd7: bets 323
+58ac57a8: calls 323
+*** TURN *** [Jc 5h 6c] [Jd]
+58ac57a8: checks
+8ab88bd7: bets 1,000
+58ac57a8: folds
+Uncalled bet (1,000) returned to 8ab88bd7
+*** SHOWDOWN ***
+8ab88bd7 collected 1,721 from pot
+*** SUMMARY ***
+Total pot 1,721 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 5h 6c Jd]
+Seat 1: 8ab88bd7 (button) won (1,721)
+Seat 3: f2510ea7 (small blind) folded before Flop
+Seat 4: 58ac57a8 (big blind) folded on the Turn
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284468: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:17:26
+Table '10' 8-max Seat #8 is the button
+Seat 1: 8ab88bd7 (9,419 in chips)
+Seat 3: f2510ea7 (10,056 in chips)
+Seat 4: 58ac57a8 (25,539 in chips)
+Seat 5: cfc84332 (17,299 in chips)
+Seat 6: Hero (7,981 in chips)
+Seat 7: 3bfc238a (8,905 in chips)
+Seat 8: e651773a (8,741 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+8ab88bd7: posts small blind 75
+f2510ea7: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Th 8c]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+58ac57a8: folds
+cfc84332: folds
+Hero: folds
+3bfc238a: raises 150 to 300
+e651773a: folds
+8ab88bd7: folds
+f2510ea7: calls 150
+*** FLOP *** [Kh 4s Ks]
+f2510ea7: checks
+3bfc238a: checks
+*** TURN *** [Kh 4s Ks] [9d]
+f2510ea7: bets 375
+3bfc238a: calls 375
+*** RIVER *** [Kh 4s Ks 9d] [Qs]
+f2510ea7: bets 388
+3bfc238a: calls 388
+f2510ea7: shows [9h 6h] (two pair, Kings and Nines)
+3bfc238a: shows [Ac 3s] (a pair of Kings)
+*** SHOWDOWN ***
+f2510ea7 collected 2,327 from pot
+*** SUMMARY ***
+Total pot 2,327 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 4s Ks 9d Qs]
+Seat 1: 8ab88bd7 (small blind) folded before Flop
+Seat 3: f2510ea7 (big blind) showed [9h 6h] and won (2,327) with two pair, Kings and Nines
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a showed [Ac 3s] and lost with a pair of Kings
+Seat 8: e651773a (button) folded before Flop
+
+
+Poker Hand #TM5624284458: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:16:15
+Table '10' 8-max Seat #7 is the button
+Seat 1: 8ab88bd7 (9,587 in chips)
+Seat 2: bffe0b6b (11,022 in chips)
+Seat 3: f2510ea7 (10,074 in chips)
+Seat 4: 58ac57a8 (25,557 in chips)
+Seat 5: cfc84332 (17,617 in chips)
+Seat 6: Hero (7,999 in chips)
+Seat 7: 3bfc238a (8,923 in chips)
+Seat 8: e651773a (7,865 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+bffe0b6b: posts the ante 18
+e651773a: posts small blind 75
+8ab88bd7: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Ts 9h]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+bffe0b6b: raises 150 to 300
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: calls 300
+Hero: folds
+3bfc238a: folds
+e651773a: raises 7,547 to 7,847 and is all-in
+8ab88bd7: folds
+bffe0b6b: folds
+cfc84332: folds
+Uncalled bet (7,547) returned to e651773a
+*** SHOWDOWN ***
+e651773a collected 1,194 from pot
+*** SUMMARY ***
+Total pot 1,194 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 (big blind) folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a (button) folded before Flop
+Seat 8: e651773a (small blind) collected (1,194)
+
+
+Poker Hand #TM5624284445: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:15:00
+Table '10' 8-max Seat #6 is the button
+Seat 1: 8ab88bd7 (9,605 in chips)
+Seat 2: bffe0b6b (11,040 in chips)
+Seat 3: f2510ea7 (10,092 in chips)
+Seat 4: 58ac57a8 (26,193 in chips)
+Seat 5: cfc84332 (14,362 in chips)
+Seat 6: Hero (10,303 in chips)
+Seat 7: 3bfc238a (9,016 in chips)
+Seat 8: e651773a (8,033 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+f2510ea7: posts the ante 18
+3bfc238a: posts the ante 18
+bffe0b6b: posts the ante 18
+3bfc238a: posts small blind 75
+e651773a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [4h Qh]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: raises 150 to 300
+cfc84332: calls 300
+Hero: calls 300
+3bfc238a: folds
+e651773a: folds
+*** FLOP *** [2c 9h Ah]
+58ac57a8: bets 318
+cfc84332: calls 318
+Hero: calls 318
+*** TURN *** [2c 9h Ah] [Td]
+58ac57a8: checks
+cfc84332: bets 1,668
+Hero: calls 1,668
+58ac57a8: folds
+*** RIVER *** [2c 9h Ah Td] [7s]
+cfc84332: bets 12,058 and is all-in
+Hero: folds
+Uncalled bet (12,058) returned to cfc84332
+*** SHOWDOWN ***
+cfc84332 collected 5,559 from pot
+*** SUMMARY ***
+Total pot 5,559 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 9h Ah Td 7s]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded on the Turn
+Seat 5: cfc84332 won (5,559)
+Seat 6: Hero (button) folded on the River
+Seat 7: 3bfc238a (small blind) folded before Flop
+Seat 8: e651773a (big blind) folded before Flop
+
+
+Poker Hand #TM5624284435: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:14:22
+Table '10' 8-max Seat #5 is the button
+Seat 1: 8ab88bd7 (9,623 in chips)
+Seat 2: bffe0b6b (11,358 in chips)
+Seat 3: f2510ea7 (9,441 in chips)
+Seat 4: 58ac57a8 (26,211 in chips)
+Seat 5: cfc84332 (14,380 in chips)
+Seat 6: Hero (10,396 in chips)
+Seat 7: 3bfc238a (9,184 in chips)
+Seat 8: e651773a (8,051 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+f2510ea7: posts the ante 18
+3bfc238a: posts the ante 18
+bffe0b6b: posts the ante 18
+Hero: posts small blind 75
+3bfc238a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [8d 6c]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: raises 150 to 300
+f2510ea7: raises 675 to 975
+58ac57a8: folds
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+bffe0b6b: folds
+Uncalled bet (675) returned to f2510ea7
+*** SHOWDOWN ***
+f2510ea7 collected 969 from pot
+*** SUMMARY ***
+Total pot 969 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 collected (969)
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 3bfc238a (big blind) folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284429: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:13:45
+Table '10' 8-max Seat #4 is the button
+Seat 1: 8ab88bd7 (9,641 in chips)
+Seat 2: bffe0b6b (11,376 in chips)
+Seat 3: f2510ea7 (9,759 in chips)
+Seat 4: 58ac57a8 (26,229 in chips)
+Seat 5: cfc84332 (14,698 in chips)
+Seat 6: Hero (9,670 in chips)
+Seat 7: 3bfc238a (9,202 in chips)
+Seat 8: e651773a (8,069 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+f2510ea7: posts the ante 18
+3bfc238a: posts the ante 18
+bffe0b6b: posts the ante 18
+cfc84332: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Ah Ks]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: raises 150 to 300
+58ac57a8: folds
+cfc84332: calls 225
+Hero: raises 1,194 to 1,494
+f2510ea7: folds
+cfc84332: folds
+Uncalled bet (1,194) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,044 from pot
+*** SUMMARY ***
+Total pot 1,044 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 (button) folded before Flop
+Seat 5: cfc84332 (small blind) folded before Flop
+Seat 6: Hero (big blind) collected (1,044)
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284422: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:13:08
+Table '10' 8-max Seat #3 is the button
+Seat 1: 8ab88bd7 (9,659 in chips)
+Seat 2: bffe0b6b (11,394 in chips)
+Seat 3: f2510ea7 (9,777 in chips)
+Seat 4: 58ac57a8 (26,322 in chips)
+Seat 5: cfc84332 (13,527 in chips)
+Seat 6: Hero (10,358 in chips)
+Seat 7: 3bfc238a (9,520 in chips)
+Seat 8: e651773a (8,087 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+f2510ea7: posts the ante 18
+3bfc238a: posts the ante 18
+bffe0b6b: posts the ante 18
+58ac57a8: posts small blind 75
+cfc84332: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Ks 4s]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+Hero: raises 150 to 300
+3bfc238a: calls 300
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: calls 150
+*** FLOP *** [8d 6c 4h]
+cfc84332: bets 370
+Hero: calls 370
+3bfc238a: folds
+*** TURN *** [8d 6c 4h] [Js]
+cfc84332: checks
+Hero: checks
+*** RIVER *** [8d 6c 4h Js] [7c]
+cfc84332: bets 614
+Hero: folds
+Uncalled bet (614) returned to cfc84332
+*** SHOWDOWN ***
+cfc84332 collected 1,859 from pot
+*** SUMMARY ***
+Total pot 1,859 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 6c 4h Js 7c]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 (button) folded before Flop
+Seat 4: 58ac57a8 (small blind) folded before Flop
+Seat 5: cfc84332 (big blind) won (1,859)
+Seat 6: Hero folded on the River
+Seat 7: 3bfc238a folded on the Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284401: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:10:59
+Table '10' 8-max Seat #2 is the button
+Seat 1: 8ab88bd7 (9,677 in chips)
+Seat 2: bffe0b6b (11,412 in chips)
+Seat 3: f2510ea7 (9,870 in chips)
+Seat 4: 58ac57a8 (25,002 in chips)
+Seat 5: cfc84332 (13,545 in chips)
+Seat 6: Hero (10,376 in chips)
+Seat 7: 3bfc238a (9,538 in chips)
+Seat 8: e651773a (9,224 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+bffe0b6b: posts the ante 18
+f2510ea7: posts small blind 75
+58ac57a8: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Ts 3c]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+e651773a: raises 150 to 300
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: calls 150
+*** FLOP *** [9c Ks 4h]
+58ac57a8: checks
+e651773a: checks
+*** TURN *** [9c Ks 4h] [7c]
+58ac57a8: checks
+e651773a: checks
+*** RIVER *** [9c Ks 4h 7c] [6s]
+58ac57a8: bets 819
+e651773a: calls 819
+58ac57a8: shows [5h 3s] (a straight, Seven to Three)
+e651773a: shows [Ac 9h] (a pair of Nines)
+*** SHOWDOWN ***
+58ac57a8 collected 2,457 from pot
+*** SUMMARY ***
+Total pot 2,457 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Ks 4h 7c 6s]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b (button) folded before Flop
+Seat 3: f2510ea7 (small blind) folded before Flop
+Seat 4: 58ac57a8 (big blind) showed [5h 3s] and won (2,457) with a straight, Seven to Three
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a showed [Ac 9h] and lost with a pair of Nines
+
+
+Poker Hand #TM5624284394: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:10:26
+Table '10' 8-max Seat #1 is the button
+Seat 1: 8ab88bd7 (9,995 in chips)
+Seat 2: bffe0b6b (11,505 in chips)
+Seat 3: f2510ea7 (9,369 in chips)
+Seat 4: 58ac57a8 (25,020 in chips)
+Seat 5: cfc84332 (13,563 in chips)
+Seat 6: Hero (10,394 in chips)
+Seat 7: 3bfc238a (9,556 in chips)
+Seat 8: e651773a (9,242 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+bffe0b6b: posts the ante 18
+bffe0b6b: posts small blind 75
+f2510ea7: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [As 7h]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+58ac57a8: folds
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: raises 150 to 300
+bffe0b6b: folds
+f2510ea7: raises 1,125 to 1,425
+8ab88bd7: folds
+Uncalled bet (1,125) returned to f2510ea7
+*** SHOWDOWN ***
+f2510ea7 collected 819 from pot
+*** SUMMARY ***
+Total pot 819 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 (button) folded before Flop
+Seat 2: bffe0b6b (small blind) folded before Flop
+Seat 3: f2510ea7 (big blind) collected (819)
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284386: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:09:31
+Table '10' 8-max Seat #8 is the button
+Seat 1: 8ab88bd7 (10,313 in chips)
+Seat 2: bffe0b6b (11,673 in chips)
+Seat 3: f2510ea7 (9,387 in chips)
+Seat 4: 58ac57a8 (25,038 in chips)
+Seat 5: cfc84332 (12,987 in chips)
+Seat 6: Hero (10,412 in chips)
+Seat 7: 3bfc238a (9,574 in chips)
+Seat 8: e651773a (9,260 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+bffe0b6b: posts the ante 18
+8ab88bd7: posts small blind 75
+bffe0b6b: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [6d 4d]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: raises 150 to 300
+Hero: folds
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: calls 225
+bffe0b6b: folds
+*** FLOP *** [8d 2c 8h]
+8ab88bd7: checks
+cfc84332: bets 447
+8ab88bd7: folds
+Uncalled bet (447) returned to cfc84332
+*** SHOWDOWN ***
+cfc84332 collected 894 from pot
+*** SUMMARY ***
+Total pot 894 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 2c 8h]
+Seat 1: 8ab88bd7 (small blind) folded on the Flop
+Seat 2: bffe0b6b (big blind) folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 won (894)
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a (button) folded before Flop
+
+
+Poker Hand #TM5624284379: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:09:08
+Table '10' 8-max Seat #7 is the button
+Seat 1: 8ab88bd7 (10,481 in chips)
+Seat 2: bffe0b6b (11,691 in chips)
+Seat 3: f2510ea7 (9,405 in chips)
+Seat 4: 58ac57a8 (24,687 in chips)
+Seat 5: cfc84332 (13,005 in chips)
+Seat 6: Hero (10,430 in chips)
+Seat 7: 3bfc238a (9,592 in chips)
+Seat 8: e651773a (9,353 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+3bfc238a: posts the ante 18
+f2510ea7: posts the ante 18
+bffe0b6b: posts the ante 18
+e651773a: posts small blind 75
+8ab88bd7: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [2d 5s]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: raises 150 to 300
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: folds
+Uncalled bet (150) returned to 58ac57a8
+*** SHOWDOWN ***
+58ac57a8 collected 519 from pot
+*** SUMMARY ***
+Total pot 519 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 (big blind) folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 collected (519)
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a (button) folded before Flop
+Seat 8: e651773a (small blind) folded before Flop
+
+
+Poker Hand #TM5624284374: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level4(75/150(18)) - 2026/02/23 17:08:28
+Table '10' 8-max Seat #6 is the button
+Seat 1: 8ab88bd7 (10,499 in chips)
+Seat 2: bffe0b6b (11,709 in chips)
+Seat 3: f2510ea7 (9,423 in chips)
+Seat 4: 58ac57a8 (24,705 in chips)
+Seat 5: cfc84332 (12,429 in chips)
+Seat 6: Hero (10,448 in chips)
+Seat 7: 3bfc238a (9,910 in chips)
+Seat 8: e651773a (9,521 in chips)
+58ac57a8: posts the ante 18
+Hero: posts the ante 18
+8ab88bd7: posts the ante 18
+cfc84332: posts the ante 18
+e651773a: posts the ante 18
+f2510ea7: posts the ante 18
+3bfc238a: posts the ante 18
+bffe0b6b: posts the ante 18
+3bfc238a: posts small blind 75
+e651773a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [8h 2h]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: raises 150 to 300
+Hero: folds
+3bfc238a: calls 225
+e651773a: folds
+*** FLOP *** [4d 2d Ks]
+3bfc238a: checks
+cfc84332: bets 447
+3bfc238a: folds
+Uncalled bet (447) returned to cfc84332
+*** SHOWDOWN ***
+cfc84332 collected 894 from pot
+*** SUMMARY ***
+Total pot 894 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 2d Ks]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 won (894)
+Seat 6: Hero (button) folded before Flop
+Seat 7: 3bfc238a (small blind) folded on the Flop
+Seat 8: e651773a (big blind) folded before Flop
+
+
+Poker Hand #TM5624284370: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:08:05
+Table '10' 8-max Seat #5 is the button
+Seat 1: 8ab88bd7 (10,511 in chips)
+Seat 2: bffe0b6b (11,721 in chips)
+Seat 3: f2510ea7 (9,435 in chips)
+Seat 4: 58ac57a8 (24,717 in chips)
+Seat 5: cfc84332 (12,441 in chips)
+Seat 6: Hero (10,510 in chips)
+Seat 7: 3bfc238a (9,776 in chips)
+Seat 8: e651773a (9,533 in chips)
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+3bfc238a: posts the ante 12
+bffe0b6b: posts the ante 12
+Hero: posts small blind 50
+3bfc238a: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [2c 8c]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: folds
+Hero: folds
+Uncalled bet (50) returned to 3bfc238a
+*** SHOWDOWN ***
+3bfc238a collected 196 from pot
+*** SUMMARY ***
+Total pot 196 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 3bfc238a (big blind) collected (196)
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284355: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:06:32
+Table '10' 8-max Seat #4 is the button
+Seat 1: 8ab88bd7 (10,523 in chips)
+Seat 2: bffe0b6b (9,437 in chips)
+Seat 3: f2510ea7 (9,447 in chips)
+Seat 4: 58ac57a8 (26,579 in chips)
+Seat 5: cfc84332 (12,503 in chips)
+Seat 6: Hero (10,622 in chips)
+Seat 7: 3bfc238a (9,988 in chips)
+Seat 8: e651773a (9,545 in chips)
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+3bfc238a: posts the ante 12
+bffe0b6b: posts the ante 12
+cfc84332: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Jd 2d]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+3bfc238a: raises 100 to 200
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: raises 600 to 800
+f2510ea7: folds
+58ac57a8: calls 800
+cfc84332: folds
+Hero: folds
+3bfc238a: folds
+*** FLOP *** [Td 5s 7c]
+bffe0b6b: checks
+58ac57a8: checks
+*** TURN *** [Td 5s 7c] [Ac]
+bffe0b6b: bets 1,050
+58ac57a8: calls 1,050
+*** RIVER *** [Td 5s 7c Ac] [Jh]
+bffe0b6b: bets 2,500
+58ac57a8: folds
+Uncalled bet (2,500) returned to bffe0b6b
+*** SHOWDOWN ***
+bffe0b6b collected 4,146 from pot
+*** SUMMARY ***
+Total pot 4,146 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 5s 7c Ac Jh]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b won (4,146)
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 (button) folded on the River
+Seat 5: cfc84332 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284347: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:05:52
+Table '10' 8-max Seat #3 is the button
+Seat 1: 8ab88bd7 (10,535 in chips)
+Seat 2: bffe0b6b (9,449 in chips)
+Seat 3: f2510ea7 (8,932 in chips)
+Seat 4: 58ac57a8 (26,641 in chips)
+Seat 5: cfc84332 (12,896 in chips)
+Seat 6: Hero (10,634 in chips)
+Seat 7: 3bfc238a (10,000 in chips)
+Seat 8: e651773a (9,557 in chips)
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+3bfc238a: posts the ante 12
+bffe0b6b: posts the ante 12
+58ac57a8: posts small blind 50
+cfc84332: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [5s 3d]
+Dealt to 3bfc238a 
+Dealt to e651773a 
+Hero: folds
+3bfc238a: folds
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: raises 100 to 200
+58ac57a8: folds
+cfc84332: calls 100
+*** FLOP *** [Tc Kc Ts]
+cfc84332: bets 181
+f2510ea7: raises 227 to 408
+cfc84332: folds
+Uncalled bet (227) returned to f2510ea7
+*** SHOWDOWN ***
+f2510ea7 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Kc Ts]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 (button) won (908)
+Seat 4: 58ac57a8 (small blind) folded before Flop
+Seat 5: cfc84332 (big blind) folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: 3bfc238a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284336: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:04:47
+Table '10' 8-max Seat #2 is the button
+Seat 1: 8ab88bd7 (10,547 in chips)
+Seat 2: bffe0b6b (9,107 in chips)
+Seat 3: f2510ea7 (8,994 in chips)
+Seat 4: 58ac57a8 (26,873 in chips)
+Seat 5: cfc84332 (12,908 in chips)
+Seat 6: Hero (10,646 in chips)
+Seat 8: e651773a (9,569 in chips)
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+f2510ea7: posts small blind 50
+58ac57a8: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [5h 8h]
+Dealt to e651773a 
+cfc84332: folds
+Hero: folds
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: raises 120 to 220
+f2510ea7: folds
+58ac57a8: calls 120
+*** FLOP *** [5s 6c 9d]
+58ac57a8: checks
+bffe0b6b: checks
+*** TURN *** [5s 6c 9d] [3c]
+58ac57a8: checks
+bffe0b6b: bets 600
+58ac57a8: folds
+Uncalled bet (600) returned to bffe0b6b
+*** SHOWDOWN ***
+bffe0b6b collected 574 from pot
+*** SUMMARY ***
+Total pot 574 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 6c 9d 3c]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b (button) won (574)
+Seat 3: f2510ea7 (small blind) folded before Flop
+Seat 4: 58ac57a8 (big blind) folded on the Turn
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284330: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:03:59
+Table '10' 8-max Seat #1 is the button
+Seat 1: 8ab88bd7 (10,113 in chips)
+Seat 2: bffe0b6b (9,169 in chips)
+Seat 3: f2510ea7 (9,106 in chips)
+Seat 4: 58ac57a8 (26,885 in chips)
+Seat 5: cfc84332 (12,920 in chips)
+Seat 6: Hero (10,658 in chips)
+Seat 7: d814ca0a (8,272 in chips)
+Seat 8: e651773a (9,781 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+bffe0b6b: posts small blind 50
+f2510ea7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [4s 2h]
+Dealt to d814ca0a 
+Dealt to e651773a 
+58ac57a8: folds
+cfc84332: folds
+Hero: folds
+d814ca0a: folds
+e651773a: raises 100 to 200
+8ab88bd7: raises 550 to 750
+bffe0b6b: folds
+f2510ea7: folds
+e651773a: folds
+Uncalled bet (550) returned to 8ab88bd7
+*** SHOWDOWN ***
+8ab88bd7 collected 646 from pot
+*** SUMMARY ***
+Total pot 646 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 8ab88bd7 (button) collected (646)
+Seat 2: bffe0b6b (small blind) folded before Flop
+Seat 3: f2510ea7 (big blind) folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284318: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 17:03:12
+Table '10' 8-max Seat #8 is the button
+Seat 1: 8ab88bd7 (10,175 in chips)
+Seat 2: bffe0b6b (9,281 in chips)
+Seat 3: f2510ea7 (9,118 in chips)
+Seat 4: 58ac57a8 (26,897 in chips)
+Seat 5: cfc84332 (10,000 in chips)
+Seat 6: Hero (10,670 in chips)
+Seat 7: d814ca0a (10,970 in chips)
+Seat 8: e651773a (9,793 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+cfc84332: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+8ab88bd7: posts small blind 50
+bffe0b6b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to cfc84332 
+Dealt to Hero [Qc 4d]
+Dealt to d814ca0a 
+Dealt to e651773a 
+f2510ea7: folds
+58ac57a8: folds
+cfc84332: raises 200 to 300
+Hero: folds
+d814ca0a: calls 300
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+*** FLOP *** [3d 6d 3h]
+cfc84332: bets 423
+d814ca0a: calls 423
+*** TURN *** [3d 6d 3h] [5s]
+cfc84332: bets 846
+d814ca0a: calls 846
+*** RIVER *** [3d 6d 3h 5s] [Tc]
+cfc84332: bets 1,117
+d814ca0a: calls 1,117
+cfc84332: shows [9s 9d] (two pair, Nines and Threes)
+d814ca0a: shows [2h 2s] (two pair, Threes and Twos)
+*** SHOWDOWN ***
+cfc84332 collected 5,618 from pot
+*** SUMMARY ***
+Total pot 5,618 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 6d 3h 5s Tc]
+Seat 1: 8ab88bd7 (small blind) folded before Flop
+Seat 2: bffe0b6b (big blind) folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: cfc84332 showed [9s 9d] and won (5,618) with two pair, Nines and Threes
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a showed [2h 2s] and lost with two pair, Threes and Twos
+Seat 8: e651773a (button) folded before Flop
+
+
+Poker Hand #TM5624284297: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 16:54:51
+Table '10' 8-max Seat #7 is the button
+Seat 1: 8ab88bd7 (10,568 in chips)
+Seat 2: bffe0b6b (9,293 in chips)
+Seat 3: f2510ea7 (8,603 in chips)
+Seat 4: 58ac57a8 (26,909 in chips)
+Seat 5: 51d48a1f (5,126 in chips)
+Seat 6: Hero (10,682 in chips)
+Seat 7: d814ca0a (10,982 in chips)
+Seat 8: e651773a (9,855 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+51d48a1f: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+e651773a: posts small blind 50
+8ab88bd7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [2s Qd]
+Dealt to d814ca0a 
+Dealt to e651773a 
+bffe0b6b: folds
+f2510ea7: raises 100 to 200
+58ac57a8: folds
+51d48a1f: folds
+Hero: folds
+d814ca0a: folds
+e651773a: folds
+8ab88bd7: calls 100
+*** FLOP *** [Td 6d Jc]
+8ab88bd7: checks
+f2510ea7: bets 181
+8ab88bd7: calls 181
+*** TURN *** [Td 6d Jc] [7h]
+8ab88bd7: checks
+f2510ea7: bets 900
+8ab88bd7: folds
+Uncalled bet (900) returned to f2510ea7
+*** SHOWDOWN ***
+f2510ea7 collected 908 from pot
+*** SUMMARY ***
+Total pot 908 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 6d Jc 7h]
+Seat 1: 8ab88bd7 (big blind) folded on the Turn
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 won (908)
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: 51d48a1f folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a (button) folded before Flop
+Seat 8: e651773a (small blind) folded before Flop
+
+
+Poker Hand #TM5624284292: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 16:54:05
+Table '10' 8-max Seat #6 is the button
+Seat 1: 8ab88bd7 (10,580 in chips)
+Seat 2: bffe0b6b (8,719 in chips)
+Seat 3: f2510ea7 (8,615 in chips)
+Seat 4: 58ac57a8 (27,141 in chips)
+Seat 5: 51d48a1f (5,138 in chips)
+Seat 6: Hero (10,694 in chips)
+Seat 7: d814ca0a (11,044 in chips)
+Seat 8: e651773a (10,087 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+51d48a1f: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+d814ca0a: posts small blind 50
+e651773a: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [Ts 6h]
+Dealt to d814ca0a 
+Dealt to e651773a 
+8ab88bd7: folds
+bffe0b6b: raises 120 to 220
+f2510ea7: folds
+58ac57a8: calls 220
+51d48a1f: folds
+Hero: folds
+d814ca0a: folds
+e651773a: calls 120
+*** FLOP *** [Ac 3c Kc]
+e651773a: checks
+bffe0b6b: bets 450
+58ac57a8: folds
+e651773a: folds
+Uncalled bet (450) returned to bffe0b6b
+*** SHOWDOWN ***
+bffe0b6b collected 806 from pot
+*** SUMMARY ***
+Total pot 806 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 3c Kc]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b won (806)
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded on the Flop
+Seat 5: 51d48a1f folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: d814ca0a (small blind) folded before Flop
+Seat 8: e651773a (big blind) folded on the Flop
+
+
+Poker Hand #TM5624284283: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 16:53:05
+Table '10' 8-max Seat #5 is the button
+Seat 1: 8ab88bd7 (10,592 in chips)
+Seat 2: bffe0b6b (8,731 in chips)
+Seat 3: f2510ea7 (8,627 in chips)
+Seat 4: 58ac57a8 (27,153 in chips)
+Seat 5: 51d48a1f (5,150 in chips)
+Seat 6: Hero (9,039 in chips)
+Seat 7: d814ca0a (11,156 in chips)
+Seat 8: e651773a (11,570 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+51d48a1f: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+Hero: posts small blind 50
+d814ca0a: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [Ts Td]
+Dealt to d814ca0a 
+Dealt to e651773a 
+e651773a: raises 100 to 200
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+51d48a1f: folds
+Hero: raises 647 to 847
+d814ca0a: folds
+e651773a: calls 647
+*** FLOP *** [5d 8h Js]
+Hero: bets 624
+e651773a: calls 624
+*** TURN *** [5d 8h Js] [3s]
+Hero: bets 1,769
+e651773a: folds
+Uncalled bet (1,769) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,138 from pot
+*** SUMMARY ***
+Total pot 3,138 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 8h Js 3s]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: 51d48a1f (button) folded before Flop
+Seat 6: Hero (small blind) won (3,138)
+Seat 7: d814ca0a (big blind) folded before Flop
+Seat 8: e651773a folded on the Turn
+
+
+Poker Hand #TM5624284272: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 16:51:59
+Table '10' 8-max Seat #4 is the button
+Seat 1: 8ab88bd7 (10,058 in chips)
+Seat 2: bffe0b6b (8,743 in chips)
+Seat 3: f2510ea7 (8,639 in chips)
+Seat 4: 58ac57a8 (27,165 in chips)
+Seat 5: 51d48a1f (5,212 in chips)
+Seat 6: Hero (9,251 in chips)
+Seat 7: d814ca0a (11,368 in chips)
+Seat 8: e651773a (11,582 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+51d48a1f: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+51d48a1f: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [Ts Qc]
+Dealt to d814ca0a 
+Dealt to e651773a 
+d814ca0a: raises 100 to 200
+e651773a: folds
+8ab88bd7: calls 200
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+51d48a1f: folds
+Hero: calls 100
+*** FLOP *** [6s Kd 4s]
+Hero: checks
+d814ca0a: checks
+8ab88bd7: bets 224
+Hero: folds
+d814ca0a: folds
+Uncalled bet (224) returned to 8ab88bd7
+*** SHOWDOWN ***
+8ab88bd7 collected 746 from pot
+*** SUMMARY ***
+Total pot 746 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Kd 4s]
+Seat 1: 8ab88bd7 won (746)
+Seat 2: bffe0b6b folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 (button) folded before Flop
+Seat 5: 51d48a1f (small blind) folded before Flop
+Seat 6: Hero (big blind) folded on the Flop
+Seat 7: d814ca0a folded on the Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284255: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level3(50/100(12)) - 2026/02/23 16:50:37
+Table '10' 8-max Seat #3 is the button
+Seat 1: 8ab88bd7 (10,070 in chips)
+Seat 2: bffe0b6b (9,575 in chips)
+Seat 3: f2510ea7 (8,651 in chips)
+Seat 4: 58ac57a8 (26,161 in chips)
+Seat 5: 51d48a1f (5,324 in chips)
+Seat 6: Hero (9,263 in chips)
+Seat 7: d814ca0a (11,380 in chips)
+Seat 8: e651773a (11,594 in chips)
+d814ca0a: posts the ante 12
+58ac57a8: posts the ante 12
+Hero: posts the ante 12
+8ab88bd7: posts the ante 12
+51d48a1f: posts the ante 12
+e651773a: posts the ante 12
+f2510ea7: posts the ante 12
+bffe0b6b: posts the ante 12
+58ac57a8: posts small blind 50
+51d48a1f: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [Th Kc]
+Dealt to d814ca0a 
+Dealt to e651773a 
+Hero: folds
+d814ca0a: folds
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: raises 120 to 220
+f2510ea7: folds
+58ac57a8: calls 170
+51d48a1f: folds
+*** FLOP *** [Qh Ts Qd]
+58ac57a8: checks
+bffe0b6b: bets 600
+58ac57a8: calls 600
+*** TURN *** [Qh Ts Qd] [4c]
+58ac57a8: bets 400
+bffe0b6b: folds
+Uncalled bet (400) returned to 58ac57a8
+*** SHOWDOWN ***
+58ac57a8 collected 1,836 from pot
+*** SUMMARY ***
+Total pot 1,836 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh Ts Qd 4c]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b folded on the Turn
+Seat 3: f2510ea7 (button) folded before Flop
+Seat 4: 58ac57a8 (small blind) won (1,836)
+Seat 5: 51d48a1f (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284245: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level2(35/70(8)) - 2026/02/23 16:49:39
+Table '10' 8-max Seat #2 is the button
+Seat 1: 8ab88bd7 (10,078 in chips)
+Seat 2: bffe0b6b (9,583 in chips)
+Seat 3: f2510ea7 (8,694 in chips)
+Seat 4: 58ac57a8 (26,239 in chips)
+Seat 5: 51d48a1f (5,332 in chips)
+Seat 6: Hero (9,271 in chips)
+Seat 7: d814ca0a (11,808 in chips)
+Seat 8: e651773a (11,013 in chips)
+d814ca0a: posts the ante 8
+58ac57a8: posts the ante 8
+Hero: posts the ante 8
+8ab88bd7: posts the ante 8
+51d48a1f: posts the ante 8
+e651773a: posts the ante 8
+f2510ea7: posts the ante 8
+bffe0b6b: posts the ante 8
+f2510ea7: posts small blind 35
+58ac57a8: posts big blind 70
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [2s 7c]
+Dealt to d814ca0a 
+Dealt to e651773a 
+51d48a1f: folds
+Hero: folds
+d814ca0a: raises 70 to 140
+e651773a: raises 280 to 420
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: folds
+58ac57a8: folds
+d814ca0a: calls 280
+*** FLOP *** [8c 5s Td]
+d814ca0a: checks
+e651773a: checks
+*** TURN *** [8c 5s Td] [Ad]
+d814ca0a: checks
+e651773a: bets 1,009
+d814ca0a: folds
+Uncalled bet (1,009) returned to e651773a
+*** SHOWDOWN ***
+e651773a collected 1,009 from pot
+*** SUMMARY ***
+Total pot 1,009 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 5s Td Ad]
+Seat 1: 8ab88bd7 folded before Flop
+Seat 2: bffe0b6b (button) folded before Flop
+Seat 3: f2510ea7 (small blind) folded before Flop
+Seat 4: 58ac57a8 (big blind) folded before Flop
+Seat 5: 51d48a1f folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a folded on the Turn
+Seat 8: e651773a won (1,009)
+
+
+Poker Hand #TM5624284233: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level2(35/70(8)) - 2026/02/23 16:48:42
+Table '10' 8-max Seat #1 is the button
+Seat 1: 8ab88bd7 (10,086 in chips)
+Seat 2: bffe0b6b (9,626 in chips)
+Seat 3: f2510ea7 (9,139 in chips)
+Seat 4: 58ac57a8 (26,247 in chips)
+Seat 5: 51d48a1f (4,804 in chips)
+Seat 6: Hero (9,279 in chips)
+Seat 7: d814ca0a (11,816 in chips)
+Seat 8: e651773a (11,021 in chips)
+d814ca0a: posts the ante 8
+58ac57a8: posts the ante 8
+Hero: posts the ante 8
+8ab88bd7: posts the ante 8
+51d48a1f: posts the ante 8
+e651773a: posts the ante 8
+f2510ea7: posts the ante 8
+bffe0b6b: posts the ante 8
+bffe0b6b: posts small blind 35
+f2510ea7: posts big blind 70
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [5s Jh]
+Dealt to d814ca0a 
+Dealt to e651773a 
+58ac57a8: folds
+51d48a1f: raises 70 to 140
+Hero: folds
+d814ca0a: folds
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+f2510ea7: calls 70
+*** FLOP *** [Td 6s 4c]
+f2510ea7: checks
+51d48a1f: bets 297
+f2510ea7: calls 297
+*** TURN *** [Td 6s 4c] [Kd]
+f2510ea7: checks
+51d48a1f: bets 742
+f2510ea7: folds
+Uncalled bet (742) returned to 51d48a1f
+*** SHOWDOWN ***
+51d48a1f collected 973 from pot
+*** SUMMARY ***
+Total pot 973 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 6s 4c Kd]
+Seat 1: 8ab88bd7 (button) folded before Flop
+Seat 2: bffe0b6b (small blind) folded before Flop
+Seat 3: f2510ea7 (big blind) folded on the Turn
+Seat 4: 58ac57a8 folded before Flop
+Seat 5: 51d48a1f won (973)
+Seat 6: Hero folded before Flop
+Seat 7: d814ca0a folded before Flop
+Seat 8: e651773a folded before Flop
+
+
+Poker Hand #TM5624284220: Tournament #266374785, APL Series: ¥330 Zodiac Bounty [Big Bounties] + Ox Hold'em No Limit - Level2(35/70(8)) - 2026/02/23 16:47:33
+Table '10' 8-max Seat #8 is the button
+Seat 1: 8ab88bd7 (10,129 in chips)
+Seat 2: bffe0b6b (9,704 in chips)
+Seat 3: f2510ea7 (9,147 in chips)
+Seat 4: 58ac57a8 (26,620 in chips)
+Seat 5: 51d48a1f (4,812 in chips)
+Seat 6: Hero (10,000 in chips)
+Seat 7: d814ca0a (10,577 in chips)
+Seat 8: e651773a (11,029 in chips)
+d814ca0a: posts the ante 8
+58ac57a8: posts the ante 8
+Hero: posts the ante 8
+8ab88bd7: posts the ante 8
+51d48a1f: posts the ante 8
+e651773a: posts the ante 8
+f2510ea7: posts the ante 8
+bffe0b6b: posts the ante 8
+8ab88bd7: posts small blind 35
+bffe0b6b: posts big blind 70
+*** HOLE CARDS ***
+Dealt to 8ab88bd7 
+Dealt to bffe0b6b 
+Dealt to f2510ea7 
+Dealt to 58ac57a8 
+Dealt to 51d48a1f 
+Dealt to Hero [Ts Js]
+Dealt to d814ca0a 
+Dealt to e651773a 
+f2510ea7: folds
+58ac57a8: raises 70 to 140
+51d48a1f: folds
+Hero: raises 225 to 365
+d814ca0a: calls 365
+e651773a: folds
+8ab88bd7: folds
+bffe0b6b: folds
+58ac57a8: calls 225
+*** FLOP *** [6c 5c 2s]
+58ac57a8: checks
+Hero: bets 348
+d814ca0a: calls 348
+58ac57a8: folds
+*** TURN *** [6c 5c 2s] [Ah]
+Hero: checks
+d814ca0a: checks
+*** RIVER *** [6c 5c 2s Ah] [Kh]
+Hero: checks
+d814ca0a: bets 1,470
+Hero: folds
+Uncalled bet (1,470) returned to d814ca0a
+*** SHOWDOWN ***
+d814ca0a collected 1,960 from pot
+*** SUMMARY ***
+Total pot 1,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 5c 2s Ah Kh]
+Seat 1: 8ab88bd7 (small blind) folded before Flop
+Seat 2: bffe0b6b (big blind) folded before Flop
+Seat 3: f2510ea7 folded before Flop
+Seat 4: 58ac57a8 folded on the Flop
+Seat 5: 51d48a1f folded before Flop
+Seat 6: Hero folded on the River
+Seat 7: d814ca0a won (1,960)
+Seat 8: e651773a (button) folded before Flop
+
+

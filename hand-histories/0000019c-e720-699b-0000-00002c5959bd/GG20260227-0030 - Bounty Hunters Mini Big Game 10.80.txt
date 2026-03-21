@@ -1,0 +1,62 @@
+Poker Hand #TM5638283812: Tournament #266323082, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level1(250/500(75)) - 2026/02/27 11:30:02
+Table '43' 8-max Seat #7 is the button
+Seat 1: ad16734 (100,000 in chips)
+Seat 2: f6ac18da (100,000 in chips)
+Seat 3: 3af1bf94 (100,000 in chips)
+Seat 4: 59752277 (100,000 in chips)
+Seat 5: 31a2e14b (100,000 in chips)
+Seat 6: Hero (100,000 in chips)
+Seat 7: 5d0eafcf (100,000 in chips)
+Seat 8: 2c03d5cc (100,000 in chips)
+3af1bf94: posts the ante 75
+ad16734: posts the ante 75
+2c03d5cc: posts the ante 75
+f6ac18da: posts the ante 75
+Hero: posts the ante 75
+5d0eafcf: posts the ante 75
+59752277: posts the ante 75
+31a2e14b: posts the ante 75
+2c03d5cc: posts small blind 250
+ad16734: posts big blind 500
+*** HOLE CARDS ***
+Dealt to ad16734 
+Dealt to f6ac18da 
+Dealt to 3af1bf94 
+Dealt to 59752277 
+Dealt to 31a2e14b 
+Dealt to Hero [7h 7s]
+Dealt to 5d0eafcf 
+Dealt to 2c03d5cc 
+f6ac18da: raises 500 to 1,000
+3af1bf94: raises 3,000 to 4,000
+59752277: folds
+31a2e14b: folds
+Hero: calls 4,000
+5d0eafcf: calls 4,000
+2c03d5cc: folds
+ad16734: folds
+f6ac18da: raises 95,925 to 99,925 and is all-in
+3af1bf94: calls 95,925 and is all-in
+Hero: calls 95,925 and is all-in
+5d0eafcf: folds
+f6ac18da: shows [Qs Ad]
+3af1bf94: shows [Qd Qh]
+Hero: shows [7h 7s]
+*** FLOP *** [3c 3h Kh]
+*** TURN *** [3c 3h Kh] [3d]
+*** RIVER *** [3c 3h Kh 3d] [2s]
+*** SHOWDOWN ***
+3af1bf94 collected 305,125 from pot
+*** SUMMARY ***
+Total pot 305,125 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3c 3h Kh 3d 2s]
+Seat 1: ad16734 (big blind) folded before Flop
+Seat 2: f6ac18da showed [Qs Ad] and lost with three of a kind, Threes
+Seat 3: 3af1bf94 showed [Qd Qh] and won (305,125) with a full house, Threes full of Queens
+Seat 4: 59752277 folded before Flop
+Seat 5: 31a2e14b folded before Flop
+Seat 6: Hero showed [7h 7s] and lost with a full house, Threes full of Sevens
+Seat 7: 5d0eafcf (button) folded before Flop
+Seat 8: 2c03d5cc (small blind) folded before Flop
+
+

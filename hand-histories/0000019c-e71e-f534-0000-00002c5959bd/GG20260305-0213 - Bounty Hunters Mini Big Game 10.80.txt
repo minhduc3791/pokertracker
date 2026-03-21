@@ -1,0 +1,62 @@
+Poker Hand #TM5665526403: Tournament #267708402, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level8(1,500/3,000(450)) - 2026/03/05 13:13:45
+Table '55' 8-max Seat #3 is the button
+Seat 1: 1e40912c (139,992 in chips)
+Seat 2: 2c22015e (100,104 in chips)
+Seat 3: 6af3ebe1 (191,931 in chips)
+Seat 4: 64e6f24f (89,817 in chips)
+Seat 5: Hero (100,000 in chips)
+Seat 6: 5d2afc92 (301,814 in chips)
+Seat 7: 4338650f (50,828 in chips)
+Seat 8: e8011e21 (169,278 in chips)
+64e6f24f: posts the ante 450
+e8011e21: posts the ante 450
+1e40912c: posts the ante 450
+Hero: posts the ante 450
+4338650f: posts the ante 450
+5d2afc92: posts the ante 450
+6af3ebe1: posts the ante 450
+2c22015e: posts the ante 450
+64e6f24f: posts small blind 1,500
+Hero: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 1e40912c 
+Dealt to 2c22015e 
+Dealt to 6af3ebe1 
+Dealt to 64e6f24f 
+Dealt to Hero [6c 6s]
+Dealt to 5d2afc92 
+Dealt to 4338650f 
+Dealt to e8011e21 
+5d2afc92: folds
+4338650f: folds
+e8011e21: raises 3,000 to 6,000
+1e40912c: raises 21,000 to 27,000
+2c22015e: folds
+6af3ebe1: folds
+64e6f24f: raises 62,367 to 89,367 and is all-in
+Hero: raises 10,183 to 99,550 and is all-in
+e8011e21: raises 62,367 to 161,917
+1e40912c: folds
+Uncalled bet (62,367) returned to e8011e21
+e8011e21: shows [Kh Kc]
+64e6f24f: shows [Ks As]
+Hero: shows [6c 6s]
+*** FLOP *** [7h 9d 9c]
+*** TURN *** [7h 9d 9c] [9s]
+*** RIVER *** [7h 9d 9c 9s] [Jh]
+*** SHOWDOWN ***
+e8011e21 collected 298,701 from pot
+e8011e21 collected 20,366 from pot
+*** SUMMARY ***
+Total pot 319,067 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 9d 9c 9s Jh]
+Seat 1: 1e40912c folded before Flop
+Seat 2: 2c22015e folded before Flop
+Seat 3: 6af3ebe1 (button) folded before Flop
+Seat 4: 64e6f24f (small blind) showed [Ks As] and lost with three of a kind, Nines
+Seat 5: Hero (big blind) showed [6c 6s] and lost with a full house, Nines full of Sixes
+Seat 6: 5d2afc92 folded before Flop
+Seat 7: 4338650f folded before Flop
+Seat 8: e8011e21 showed [Kh Kc] and won (319,067) with a full house, Nines full of Kings
+
+

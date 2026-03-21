@@ -1,9 +1,12 @@
 """Main entry point for poker tracker application."""
 
 import logging
+import platform
 import signal
 import sys
 from pathlib import Path
+from typing import Optional
+
 from src.config import ConfigManager
 from src.database import DatabaseManager
 from src.natural8_parser import Natural8Parser
@@ -57,7 +60,12 @@ def on_natural8_stop():
 def signal_handler(signum, frame):
     """Handle shutdown signals gracefully."""
     logger.info("Received shutdown signal, cleaning up...")
-    
+    cleanup()
+    sys.exit(0)
+
+
+def cleanup():
+    """Clean up resources."""
     global watcher_instance, detector_instance, db_instance
     
     if watcher_instance:
@@ -68,18 +76,21 @@ def signal_handler(signum, frame):
     
     if db_instance:
         db_instance.close()
+
+
+def main(config_path: Optional[str] = None, use_gui: bool = True):
+    """Main application entry point.
     
-    sys.exit(0)
-
-
-def main():
-    """Main application entry point."""
+    Args:
+        config_path: Optional path to config file
+        use_gui: Whether to use GUI mode (system tray + HUD)
+    """
     global watcher_instance, detector_instance, db_instance
     
     signal.signal(signal.SIGINT, signal_handler)
     signal.signal(signal.SIGTERM, signal_handler)
     
-    config = ConfigManager()
+    config = ConfigManager(config_path)
     setup_logging(config)
     
     logger.info("Starting Poker Tracker")
@@ -100,19 +111,44 @@ def main():
     detector_instance = ProcessDetector(config)
     watcher_instance = FileWatcher(config, parser, db_instance, stats)
     
-    detector_instance.start_monitoring(on_natural8_start, on_natural8_stop)
+    if use_gui and platform.system() == "Windows":
+        try:
+            from src.app import PokerTrackerApp
+            
+            app = PokerTrackerApp(config_path)
+            app._db = db_instance
+            app._stats = stats
+            app._parser = parser
+            
+            detector_instance.start_monitoring(
+                lambda: (on_natural8_start(), app.register_table("table_1")),
+                lambda: (on_natural8_stop(), app.unregister_table("table_1"))
+            )
+            
+            app.run()
+        except ImportError as e:
+            logger.warning(f"GUI mode unavailable: {e}")
+            logger.info("Falling back to console mode")
+            use_gui = False
     
-    if detector_instance.is_running():
-        logger.info("Natural8 already running, starting watcher...")
-        on_natural8_start()
-    
-    logger.info("Poker Tracker is running. Press Ctrl+C to stop.")
-    
-    try:
-        while True:
-            signal.pause()
-    except AttributeError:
-        pass
+    if not use_gui or platform.system() != "Windows":
+        detector_instance.start_monitoring(on_natural8_start, on_natural8_stop)
+        
+        if detector_instance.is_running():
+            logger.info("Natural8 already running, starting watcher...")
+            on_natural8_start()
+        
+        logger.info("Poker Tracker is running. Press Ctrl+C to stop.")
+        
+        try:
+            while True:
+                signal.pause()
+        except AttributeError:
+            import time
+            while True:
+                time.sleep(1)
+    else:
+        cleanup()
 
 
 if __name__ == "__main__":

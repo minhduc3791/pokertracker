@@ -1,0 +1,184 @@
+Poker Hand #TM5560998328: Tournament #262414418, APL Series: ¥33 Zodiac Sunday Bounty + Horse Hold'em No Limit - Level1(25/50(6)) - 2026/02/08 21:32:31
+Table '34' 8-max Seat #6 is the button
+Seat 1: 27b77c7d (9,988 in chips)
+Seat 3: b145b53 (9,988 in chips)
+Seat 4: 3301e8b3 (31,115 in chips)
+Seat 5: Hero (313 in chips)
+Seat 6: 40a10ffc (9,698 in chips)
+Seat 7: f40c93f8 (9,449 in chips)
+Seat 8: 10bca79b (9,449 in chips)
+27b77c7d: posts the ante 6
+10bca79b: posts the ante 6
+Hero: posts the ante 6
+3301e8b3: posts the ante 6
+b145b53: posts the ante 6
+40a10ffc: posts the ante 6
+f40c93f8: posts the ante 6
+f40c93f8: posts small blind 25
+10bca79b: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 27b77c7d 
+Dealt to b145b53 
+Dealt to 3301e8b3 
+Dealt to Hero [Qs 8c]
+Dealt to 40a10ffc 
+Dealt to f40c93f8 
+Dealt to 10bca79b 
+27b77c7d: folds
+b145b53: raises 50 to 100
+3301e8b3: folds
+Hero: raises 207 to 307 and is all-in
+40a10ffc: calls 307
+f40c93f8: folds
+10bca79b: raises 9,136 to 9,443 and is all-in
+b145b53: folds
+40a10ffc: calls 9,136
+10bca79b: shows [7h Ac]
+Hero: shows [Qs 8c]
+40a10ffc: shows [7d 9h]
+*** FLOP *** [5c 9s 5s]
+*** TURN *** [5c 9s 5s] [Ts]
+*** RIVER *** [5c 9s 5s Ts] [2c]
+*** SHOWDOWN ***
+40a10ffc collected 1,088 from pot
+40a10ffc collected 18,272 from pot
+*** SUMMARY ***
+Total pot 19,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9s 5s Ts 2c]
+Seat 1: 27b77c7d folded before Flop
+Seat 3: b145b53 folded before Flop
+Seat 4: 3301e8b3 folded before Flop
+Seat 5: Hero showed [Qs 8c] and lost with a pair of Fives
+Seat 6: 40a10ffc (button) showed [7d 9h] and won (19,360) with two pair, Nines and Fives
+Seat 7: f40c93f8 (small blind) folded before Flop
+Seat 8: 10bca79b (big blind) showed [7h Ac] and lost with a pair of Fives
+
+
+Poker Hand #TM5560998292: Tournament #262414418, APL Series: ¥33 Zodiac Sunday Bounty + Horse Hold'em No Limit - Level1(25/50(6)) - 2026/02/08 21:31:07
+Table '34' 8-max Seat #5 is the button
+Seat 1: 27b77c7d (9,994 in chips)
+Seat 2: 76973e92 (9,994 in chips)
+Seat 3: b145b53 (9,994 in chips)
+Seat 4: 3301e8b3 (9,994 in chips)
+Seat 5: Hero (10,307 in chips)
+Seat 6: 40a10ffc (9,729 in chips)
+Seat 7: f40c93f8 (9,994 in chips)
+Seat 8: 10bca79b (9,994 in chips)
+27b77c7d: posts the ante 6
+10bca79b: posts the ante 6
+Hero: posts the ante 6
+3301e8b3: posts the ante 6
+b145b53: posts the ante 6
+76973e92: posts the ante 6
+40a10ffc: posts the ante 6
+f40c93f8: posts the ante 6
+40a10ffc: posts small blind 25
+f40c93f8: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 27b77c7d 
+Dealt to 76973e92 
+Dealt to b145b53 
+Dealt to 3301e8b3 
+Dealt to Hero [Tc Ts]
+Dealt to 40a10ffc 
+Dealt to f40c93f8 
+Dealt to 10bca79b 
+10bca79b: raises 60 to 110
+27b77c7d: folds
+76973e92: raises 429 to 539
+b145b53: folds
+3301e8b3: calls 539
+Hero: calls 539
+40a10ffc: folds
+f40c93f8: calls 489
+10bca79b: calls 429
+*** FLOP *** [8c 8s 5d]
+f40c93f8: checks
+10bca79b: checks
+76973e92: bets 2,076
+3301e8b3: calls 2,076
+Hero: raises 7,686 to 9,762 and is all-in
+f40c93f8: folds
+10bca79b: folds
+76973e92: calls 7,373 and is all-in
+3301e8b3: calls 7,373 and is all-in
+Uncalled bet (313) returned to Hero
+Hero: shows [Tc Ts] (two pair, Tens and Eights)
+76973e92: shows [Jh Jc] (two pair, Jacks and Eights)
+3301e8b3: shows [Qs Qc] (two pair, Queens and Eights)
+*** TURN *** [8c 8s 5d] [9h]
+*** RIVER *** [8c 8s 5d 9h] [7d]
+*** SHOWDOWN ***
+3301e8b3 collected 31,115 from pot
+*** SUMMARY ***
+Total pot 31,115 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 8s 5d 9h 7d]
+Seat 1: 27b77c7d folded before Flop
+Seat 2: 76973e92 showed [Jh Jc] and lost with two pair, Jacks and Eights
+Seat 3: b145b53 folded before Flop
+Seat 4: 3301e8b3 showed [Qs Qc] and won (31,115) with two pair, Queens and Eights
+Seat 5: Hero (button) showed [Tc Ts] and lost with two pair, Tens and Eights
+Seat 6: 40a10ffc (small blind) folded before Flop
+Seat 7: f40c93f8 (big blind) folded on the Flop
+Seat 8: 10bca79b folded on the Flop
+
+
+Poker Hand #TM5560998263: Tournament #262414418, APL Series: ¥33 Zodiac Sunday Bounty + Horse Hold'em No Limit - Level1(25/50(6)) - 2026/02/08 21:30:02
+Table '34' 8-max Seat #4 is the button
+Seat 1: 27b77c7d (10,000 in chips)
+Seat 2: 76973e92 (10,000 in chips)
+Seat 3: b145b53 (10,000 in chips)
+Seat 4: 3301e8b3 (10,000 in chips)
+Seat 5: Hero (10,000 in chips)
+Seat 6: 40a10ffc (10,000 in chips)
+Seat 7: f40c93f8 (10,000 in chips)
+Seat 8: 10bca79b (10,000 in chips)
+27b77c7d: posts the ante 6
+10bca79b: posts the ante 6
+Hero: posts the ante 6
+3301e8b3: posts the ante 6
+b145b53: posts the ante 6
+76973e92: posts the ante 6
+40a10ffc: posts the ante 6
+f40c93f8: posts the ante 6
+Hero: posts small blind 25
+40a10ffc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 27b77c7d 
+Dealt to 76973e92 
+Dealt to b145b53 
+Dealt to 3301e8b3 
+Dealt to Hero [3h 5h]
+Dealt to 40a10ffc 
+Dealt to f40c93f8 
+Dealt to 10bca79b 
+f40c93f8: folds
+10bca79b: folds
+27b77c7d: folds
+76973e92: folds
+b145b53: folds
+3301e8b3: folds
+Hero: raises 100 to 150
+40a10ffc: calls 100
+*** FLOP *** [Ac Kh 7h]
+Hero: bets 115
+40a10ffc: calls 115
+*** TURN *** [Ac Kh 7h] [Qs]
+Hero: bets 339
+40a10ffc: folds
+Uncalled bet (339) returned to Hero
+*** SHOWDOWN ***
+Hero collected 578 from pot
+*** SUMMARY ***
+Total pot 578 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac Kh 7h Qs]
+Seat 1: 27b77c7d folded before Flop
+Seat 2: 76973e92 folded before Flop
+Seat 3: b145b53 folded before Flop
+Seat 4: 3301e8b3 (button) folded before Flop
+Seat 5: Hero (small blind) won (578)
+Seat 6: 40a10ffc (big blind) folded on the Turn
+Seat 7: f40c93f8 folded before Flop
+Seat 8: 10bca79b folded before Flop
+
+

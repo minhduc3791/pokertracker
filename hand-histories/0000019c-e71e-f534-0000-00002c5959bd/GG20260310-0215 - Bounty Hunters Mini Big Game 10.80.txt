@@ -1,0 +1,61 @@
+Poker Hand #TM5689762060: Tournament #268841589, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level8(1,500/3,000(450)) - 2026/03/10 13:15:08
+Table '22' 8-max Seat #2 is the button
+Seat 1: 6b08c5ab (145,528 in chips)
+Seat 2: f87150c2 (128,069 in chips)
+Seat 3: 353cb9d (122,290 in chips)
+Seat 4: 66fd64ae (192,861 in chips)
+Seat 5: 3b460be6 (35,855 in chips)
+Seat 6: Hero (100,000 in chips)
+Seat 7: 88509bc (465,438 in chips)
+Seat 8: e148f12 (230,499 in chips)
+6b08c5ab: posts the ante 450
+Hero: posts the ante 450
+353cb9d: posts the ante 450
+f87150c2: posts the ante 450
+e148f12: posts the ante 450
+66fd64ae: posts the ante 450
+88509bc: posts the ante 450
+3b460be6: posts the ante 450
+353cb9d: posts small blind 1,500
+66fd64ae: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to 6b08c5ab 
+Dealt to f87150c2 
+Dealt to 353cb9d 
+Dealt to 66fd64ae 
+Dealt to 3b460be6 
+Dealt to Hero [As Tc]
+Dealt to 88509bc 
+Dealt to e148f12 
+3b460be6: raises 32,405 to 35,405 and is all-in
+Hero: raises 64,145 to 99,550 and is all-in
+88509bc: folds
+e148f12: folds
+6b08c5ab: raises 45,528 to 145,078 and is all-in
+f87150c2: folds
+353cb9d: folds
+66fd64ae: folds
+Uncalled bet (45,528) returned to 6b08c5ab
+6b08c5ab: shows [Kh Kd]
+3b460be6: shows [7d 7h]
+Hero: shows [As Tc]
+*** FLOP *** [7c 6h 8c]
+*** TURN *** [7c 6h 8c] [3d]
+*** RIVER *** [7c 6h 8c 3d] [2s]
+f87150c2: shows [Ah 2h] (a pair of Twos)
+*** SHOWDOWN ***
+3b460be6 collected 114,315 from pot
+6b08c5ab collected 128,290 from pot
+*** SUMMARY ***
+Total pot 242,605 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 6h 8c 3d 2s]
+Seat 1: 6b08c5ab showed [Kh Kd] and won (128,290) with a pair of Kings
+Seat 2: f87150c2 (button) folded before Flop
+Seat 3: 353cb9d (small blind) folded before Flop
+Seat 4: 66fd64ae (big blind) folded before Flop
+Seat 5: 3b460be6 showed [7d 7h] and won (114,315) with three of a kind, Sevens
+Seat 6: Hero showed [As Tc] and lost with Ace high
+Seat 7: 88509bc folded before Flop
+Seat 8: e148f12 folded before Flop
+
+

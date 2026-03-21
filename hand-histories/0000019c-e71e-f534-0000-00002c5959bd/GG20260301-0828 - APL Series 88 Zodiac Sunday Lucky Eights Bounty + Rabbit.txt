@@ -1,0 +1,2259 @@
+Poker Hand #TM5647364467: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level9(200/400(50)) - 2026/03/01 20:09:08
+Table '17' 8-max Seat #6 is the button
+Seat 1: 5393046f (39,620 in chips)
+Seat 2: 70390ed2 (14,022 in chips)
+Seat 3: 141b417b (15,559 in chips)
+Seat 4: 5d07a000 (32,894 in chips)
+Seat 5: Hero (15,372 in chips)
+Seat 6: 4c36db80 (39,520 in chips)
+Seat 7: 1502ba84 (7,790 in chips)
+Seat 8: cf79f61f (10,941 in chips)
+Hero: posts the ante 50
+5d07a000: posts the ante 50
+4c36db80: posts the ante 50
+70390ed2: posts the ante 50
+5393046f: posts the ante 50
+cf79f61f: posts the ante 50
+141b417b: posts the ante 50
+1502ba84: posts the ante 50
+1502ba84: posts small blind 200
+cf79f61f: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Ac Ad]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: raises 400 to 800
+4c36db80: calls 800
+1502ba84: folds
+cf79f61f: calls 400
+*** FLOP *** [3h Kh Qc]
+cf79f61f: checks
+Hero: bets 990
+4c36db80: calls 990
+cf79f61f: folds
+*** TURN *** [3h Kh Qc] [7h]
+Hero: checks
+4c36db80: bets 2,490
+Hero: calls 2,490
+*** RIVER *** [3h Kh Qc 7h] [9c]
+Hero: checks
+4c36db80: bets 35,190 and is all-in
+Hero: calls 11,042 and is all-in
+Uncalled bet (24,148) returned to 4c36db80
+4c36db80: shows [6h 5h] (a flush King high)
+Hero: shows [Ac Ad] (a pair of Aces)
+*** SHOWDOWN ***
+4c36db80 collected 32,044 from pot
+*** SUMMARY ***
+Total pot 32,044 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Kh Qc 7h 9c]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero showed [Ac Ad] and lost with a pair of Aces
+Seat 6: 4c36db80 (button) showed [6h 5h] and won (32,044) with a flush King high
+Seat 7: 1502ba84 (small blind) folded before Flop
+Seat 8: cf79f61f (big blind) folded on the Flop
+
+
+Poker Hand #TM5647364447: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level9(200/400(50)) - 2026/03/01 20:08:16
+Table '17' 8-max Seat #5 is the button
+Seat 1: 5393046f (39,670 in chips)
+Seat 2: 70390ed2 (6,561 in chips)
+Seat 3: 141b417b (15,609 in chips)
+Seat 4: 5d07a000 (32,944 in chips)
+Seat 5: Hero (15,422 in chips)
+Seat 6: 4c36db80 (39,770 in chips)
+Seat 7: 1502ba84 (8,240 in chips)
+Seat 8: cf79f61f (17,502 in chips)
+Hero: posts the ante 50
+5d07a000: posts the ante 50
+70390ed2: posts the ante 50
+4c36db80: posts the ante 50
+5393046f: posts the ante 50
+cf79f61f: posts the ante 50
+141b417b: posts the ante 50
+1502ba84: posts the ante 50
+4c36db80: posts small blind 200
+1502ba84: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [3s 7c]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+cf79f61f: raises 400 to 800
+5393046f: folds
+70390ed2: raises 5,711 to 6,511 and is all-in
+141b417b: folds
+5d07a000: folds
+Hero: folds
+4c36db80: folds
+1502ba84: folds
+cf79f61f: calls 5,711
+70390ed2: shows [9h 9d]
+cf79f61f: shows [Ah Qh]
+*** FLOP *** [6d 3h 4d]
+*** TURN *** [6d 3h 4d] [9c]
+*** RIVER *** [6d 3h 4d 9c] [Qc]
+*** SHOWDOWN ***
+70390ed2 collected 14,022 from pot
+*** SUMMARY ***
+Total pot 14,022 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 3h 4d 9c Qc]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 showed [9h 9d] and won (14,022) with three of a kind, Nines
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: 4c36db80 (small blind) folded before Flop
+Seat 7: 1502ba84 (big blind) folded before Flop
+Seat 8: cf79f61f showed [Ah Qh] and lost with a pair of Queens
+
+
+Poker Hand #TM5647364409: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level9(200/400(50)) - 2026/03/01 20:06:52
+Table '17' 8-max Seat #4 is the button
+Seat 1: 5393046f (39,720 in chips)
+Seat 2: 70390ed2 (6,611 in chips)
+Seat 3: 141b417b (15,659 in chips)
+Seat 4: 5d07a000 (34,594 in chips)
+Seat 5: Hero (15,672 in chips)
+Seat 6: 4c36db80 (37,620 in chips)
+Seat 7: 1502ba84 (8,290 in chips)
+Seat 8: cf79f61f (17,552 in chips)
+Hero: posts the ante 50
+5d07a000: posts the ante 50
+70390ed2: posts the ante 50
+4c36db80: posts the ante 50
+5393046f: posts the ante 50
+cf79f61f: posts the ante 50
+141b417b: posts the ante 50
+1502ba84: posts the ante 50
+Hero: posts small blind 200
+4c36db80: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [8d 5c]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+1502ba84: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: raises 400 to 800
+Hero: folds
+4c36db80: calls 400
+*** FLOP *** [Ad 9s Kd]
+4c36db80: checks
+5d07a000: bets 800
+4c36db80: calls 800
+*** TURN *** [Ad 9s Kd] [Qc]
+4c36db80: checks
+5d07a000: checks
+*** RIVER *** [Ad 9s Kd Qc] [Td]
+4c36db80: bets 2,850
+5d07a000: folds
+Uncalled bet (2,850) returned to 4c36db80
+*** SHOWDOWN ***
+4c36db80 collected 3,800 from pot
+*** SUMMARY ***
+Total pot 3,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 9s Kd Qc Td]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 (button) folded on the River
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 4c36db80 (big blind) won (3,800)
+Seat 7: 1502ba84 folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364372: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level9(200/400(50)) - 2026/03/01 20:05:28
+Table '17' 8-max Seat #3 is the button
+Seat 1: 5393046f (36,370 in chips)
+Seat 2: 70390ed2 (6,661 in chips)
+Seat 3: 141b417b (15,709 in chips)
+Seat 4: 5d07a000 (34,844 in chips)
+Seat 5: Hero (16,522 in chips)
+Seat 6: 4c36db80 (37,670 in chips)
+Seat 7: 1502ba84 (8,340 in chips)
+Seat 8: cf79f61f (19,602 in chips)
+Hero: posts the ante 50
+5d07a000: posts the ante 50
+70390ed2: posts the ante 50
+4c36db80: posts the ante 50
+5393046f: posts the ante 50
+cf79f61f: posts the ante 50
+141b417b: posts the ante 50
+1502ba84: posts the ante 50
+5d07a000: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [7s 2s]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+4c36db80: folds
+1502ba84: folds
+cf79f61f: raises 400 to 800
+5393046f: calls 800
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: calls 400
+*** FLOP *** [4h 8s 2c]
+Hero: checks
+cf79f61f: checks
+5393046f: checks
+*** TURN *** [4h 8s 2c] [Ah]
+Hero: checks
+cf79f61f: bets 1,200
+5393046f: calls 1,200
+Hero: folds
+*** RIVER *** [4h 8s 2c Ah] [8h]
+cf79f61f: checks
+5393046f: bets 2,800
+cf79f61f: folds
+Uncalled bet (2,800) returned to 5393046f
+*** SHOWDOWN ***
+5393046f collected 5,400 from pot
+*** SUMMARY ***
+Total pot 5,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 8s 2c Ah 8h]
+Seat 1: 5393046f won (5,400)
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b (button) folded before Flop
+Seat 4: 5d07a000 (small blind) folded before Flop
+Seat 5: Hero (big blind) folded on the Turn
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 1502ba84 folded before Flop
+Seat 8: cf79f61f folded on the River
+
+
+Poker Hand #TM5647364339: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 20:04:23
+Table '17' 8-max Seat #2 is the button
+Seat 1: 5393046f (36,415 in chips)
+Seat 2: 70390ed2 (7,406 in chips)
+Seat 3: 141b417b (15,929 in chips)
+Seat 4: 5d07a000 (32,084 in chips)
+Seat 5: Hero (16,567 in chips)
+Seat 6: 4c36db80 (37,715 in chips)
+Seat 7: 1502ba84 (9,955 in chips)
+Seat 8: cf79f61f (19,647 in chips)
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+70390ed2: posts the ante 45
+4c36db80: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+1502ba84: posts the ante 45
+141b417b: posts the ante 45
+141b417b: posts small blind 175
+5d07a000: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [2d Qd]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+Hero: folds
+4c36db80: folds
+1502ba84: raises 350 to 700
+cf79f61f: folds
+5393046f: folds
+70390ed2: calls 700
+141b417b: folds
+5d07a000: calls 350
+*** FLOP *** [6s 8c Ah]
+5d07a000: checks
+1502ba84: bets 870
+70390ed2: folds
+5d07a000: raises 1,230 to 2,100
+1502ba84: folds
+Uncalled bet (1,230) returned to 5d07a000
+*** SHOWDOWN ***
+5d07a000 collected 4,375 from pot
+*** SUMMARY ***
+Total pot 4,375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 8c Ah]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 (button) folded on the Flop
+Seat 3: 141b417b (small blind) folded before Flop
+Seat 4: 5d07a000 (big blind) won (4,375)
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 1502ba84 folded on the Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364314: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 20:03:31
+Table '17' 8-max Seat #1 is the button
+Seat 1: 5393046f (36,460 in chips)
+Seat 2: 70390ed2 (7,626 in chips)
+Seat 3: 141b417b (16,674 in chips)
+Seat 4: 5d07a000 (32,129 in chips)
+Seat 5: Hero (16,612 in chips)
+Seat 6: 4c36db80 (36,525 in chips)
+Seat 7: 1502ba84 (10,000 in chips)
+Seat 8: cf79f61f (19,692 in chips)
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+1502ba84: posts the ante 45
+141b417b: posts the ante 45
+70390ed2: posts small blind 175
+141b417b: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [7h Ad]
+Dealt to 4c36db80 
+Dealt to 1502ba84 
+Dealt to cf79f61f 
+5d07a000: folds
+Hero: folds
+4c36db80: raises 350 to 700
+1502ba84: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: calls 350
+*** FLOP *** [7c 9s 4d]
+141b417b: checks
+4c36db80: bets 639
+141b417b: folds
+Uncalled bet (639) returned to 4c36db80
+*** SHOWDOWN ***
+4c36db80 collected 1,935 from pot
+*** SUMMARY ***
+Total pot 1,935 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c 9s 4d]
+Seat 1: 5393046f (button) folded before Flop
+Seat 2: 70390ed2 (small blind) folded before Flop
+Seat 3: 141b417b (big blind) folded on the Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 won (1,935)
+Seat 7: 1502ba84 folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364291: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 20:02:39
+Table '17' 8-max Seat #8 is the button
+Seat 1: 5393046f (36,680 in chips)
+Seat 2: 70390ed2 (6,481 in chips)
+Seat 3: 141b417b (16,719 in chips)
+Seat 4: 5d07a000 (32,174 in chips)
+Seat 5: Hero (16,657 in chips)
+Seat 6: 4c36db80 (36,570 in chips)
+Seat 8: cf79f61f (20,437 in chips)
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+cf79f61f: posts the ante 45
+5393046f: posts the ante 45
+141b417b: posts the ante 45
+5393046f: posts small blind 175
+70390ed2: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [6s 5d]
+Dealt to 4c36db80 
+Dealt to cf79f61f 
+141b417b: folds
+5d07a000: folds
+Hero: folds
+4c36db80: folds
+cf79f61f: raises 350 to 700
+5393046f: folds
+70390ed2: calls 350
+*** FLOP *** [8s 6d Qh]
+70390ed2: checks
+cf79f61f: checks
+*** TURN *** [8s 6d Qh] [8d]
+70390ed2: bets 1,598
+cf79f61f: folds
+Uncalled bet (1,598) returned to 70390ed2
+*** SHOWDOWN ***
+70390ed2 collected 1,890 from pot
+*** SUMMARY ***
+Total pot 1,890 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 6d Qh 8d]
+Seat 1: 5393046f (small blind) folded before Flop
+Seat 2: 70390ed2 (big blind) won (1,890)
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 folded before Flop
+Seat 8: cf79f61f (button) folded on the Turn
+
+
+Poker Hand #TM5647364268: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 20:01:41
+Table '17' 8-max Seat #7 is the button
+Seat 1: 5393046f (44,786 in chips)
+Seat 2: 70390ed2 (6,526 in chips)
+Seat 3: 141b417b (16,764 in chips)
+Seat 4: 5d07a000 (32,219 in chips)
+Seat 5: Hero (8,106 in chips)
+Seat 6: 4c36db80 (36,615 in chips)
+Seat 7: 571e78dd (47,932 in chips)
+Seat 8: cf79f61f (20,657 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+cf79f61f: posts small blind 175
+5393046f: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [9h 9c]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: raises 7,711 to 8,061 and is all-in
+4c36db80: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: calls 7,711
+Hero: shows [9h 9c]
+5393046f: shows [6d 6h]
+*** FLOP *** [3d 3s As]
+*** TURN *** [3d 3s As] [7d]
+*** RIVER *** [3d 3s As 7d] [Qd]
+*** SHOWDOWN ***
+Hero collected 16,657 from pot
+*** SUMMARY ***
+Total pot 16,657 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 3s As 7d Qd]
+Seat 1: 5393046f (big blind) showed [6d 6h] and lost with two pair, Sixes and Threes
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero showed [9h 9c] and won (16,657) with two pair, Nines and Threes
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd (button) folded before Flop
+Seat 8: cf79f61f (small blind) folded before Flop
+
+
+Poker Hand #TM5647364224: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:54:02
+Table '17' 8-max Seat #6 is the button
+Seat 1: 5393046f (44,831 in chips)
+Seat 2: 70390ed2 (6,571 in chips)
+Seat 3: 141b417b (7,547 in chips)
+Seat 4: 5d07a000 (32,264 in chips)
+Seat 5: Hero (8,151 in chips)
+Seat 6: 4c36db80 (37,360 in chips)
+Seat 7: 571e78dd (48,677 in chips)
+Seat 8: cf79f61f (28,204 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+571e78dd: posts small blind 175
+cf79f61f: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [3h 7s]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5393046f: folds
+70390ed2: folds
+141b417b: raises 350 to 700
+5d07a000: folds
+Hero: folds
+4c36db80: calls 700
+571e78dd: calls 525
+cf79f61f: raises 7,000 to 7,700
+141b417b: calls 6,802 and is all-in
+4c36db80: folds
+571e78dd: folds
+Uncalled bet (198) returned to cf79f61f
+cf79f61f: shows [Th Ts]
+141b417b: shows [Qh Ad]
+*** FLOP *** [5h 6h 8h]
+*** TURN *** [5h 6h 8h] [Js]
+*** RIVER *** [5h 6h 8h Js] [2h]
+*** SHOWDOWN ***
+141b417b collected 16,764 from pot
+*** SUMMARY ***
+Total pot 16,764 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 6h 8h Js 2h]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b showed [Qh Ad] and won (16,764) with a flush Queen high
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 (button) folded before Flop
+Seat 7: 571e78dd (small blind) folded before Flop
+Seat 8: cf79f61f (big blind) showed [Th Ts] and lost with a flush Ten high
+
+
+Poker Hand #TM5647364203: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:53:29
+Table '17' 8-max Seat #5 is the button
+Seat 1: 5393046f (44,876 in chips)
+Seat 2: 70390ed2 (6,616 in chips)
+Seat 3: 141b417b (7,592 in chips)
+Seat 4: 5d07a000 (32,309 in chips)
+Seat 5: Hero (8,196 in chips)
+Seat 6: 4c36db80 (36,695 in chips)
+Seat 7: 571e78dd (49,072 in chips)
+Seat 8: cf79f61f (28,249 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+70390ed2: posts the ante 45
+4c36db80: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+4c36db80: posts small blind 175
+571e78dd: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [3d 5d]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: folds
+4c36db80: calls 175
+571e78dd: checks
+*** FLOP *** [6s 9h 8c]
+4c36db80: checks
+571e78dd: checks
+*** TURN *** [6s 9h 8c] [Jh]
+4c36db80: bets 795
+571e78dd: folds
+Uncalled bet (795) returned to 4c36db80
+*** SHOWDOWN ***
+4c36db80 collected 1,060 from pot
+*** SUMMARY ***
+Total pot 1,060 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s 9h 8c Jh]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: 4c36db80 (small blind) won (1,060)
+Seat 7: 571e78dd (big blind) folded on the Turn
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364175: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:52:24
+Table '17' 8-max Seat #4 is the button
+Seat 1: 5393046f (44,921 in chips)
+Seat 2: 70390ed2 (6,661 in chips)
+Seat 3: 141b417b (7,637 in chips)
+Seat 4: 5d07a000 (33,054 in chips)
+Seat 5: Hero (6,831 in chips)
+Seat 6: 4c36db80 (37,090 in chips)
+Seat 7: 571e78dd (49,117 in chips)
+Seat 8: cf79f61f (28,294 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+70390ed2: posts the ante 45
+4c36db80: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+Hero: posts small blind 175
+4c36db80: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Js Kd]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: raises 350 to 700
+Hero: raises 6,086 to 6,786 and is all-in
+4c36db80: folds
+5d07a000: folds
+Uncalled bet (6,086) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,110 from pot
+*** SUMMARY ***
+Total pot 2,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 (button) folded before Flop
+Seat 5: Hero (small blind) collected (2,110)
+Seat 6: 4c36db80 (big blind) folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364159: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:51:45
+Table '17' 8-max Seat #3 is the button
+Seat 1: 5393046f (44,966 in chips)
+Seat 2: 70390ed2 (6,706 in chips)
+Seat 3: 141b417b (7,682 in chips)
+Seat 4: 5d07a000 (32,389 in chips)
+Seat 5: Hero (7,226 in chips)
+Seat 6: 4c36db80 (37,135 in chips)
+Seat 7: 571e78dd (49,162 in chips)
+Seat 8: cf79f61f (28,339 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+70390ed2: posts the ante 45
+4c36db80: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+5d07a000: posts small blind 175
+Hero: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Jh 4h]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+4c36db80: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: calls 175
+Hero: checks
+*** FLOP *** [Qh 6d Tc]
+5d07a000: checks
+Hero: checks
+*** TURN *** [Qh 6d Tc] [6c]
+5d07a000: checks
+Hero: checks
+*** RIVER *** [Qh 6d Tc 6c] [9s]
+5d07a000: bets 700
+Hero: folds
+Uncalled bet (700) returned to 5d07a000
+*** SHOWDOWN ***
+5d07a000 collected 1,060 from pot
+*** SUMMARY ***
+Total pot 1,060 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 6d Tc 6c 9s]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b (button) folded before Flop
+Seat 4: 5d07a000 (small blind) won (1,060)
+Seat 5: Hero (big blind) folded on the River
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364152: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:51:29
+Table '17' 8-max Seat #2 is the button
+Seat 1: 5393046f (45,011 in chips)
+Seat 2: 70390ed2 (6,751 in chips)
+Seat 3: 141b417b (7,902 in chips)
+Seat 4: 5d07a000 (32,784 in chips)
+Seat 5: Hero (7,271 in chips)
+Seat 6: 4c36db80 (37,180 in chips)
+Seat 7: 571e78dd (49,207 in chips)
+Seat 8: cf79f61f (27,499 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+70390ed2: posts the ante 45
+4c36db80: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+141b417b: posts small blind 175
+5d07a000: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [4c Ks]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+Hero: folds
+4c36db80: folds
+571e78dd: folds
+cf79f61f: raises 350 to 700
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Uncalled bet (350) returned to cf79f61f
+*** SHOWDOWN ***
+cf79f61f collected 1,235 from pot
+*** SUMMARY ***
+Total pot 1,235 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 (button) folded before Flop
+Seat 3: 141b417b (small blind) folded before Flop
+Seat 4: 5d07a000 (big blind) folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f collected (1,235)
+
+
+Poker Hand #TM5647364116: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:50:02
+Table '17' 8-max Seat #1 is the button
+Seat 1: 5393046f (45,056 in chips)
+Seat 2: 70390ed2 (6,971 in chips)
+Seat 3: 141b417b (8,297 in chips)
+Seat 4: 5d07a000 (32,829 in chips)
+Seat 5: Hero (31,477 in chips)
+Seat 6: 4c36db80 (37,225 in chips)
+Seat 7: 571e78dd (24,206 in chips)
+Seat 8: cf79f61f (27,544 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+70390ed2: posts small blind 175
+141b417b: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [6d 6c]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5d07a000: folds
+Hero: raises 350 to 700
+4c36db80: folds
+571e78dd: raises 1,714 to 2,414
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+Hero: calls 1,714
+*** FLOP *** [Ks Kh 6h]
+Hero: checks
+571e78dd: checks
+*** TURN *** [Ks Kh 6h] [4s]
+Hero: bets 2,857
+571e78dd: calls 2,857
+*** RIVER *** [Ks Kh 6h 4s] [Tc]
+Hero: bets 8,571
+571e78dd: raises 10,319 to 18,890 and is all-in
+Hero: calls 10,319
+571e78dd: shows [Kd Kc] (four of a kind, Kings)
+Hero: shows [6d 6c] (a full house, Sixes full of Kings)
+*** SHOWDOWN ***
+571e78dd collected 49,207 from pot
+*** SUMMARY ***
+Total pot 49,207 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Kh 6h 4s Tc]
+Seat 1: 5393046f (button) folded before Flop
+Seat 2: 70390ed2 (small blind) folded before Flop
+Seat 3: 141b417b (big blind) folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero showed [6d 6c] and lost with a full house, Sixes full of Kings
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd showed [Kd Kc] and won (49,207) with four of a kind, Kings
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364098: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:49:26
+Table '17' 8-max Seat #8 is the button
+Seat 1: 5393046f (46,498 in chips)
+Seat 2: 70390ed2 (7,366 in chips)
+Seat 3: 141b417b (8,342 in chips)
+Seat 4: 5d07a000 (32,874 in chips)
+Seat 5: Hero (29,415 in chips)
+Seat 6: 4c36db80 (37,270 in chips)
+Seat 7: 571e78dd (24,251 in chips)
+Seat 8: cf79f61f (27,589 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+cf79f61f: posts the ante 45
+5393046f: posts the ante 45
+141b417b: posts the ante 45
+5393046f: posts small blind 175
+70390ed2: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [As Js]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+141b417b: folds
+5d07a000: folds
+Hero: raises 350 to 700
+4c36db80: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: calls 525
+70390ed2: folds
+*** FLOP *** [Kc 5d 9h]
+5393046f: checks
+Hero: bets 697
+5393046f: calls 697
+*** TURN *** [Kc 5d 9h] [Td]
+5393046f: checks
+Hero: bets 1,752
+5393046f: folds
+Uncalled bet (1,752) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,504 from pot
+*** SUMMARY ***
+Total pot 3,504 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 5d 9h Td]
+Seat 1: 5393046f (small blind) folded on the Turn
+Seat 2: 70390ed2 (big blind) folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero won (3,504)
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f (button) folded before Flop
+
+
+Poker Hand #TM5647364068: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:48:32
+Table '17' 8-max Seat #7 is the button
+Seat 1: 5393046f (41,808 in chips)
+Seat 2: 70390ed2 (7,411 in chips)
+Seat 3: 141b417b (9,087 in chips)
+Seat 4: 5d07a000 (36,419 in chips)
+Seat 5: Hero (29,460 in chips)
+Seat 6: 4c36db80 (37,315 in chips)
+Seat 7: 571e78dd (24,296 in chips)
+Seat 8: cf79f61f (27,809 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+cf79f61f: posts small blind 175
+5393046f: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Jd 4s]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+70390ed2: folds
+141b417b: raises 350 to 700
+5d07a000: calls 700
+Hero: folds
+4c36db80: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: raises 2,800 to 3,500
+141b417b: folds
+5d07a000: calls 2,800
+*** FLOP *** [6h 7h 2c]
+5393046f: bets 4,118
+5d07a000: folds
+Uncalled bet (4,118) returned to 5393046f
+*** SHOWDOWN ***
+5393046f collected 8,235 from pot
+*** SUMMARY ***
+Total pot 8,235 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7h 2c]
+Seat 1: 5393046f (big blind) won (8,235)
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded on the Flop
+Seat 5: Hero folded before Flop
+Seat 6: 4c36db80 folded before Flop
+Seat 7: 571e78dd (button) folded before Flop
+Seat 8: cf79f61f (small blind) folded before Flop
+
+
+Poker Hand #TM5647364056: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level8(175/350(45)) - 2026/03/01 19:48:11
+Table '17' 8-max Seat #6 is the button
+Seat 1: 5393046f (41,853 in chips)
+Seat 2: 70390ed2 (8,156 in chips)
+Seat 3: 141b417b (9,132 in chips)
+Seat 4: 5d07a000 (36,464 in chips)
+Seat 5: Hero (27,920 in chips)
+Seat 6: 4c36db80 (37,360 in chips)
+Seat 7: 571e78dd (24,516 in chips)
+Seat 8: cf79f61f (28,204 in chips)
+571e78dd: posts the ante 45
+Hero: posts the ante 45
+5d07a000: posts the ante 45
+4c36db80: posts the ante 45
+70390ed2: posts the ante 45
+5393046f: posts the ante 45
+cf79f61f: posts the ante 45
+141b417b: posts the ante 45
+571e78dd: posts small blind 175
+cf79f61f: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [As Qh]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5393046f: folds
+70390ed2: raises 350 to 700
+141b417b: folds
+5d07a000: folds
+Hero: raises 1,493 to 2,193
+4c36db80: folds
+571e78dd: folds
+cf79f61f: folds
+70390ed2: folds
+Uncalled bet (1,493) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,285 from pot
+*** SUMMARY ***
+Total pot 2,285 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero collected (2,285)
+Seat 6: 4c36db80 (button) folded before Flop
+Seat 7: 571e78dd (small blind) folded before Flop
+Seat 8: cf79f61f (big blind) folded before Flop
+
+
+Poker Hand #TM5647364037: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:47:26
+Table '17' 8-max Seat #5 is the button
+Seat 1: 5393046f (43,753 in chips)
+Seat 2: 70390ed2 (8,191 in chips)
+Seat 3: 141b417b (9,167 in chips)
+Seat 4: 5d07a000 (36,499 in chips)
+Seat 5: Hero (25,360 in chips)
+Seat 6: 4c36db80 (37,545 in chips)
+Seat 7: 571e78dd (24,851 in chips)
+Seat 8: cf79f61f (28,239 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+4c36db80: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+4c36db80: posts small blind 150
+571e78dd: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [As Qc]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+cf79f61f: folds
+5393046f: raises 300 to 600
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: raises 1,265 to 1,865
+4c36db80: folds
+571e78dd: folds
+5393046f: calls 1,265
+*** FLOP *** [9c Ks 4h]
+5393046f: checks
+Hero: bets 1,472
+5393046f: folds
+Uncalled bet (1,472) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,460 from pot
+*** SUMMARY ***
+Total pot 4,460 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Ks 4h]
+Seat 1: 5393046f folded on the Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero (button) won (4,460)
+Seat 6: 4c36db80 (small blind) folded before Flop
+Seat 7: 571e78dd (big blind) folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364023: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:46:49
+Table '17' 8-max Seat #4 is the button
+Seat 1: 5393046f (43,788 in chips)
+Seat 2: 70390ed2 (8,226 in chips)
+Seat 3: 141b417b (9,202 in chips)
+Seat 4: 5d07a000 (37,134 in chips)
+Seat 5: Hero (25,545 in chips)
+Seat 6: 4c36db80 (36,550 in chips)
+Seat 7: 571e78dd (24,886 in chips)
+Seat 8: cf79f61f (28,274 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+4c36db80: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+Hero: posts small blind 150
+4c36db80: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [5s 6d]
+Dealt to 4c36db80 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: raises 300 to 600
+Hero: folds
+4c36db80: calls 300
+*** FLOP *** [6h 5d Ts]
+4c36db80: checks
+5d07a000: checks
+*** TURN *** [6h 5d Ts] [8h]
+4c36db80: bets 1,223
+5d07a000: folds
+Uncalled bet (1,223) returned to 4c36db80
+*** SHOWDOWN ***
+4c36db80 collected 1,630 from pot
+*** SUMMARY ***
+Total pot 1,630 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 5d Ts 8h]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 (button) folded on the Turn
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: 4c36db80 (big blind) won (1,630)
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647364010: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:46:19
+Table '17' 8-max Seat #3 is the button
+Seat 1: 5393046f (43,823 in chips)
+Seat 2: 70390ed2 (8,261 in chips)
+Seat 3: 141b417b (9,237 in chips)
+Seat 4: 5d07a000 (37,319 in chips)
+Seat 5: Hero (26,180 in chips)
+Seat 7: 571e78dd (24,921 in chips)
+Seat 8: cf79f61f (27,314 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+5d07a000: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Td 6c]
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+571e78dd: folds
+cf79f61f: raises 300 to 600
+5393046f: folds
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: calls 300
+*** FLOP *** [Kc 3c Qh]
+Hero: checks
+cf79f61f: bets 660
+Hero: folds
+Uncalled bet (660) returned to cf79f61f
+*** SHOWDOWN ***
+cf79f61f collected 1,595 from pot
+*** SUMMARY ***
+Total pot 1,595 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc 3c Qh]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b (button) folded before Flop
+Seat 4: 5d07a000 (small blind) folded before Flop
+Seat 5: Hero (big blind) folded on the Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f won (1,595)
+
+
+Poker Hand #TM5647363983: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:45:29
+Table '17' 8-max Seat #2 is the button
+Seat 1: 5393046f (43,858 in chips)
+Seat 2: 70390ed2 (9,445 in chips)
+Seat 3: 141b417b (9,422 in chips)
+Seat 4: 5d07a000 (35,810 in chips)
+Seat 5: Hero (26,215 in chips)
+Seat 7: 571e78dd (24,956 in chips)
+Seat 8: cf79f61f (27,349 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+141b417b: posts small blind 150
+5d07a000: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [2d 5d]
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+Hero: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: raises 300 to 600
+141b417b: folds
+5d07a000: calls 300
+*** FLOP *** [Ah Qc 7s]
+5d07a000: checks
+70390ed2: bets 549
+5d07a000: calls 549
+*** TURN *** [Ah Qc 7s] [5c]
+5d07a000: checks
+70390ed2: checks
+*** RIVER *** [Ah Qc 7s 5c] [3c]
+5d07a000: bets 2,020
+70390ed2: folds
+Uncalled bet (2,020) returned to 5d07a000
+*** SHOWDOWN ***
+5d07a000 collected 2,693 from pot
+*** SUMMARY ***
+Total pot 2,693 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah Qc 7s 5c 3c]
+Seat 1: 5393046f folded before Flop
+Seat 2: 70390ed2 (button) folded on the River
+Seat 3: 141b417b (small blind) folded before Flop
+Seat 4: 5d07a000 (big blind) won (2,693)
+Seat 5: Hero folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363975: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:45:05
+Table '17' 8-max Seat #1 is the button
+Seat 1: 5393046f (43,893 in chips)
+Seat 2: 70390ed2 (9,630 in chips)
+Seat 3: 141b417b (9,062 in chips)
+Seat 4: 5d07a000 (35,845 in chips)
+Seat 5: Hero (26,250 in chips)
+Seat 7: 571e78dd (24,991 in chips)
+Seat 8: cf79f61f (27,384 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+70390ed2: posts small blind 150
+141b417b: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [7h Js]
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5d07a000: folds
+Hero: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+Uncalled bet (150) returned to 141b417b
+*** SHOWDOWN ***
+141b417b collected 545 from pot
+*** SUMMARY ***
+Total pot 545 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f (button) folded before Flop
+Seat 2: 70390ed2 (small blind) folded before Flop
+Seat 3: 141b417b (big blind) collected (545)
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363944: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:43:50
+Table '17' 8-max Seat #8 is the button
+Seat 1: 5393046f (44,078 in chips)
+Seat 2: 70390ed2 (9,965 in chips)
+Seat 3: 141b417b (9,097 in chips)
+Seat 4: 5d07a000 (17,465 in chips)
+Seat 5: Hero (28,150 in chips)
+Seat 6: fa09101c (15,855 in chips)
+Seat 7: 571e78dd (25,026 in chips)
+Seat 8: cf79f61f (27,419 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+cf79f61f: posts the ante 35
+5393046f: posts the ante 35
+141b417b: posts the ante 35
+fa09101c: posts the ante 35
+5393046f: posts small blind 150
+70390ed2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [As Qs]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+141b417b: folds
+5d07a000: raises 300 to 600
+Hero: raises 1,265 to 1,865
+fa09101c: raises 3,835 to 5,700
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+70390ed2: folds
+5d07a000: raises 11,730 to 17,430 and is all-in
+Hero: folds
+fa09101c: calls 10,120 and is all-in
+Uncalled bet (1,610) returned to 5d07a000
+5d07a000: shows [Ks Kd]
+fa09101c: shows [Qd Kh]
+*** FLOP *** [Ad Ac 7c]
+*** TURN *** [Ad Ac 7c] [7d]
+*** RIVER *** [Ad Ac 7c 7d] [Js]
+Hero: shows [As Qs] (a full house, Aces full of Sevens)
+*** SHOWDOWN ***
+5d07a000 collected 34,235 from pot
+*** SUMMARY ***
+Total pot 34,235 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad Ac 7c 7d Js]
+Seat 1: 5393046f (small blind) folded before Flop
+Seat 2: 70390ed2 (big blind) folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 showed [Ks Kd] and won (34,235) with two pair, Aces and Kings
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c showed [Qd Kh] and lost with two pair, Aces and Sevens
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f (button) folded before Flop
+
+
+Poker Hand #TM5647363934: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:43:20
+Table '17' 8-max Seat #7 is the button
+Seat 1: 5393046f (44,413 in chips)
+Seat 2: 70390ed2 (10,000 in chips)
+Seat 3: 141b417b (9,132 in chips)
+Seat 4: 5d07a000 (17,500 in chips)
+Seat 5: Hero (28,185 in chips)
+Seat 6: fa09101c (15,890 in chips)
+Seat 7: 571e78dd (25,661 in chips)
+Seat 8: cf79f61f (26,274 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+70390ed2: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+fa09101c: posts the ante 35
+cf79f61f: posts small blind 150
+5393046f: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 70390ed2 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [2c 4h]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+70390ed2: folds
+141b417b: folds
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: raises 300 to 600
+cf79f61f: raises 1,335 to 1,935
+5393046f: folds
+571e78dd: folds
+Uncalled bet (1,335) returned to cf79f61f
+*** SHOWDOWN ***
+cf79f61f collected 1,780 from pot
+*** SUMMARY ***
+Total pot 1,780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f (big blind) folded before Flop
+Seat 2: 70390ed2 folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd (button) folded before Flop
+Seat 8: cf79f61f (small blind) collected (1,780)
+
+
+Poker Hand #TM5647363901: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:42:08
+Table '17' 8-max Seat #6 is the button
+Seat 1: 5393046f (44,448 in chips)
+Seat 3: 141b417b (7,246 in chips)
+Seat 4: 5d07a000 (17,535 in chips)
+Seat 5: Hero (28,220 in chips)
+Seat 6: fa09101c (17,151 in chips)
+Seat 7: 571e78dd (25,846 in chips)
+Seat 8: cf79f61f (26,609 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+fa09101c: posts the ante 35
+571e78dd: posts small blind 150
+cf79f61f: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [8c 4d]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5393046f: folds
+141b417b: raises 300 to 600
+5d07a000: folds
+Hero: folds
+fa09101c: calls 600
+571e78dd: folds
+cf79f61f: folds
+*** FLOP *** [Ks 7c 9s]
+141b417b: bets 626
+fa09101c: calls 626
+*** TURN *** [Ks 7c 9s] [Jh]
+141b417b: checks
+fa09101c: checks
+*** RIVER *** [Ks 7c 9s Jh] [7d]
+141b417b: checks
+fa09101c: checks
+141b417b: shows [Qd Jd] (two pair, Jacks and Sevens)
+fa09101c: shows [Qh 9d] (two pair, Nines and Sevens)
+*** SHOWDOWN ***
+141b417b collected 3,147 from pot
+*** SUMMARY ***
+Total pot 3,147 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 7c 9s Jh 7d]
+Seat 1: 5393046f folded before Flop
+Seat 3: 141b417b showed [Qd Jd] and won (3,147) with two pair, Jacks and Sevens
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c (button) showed [Qh 9d] and lost with two pair, Nines and Sevens
+Seat 7: 571e78dd (small blind) folded before Flop
+Seat 8: cf79f61f (big blind) folded before Flop
+
+
+Poker Hand #TM5647363893: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:41:46
+Table '17' 8-max Seat #5 is the button
+Seat 1: 5393046f (44,483 in chips)
+Seat 2: 97560c6a (14,469 in chips)
+Seat 3: 141b417b (7,281 in chips)
+Seat 4: 5d07a000 (17,570 in chips)
+Seat 5: Hero (28,255 in chips)
+Seat 6: fa09101c (17,336 in chips)
+Seat 7: 571e78dd (25,451 in chips)
+Seat 8: cf79f61f (26,644 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+97560c6a: posts the ante 35
+fa09101c: posts the ante 35
+fa09101c: posts small blind 150
+571e78dd: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Kh 4d]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+cf79f61f: folds
+5393046f: folds
+97560c6a: folds
+141b417b: folds
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+Uncalled bet (150) returned to 571e78dd
+*** SHOWDOWN ***
+571e78dd collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f folded before Flop
+Seat 2: 97560c6a folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: fa09101c (small blind) folded before Flop
+Seat 7: 571e78dd (big blind) collected (580)
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363876: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:40:56
+Table '17' 8-max Seat #4 is the button
+Seat 1: 5393046f (44,518 in chips)
+Seat 2: 97560c6a (14,504 in chips)
+Seat 3: 141b417b (6,286 in chips)
+Seat 4: 5d07a000 (17,605 in chips)
+Seat 5: Hero (28,440 in chips)
+Seat 6: fa09101c (17,971 in chips)
+Seat 7: 571e78dd (25,486 in chips)
+Seat 8: cf79f61f (26,679 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+97560c6a: posts the ante 35
+fa09101c: posts the ante 35
+Hero: posts small blind 150
+fa09101c: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [7d 3h]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+97560c6a: folds
+141b417b: raises 300 to 600
+5d07a000: folds
+Hero: folds
+fa09101c: calls 300
+*** FLOP *** [Qd 9d 4h]
+fa09101c: checks
+141b417b: bets 420
+fa09101c: folds
+Uncalled bet (420) returned to 141b417b
+*** SHOWDOWN ***
+141b417b collected 1,630 from pot
+*** SUMMARY ***
+Total pot 1,630 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 9d 4h]
+Seat 1: 5393046f folded before Flop
+Seat 2: 97560c6a folded before Flop
+Seat 3: 141b417b won (1,630)
+Seat 4: 5d07a000 (button) folded before Flop
+Seat 5: Hero (small blind) folded before Flop
+Seat 6: fa09101c (big blind) folded on the Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363846: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:39:34
+Table '17' 8-max Seat #3 is the button
+Seat 1: 5393046f (44,553 in chips)
+Seat 2: 97560c6a (9,600 in chips)
+Seat 3: 141b417b (10,230 in chips)
+Seat 4: 5d07a000 (17,790 in chips)
+Seat 5: Hero (29,075 in chips)
+Seat 6: fa09101c (18,006 in chips)
+Seat 7: 571e78dd (25,521 in chips)
+Seat 8: cf79f61f (26,714 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+97560c6a: posts the ante 35
+fa09101c: posts the ante 35
+5d07a000: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [7c 4s]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+fa09101c: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: folds
+97560c6a: raises 300 to 600
+141b417b: calls 600
+5d07a000: folds
+Hero: calls 300
+*** FLOP *** [3h Qd Ac]
+Hero: checks
+97560c6a: bets 759
+141b417b: calls 759
+Hero: folds
+*** TURN *** [3h Qd Ac] [2c]
+97560c6a: checks
+141b417b: checks
+*** RIVER *** [3h Qd Ac 2c] [Ah]
+97560c6a: checks
+141b417b: bets 2,550
+97560c6a: calls 2,550
+141b417b: shows [Kd Qc] (two pair, Aces and Queens)
+97560c6a: shows [7h Ad] (three of a kind, Aces)
+*** SHOWDOWN ***
+97560c6a collected 8,848 from pot
+*** SUMMARY ***
+Total pot 8,848 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h Qd Ac 2c Ah]
+Seat 1: 5393046f folded before Flop
+Seat 2: 97560c6a showed [7h Ad] and won (8,848) with three of a kind, Aces
+Seat 3: 141b417b (button) showed [Kd Qc] and lost with two pair, Aces and Queens
+Seat 4: 5d07a000 (small blind) folded before Flop
+Seat 5: Hero (big blind) folded on the Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363825: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level7(150/300(35)) - 2026/03/01 19:38:43
+Table '17' 8-max Seat #2 is the button
+Seat 1: 5393046f (44,588 in chips)
+Seat 2: 97560c6a (9,635 in chips)
+Seat 3: 141b417b (10,415 in chips)
+Seat 4: 5d07a000 (18,425 in chips)
+Seat 5: Hero (29,110 in chips)
+Seat 6: fa09101c (18,641 in chips)
+Seat 7: 571e78dd (23,926 in chips)
+Seat 8: cf79f61f (26,749 in chips)
+571e78dd: posts the ante 35
+Hero: posts the ante 35
+5d07a000: posts the ante 35
+5393046f: posts the ante 35
+cf79f61f: posts the ante 35
+141b417b: posts the ante 35
+97560c6a: posts the ante 35
+fa09101c: posts the ante 35
+141b417b: posts small blind 150
+5d07a000: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [5s Jd]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+Hero: folds
+fa09101c: raises 300 to 600
+571e78dd: calls 600
+cf79f61f: folds
+5393046f: folds
+97560c6a: folds
+141b417b: folds
+5d07a000: calls 300
+*** FLOP *** [7d 6d Ah]
+5d07a000: checks
+fa09101c: checks
+571e78dd: checks
+*** TURN *** [7d 6d Ah] [3d]
+5d07a000: checks
+fa09101c: checks
+571e78dd: bets 736
+5d07a000: folds
+fa09101c: folds
+Uncalled bet (736) returned to 571e78dd
+*** SHOWDOWN ***
+571e78dd collected 2,230 from pot
+*** SUMMARY ***
+Total pot 2,230 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d 6d Ah 3d]
+Seat 1: 5393046f folded before Flop
+Seat 2: 97560c6a (button) folded before Flop
+Seat 3: 141b417b (small blind) folded before Flop
+Seat 4: 5d07a000 (big blind) folded on the Turn
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded on the Turn
+Seat 7: 571e78dd won (2,230)
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363783: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:37:15
+Table '17' 8-max Seat #1 is the button
+Seat 1: 5393046f (42,970 in chips)
+Seat 2: 97560c6a (9,790 in chips)
+Seat 3: 141b417b (10,695 in chips)
+Seat 4: 5d07a000 (18,455 in chips)
+Seat 5: Hero (29,140 in chips)
+Seat 6: fa09101c (18,671 in chips)
+Seat 7: 571e78dd (24,989 in chips)
+Seat 8: cf79f61f (26,779 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+5393046f: posts the ante 30
+cf79f61f: posts the ante 30
+141b417b: posts the ante 30
+97560c6a: posts the ante 30
+fa09101c: posts the ante 30
+97560c6a: posts small blind 125
+141b417b: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [3h Ac]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: raises 250 to 500
+cf79f61f: folds
+5393046f: calls 500
+97560c6a: folds
+141b417b: folds
+*** FLOP *** [3s Td 5s]
+571e78dd: bets 533
+5393046f: calls 533
+*** TURN *** [3s Td 5s] [5h]
+571e78dd: checks
+5393046f: bets 1,341
+571e78dd: folds
+Uncalled bet (1,341) returned to 5393046f
+*** SHOWDOWN ***
+5393046f collected 2,681 from pot
+*** SUMMARY ***
+Total pot 2,681 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Td 5s 5h]
+Seat 1: 5393046f (button) won (2,681)
+Seat 2: 97560c6a (small blind) folded before Flop
+Seat 3: 141b417b (big blind) folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd folded on the Turn
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363760: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:36:14
+Table '17' 8-max Seat #8 is the button
+Seat 1: 5393046f (43,500 in chips)
+Seat 2: 97560c6a (9,080 in chips)
+Seat 3: 141b417b (10,725 in chips)
+Seat 4: 5d07a000 (18,485 in chips)
+Seat 5: Hero (29,170 in chips)
+Seat 6: fa09101c (18,701 in chips)
+Seat 7: 571e78dd (25,019 in chips)
+Seat 8: cf79f61f (26,809 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+5393046f: posts the ante 30
+141b417b: posts the ante 30
+97560c6a: posts the ante 30
+fa09101c: posts the ante 30
+5393046f: posts small blind 125
+97560c6a: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Td 2h]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+141b417b: folds
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: folds
+cf79f61f: folds
+5393046f: calls 125
+97560c6a: checks
+*** FLOP *** [Ac 6c 9h]
+5393046f: checks
+97560c6a: checks
+*** TURN *** [Ac 6c 9h] [Qc]
+5393046f: bets 250
+97560c6a: calls 250
+*** RIVER *** [Ac 6c 9h Qc] [Jd]
+5393046f: checks
+97560c6a: checks
+5393046f: shows [8s 4d] (Ace high)
+97560c6a: shows [3c Kh] (Ace high)
+*** SHOWDOWN ***
+97560c6a collected 1,240 from pot
+*** SUMMARY ***
+Total pot 1,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 6c 9h Qc Jd]
+Seat 1: 5393046f (small blind) showed [8s 4d] and lost with Ace high
+Seat 2: 97560c6a (big blind) showed [3c Kh] and won (1,240) with Ace high
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f (button) folded before Flop
+
+
+Poker Hand #TM5647363744: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:35:34
+Table '17' 8-max Seat #7 is the button
+Seat 1: 5393046f (43,165 in chips)
+Seat 2: 97560c6a (9,110 in chips)
+Seat 3: 141b417b (10,755 in chips)
+Seat 4: 5d07a000 (18,515 in chips)
+Seat 5: Hero (29,200 in chips)
+Seat 6: fa09101c (18,731 in chips)
+Seat 7: 571e78dd (25,049 in chips)
+Seat 8: cf79f61f (26,964 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+5393046f: posts the ante 30
+cf79f61f: posts the ante 30
+141b417b: posts the ante 30
+97560c6a: posts the ante 30
+fa09101c: posts the ante 30
+cf79f61f: posts small blind 125
+5393046f: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 5393046f 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [3s Jc]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+97560c6a: folds
+141b417b: folds
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: folds
+cf79f61f: folds
+Uncalled bet (125) returned to 5393046f
+*** SHOWDOWN ***
+5393046f collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 5393046f (big blind) collected (490)
+Seat 2: 97560c6a folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd (button) folded before Flop
+Seat 8: cf79f61f (small blind) folded before Flop
+
+
+Poker Hand #TM5647363716: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:34:34
+Table '17' 8-max Seat #6 is the button
+Seat 2: 97560c6a (9,140 in chips)
+Seat 3: 141b417b (9,825 in chips)
+Seat 4: 5d07a000 (18,545 in chips)
+Seat 5: Hero (29,230 in chips)
+Seat 6: fa09101c (18,761 in chips)
+Seat 7: 571e78dd (25,579 in chips)
+Seat 8: cf79f61f (27,244 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+141b417b: posts the ante 30
+97560c6a: posts the ante 30
+fa09101c: posts the ante 30
+571e78dd: posts small blind 125
+cf79f61f: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Ac 4s]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+97560c6a: folds
+141b417b: raises 250 to 500
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: calls 375
+cf79f61f: folds
+*** FLOP *** [Tc 3s 3c]
+571e78dd: checks
+141b417b: checks
+*** TURN *** [Tc 3s 3c] [8d]
+571e78dd: checks
+141b417b: bets 875
+571e78dd: folds
+Uncalled bet (875) returned to 141b417b
+*** SHOWDOWN ***
+141b417b collected 1,460 from pot
+*** SUMMARY ***
+Total pot 1,460 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 3s 3c 8d]
+Seat 2: 97560c6a folded before Flop
+Seat 3: 141b417b won (1,460)
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c (button) folded before Flop
+Seat 7: 571e78dd (small blind) folded on the Turn
+Seat 8: cf79f61f (big blind) folded before Flop
+
+
+Poker Hand #TM5647363682: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:32:57
+Table '17' 8-max Seat #5 is the button
+Seat 1: 24e41a19 (12,207 in chips)
+Seat 2: 97560c6a (9,170 in chips)
+Seat 3: 141b417b (9,855 in chips)
+Seat 4: 5d07a000 (18,575 in chips)
+Seat 5: Hero (29,260 in chips)
+Seat 6: fa09101c (19,291 in chips)
+Seat 7: 571e78dd (26,109 in chips)
+Seat 8: cf79f61f (27,274 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+141b417b: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+fa09101c: posts small blind 125
+571e78dd: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 141b417b 
+Dealt to 5d07a000 
+Dealt to Hero [Kh 2s]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+cf79f61f: folds
+24e41a19: raises 250 to 500
+97560c6a: folds
+141b417b: folds
+5d07a000: folds
+Hero: folds
+fa09101c: calls 375
+571e78dd: calls 250
+*** FLOP *** [Ac 5d Qs]
+fa09101c: checks
+571e78dd: checks
+24e41a19: bets 575
+fa09101c: folds
+571e78dd: folds
+Uncalled bet (575) returned to 24e41a19
+*** SHOWDOWN ***
+24e41a19 collected 1,740 from pot
+*** SUMMARY ***
+Total pot 1,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 5d Qs]
+Seat 1: 24e41a19 won (1,740)
+Seat 2: 97560c6a folded before Flop
+Seat 3: 141b417b folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero (button) folded before Flop
+Seat 6: fa09101c (small blind) folded on the Flop
+Seat 7: 571e78dd (big blind) folded on the Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363644: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:31:23
+Table '17' 8-max Seat #4 is the button
+Seat 1: 24e41a19 (12,237 in chips)
+Seat 2: 97560c6a (9,200 in chips)
+Seat 4: 5d07a000 (18,605 in chips)
+Seat 5: Hero (9,630 in chips)
+Seat 6: fa09101c (19,571 in chips)
+Seat 7: 571e78dd (35,739 in chips)
+Seat 8: cf79f61f (36,904 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+Hero: posts small blind 125
+fa09101c: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 5d07a000 
+Dealt to Hero [Qh Qd]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+571e78dd: raises 250 to 500
+cf79f61f: raises 1,000 to 1,500
+24e41a19: folds
+97560c6a: folds
+5d07a000: folds
+Hero: raises 8,100 to 9,600 and is all-in
+fa09101c: folds
+571e78dd: raises 26,109 to 35,709 and is all-in
+cf79f61f: calls 34,209
+571e78dd: shows [Ad Kh]
+cf79f61f: shows [Kc Ac]
+Hero: shows [Qh Qd]
+*** FLOP *** [6d 4c 3h]
+*** TURN *** [6d 4c 3h] [8d]
+*** RIVER *** [6d 4c 3h 8d] [6h]
+97560c6a: shows [Ks] (a pair of Sixes)
+*** SHOWDOWN ***
+Hero collected 29,260 from pot
+571e78dd collected 26,109 from pot
+cf79f61f collected 26,109 from pot
+*** SUMMARY ***
+Total pot 81,478 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 4c 3h 8d 6h]
+Seat 1: 24e41a19 folded before Flop
+Seat 2: 97560c6a folded before Flop
+Seat 4: 5d07a000 (button) folded before Flop
+Seat 5: Hero (small blind) showed [Qh Qd] and won (29,260) with two pair, Queens and Sixes
+Seat 6: fa09101c (big blind) folded before Flop
+Seat 7: 571e78dd showed [Ad Kh] and won (26,109) with a pair of Sixes
+Seat 8: cf79f61f showed [Kc Ac] and won (26,109) with a pair of Sixes
+
+
+Poker Hand #TM5647363626: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:30:48
+Table '17' 8-max Seat #2 is the button
+Seat 1: 24e41a19 (12,267 in chips)
+Seat 2: 97560c6a (9,230 in chips)
+Seat 4: 5d07a000 (18,760 in chips)
+Seat 5: Hero (9,910 in chips)
+Seat 6: fa09101c (19,601 in chips)
+Seat 7: 571e78dd (35,184 in chips)
+Seat 8: cf79f61f (36,934 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+5d07a000: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 5d07a000 
+Dealt to Hero [6s 3d]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+fa09101c: folds
+571e78dd: raises 250 to 500
+cf79f61f: folds
+24e41a19: folds
+97560c6a: folds
+5d07a000: folds
+Hero: folds
+Uncalled bet (250) returned to 571e78dd
+*** SHOWDOWN ***
+571e78dd collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 24e41a19 folded before Flop
+Seat 2: 97560c6a (button) folded before Flop
+Seat 4: 5d07a000 (small blind) folded before Flop
+Seat 5: Hero (big blind) folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd collected (835)
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363602: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:29:50
+Table '17' 8-max Seat #1 is the button
+Seat 1: 24e41a19 (9,557 in chips)
+Seat 2: 97560c6a (9,385 in chips)
+Seat 4: 5d07a000 (21,195 in chips)
+Seat 5: Hero (9,940 in chips)
+Seat 6: fa09101c (19,631 in chips)
+Seat 7: 571e78dd (35,214 in chips)
+Seat 8: cf79f61f (36,964 in chips)
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+cf79f61f: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+97560c6a: posts small blind 125
+5d07a000: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 5d07a000 
+Dealt to Hero [Kc 5h]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to cf79f61f 
+Hero: folds
+fa09101c: folds
+571e78dd: folds
+cf79f61f: folds
+24e41a19: raises 250 to 500
+97560c6a: folds
+5d07a000: calls 250
+*** FLOP *** [2c 5s Tc]
+5d07a000: checks
+24e41a19: bets 441
+5d07a000: calls 441
+*** TURN *** [2c 5s Tc] [2s]
+5d07a000: checks
+24e41a19: bets 1,464
+5d07a000: calls 1,464
+*** RIVER *** [2c 5s Tc 2s] [Jh]
+5d07a000: checks
+24e41a19: checks
+5d07a000: shows [6s 3s] (a pair of Twos)
+24e41a19: shows [6d 6c] (two pair, Sixes and Twos)
+*** SHOWDOWN ***
+24e41a19 collected 5,145 from pot
+*** SUMMARY ***
+Total pot 5,145 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 5s Tc 2s Jh]
+Seat 1: 24e41a19 (button) showed [6d 6c] and won (5,145) with two pair, Sixes and Twos
+Seat 2: 97560c6a (small blind) folded before Flop
+Seat 4: 5d07a000 (big blind) showed [6s 3s] and lost with a pair of Twos
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd folded before Flop
+Seat 8: cf79f61f folded before Flop
+
+
+Poker Hand #TM5647363585: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:28:53
+Table '17' 8-max Seat #7 is the button
+Seat 1: 24e41a19 (9,837 in chips)
+Seat 2: 97560c6a (9,415 in chips)
+Seat 3: 66b912bf (2,870 in chips)
+Seat 4: 5d07a000 (21,225 in chips)
+Seat 5: Hero (9,970 in chips)
+Seat 6: fa09101c (19,661 in chips)
+Seat 7: 571e78dd (17,887 in chips)
+Seat 8: 6239a3f7 (14,057 in chips)
+571e78dd: posts the ante 30
+6239a3f7: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+66b912bf: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+6239a3f7: posts small blind 125
+24e41a19: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 66b912bf 
+Dealt to 5d07a000 
+Dealt to Hero [7c 9s]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to 6239a3f7 
+97560c6a: folds
+66b912bf: raises 2,590 to 2,840 and is all-in
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: raises 15,017 to 17,857 and is all-in
+6239a3f7: calls 13,902 and is all-in
+24e41a19: folds
+Uncalled bet (3,830) returned to 571e78dd
+571e78dd: shows [Ks As]
+6239a3f7: shows [Qc Ad]
+66b912bf: shows [Th Qh]
+*** FLOP *** [Js 4s 3c]
+*** TURN *** [Js 4s 3c] [3d]
+*** RIVER *** [Js 4s 3c 3d] [5h]
+*** SHOWDOWN ***
+571e78dd collected 9,010 from pot
+571e78dd collected 22,374 from pot
+*** SUMMARY ***
+Total pot 31,384 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 4s 3c 3d 5h]
+Seat 1: 24e41a19 (big blind) folded before Flop
+Seat 2: 97560c6a folded before Flop
+Seat 3: 66b912bf showed [Th Qh] and lost with a pair of Threes
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c folded before Flop
+Seat 7: 571e78dd (button) showed [Ks As] and won (31,384) with a pair of Threes
+Seat 8: 6239a3f7 (small blind) showed [Qc Ad] and lost with a pair of Threes
+
+
+Poker Hand #TM5647363580: Tournament #266375537, APL Series: ¥88 Zodiac Sunday Lucky Eights Bounty + Rabbit Hold'em No Limit - Level6(125/250(30)) - 2026/03/01 19:28:31
+Table '17' 8-max Seat #6 is the button
+Seat 1: 24e41a19 (9,002 in chips)
+Seat 2: 97560c6a (9,445 in chips)
+Seat 3: 66b912bf (2,900 in chips)
+Seat 4: 5d07a000 (21,255 in chips)
+Seat 5: Hero (10,000 in chips)
+Seat 6: fa09101c (19,691 in chips)
+Seat 7: 571e78dd (18,042 in chips)
+Seat 8: 6239a3f7 (14,587 in chips)
+6239a3f7: posts the ante 30
+571e78dd: posts the ante 30
+Hero: posts the ante 30
+5d07a000: posts the ante 30
+66b912bf: posts the ante 30
+97560c6a: posts the ante 30
+24e41a19: posts the ante 30
+fa09101c: posts the ante 30
+571e78dd: posts small blind 125
+6239a3f7: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 24e41a19 
+Dealt to 97560c6a 
+Dealt to 66b912bf 
+Dealt to 5d07a000 
+Dealt to Hero [2s Ac]
+Dealt to fa09101c 
+Dealt to 571e78dd 
+Dealt to 6239a3f7 
+24e41a19: raises 250 to 500
+97560c6a: folds
+66b912bf: folds
+5d07a000: folds
+Hero: folds
+fa09101c: folds
+571e78dd: folds
+6239a3f7: calls 250
+*** FLOP *** [9s 8s Kc]
+6239a3f7: checks
+24e41a19: bets 410
+6239a3f7: folds
+Uncalled bet (410) returned to 24e41a19
+*** SHOWDOWN ***
+24e41a19 collected 1,365 from pot
+*** SUMMARY ***
+Total pot 1,365 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 8s Kc]
+Seat 1: 24e41a19 won (1,365)
+Seat 2: 97560c6a folded before Flop
+Seat 3: 66b912bf folded before Flop
+Seat 4: 5d07a000 folded before Flop
+Seat 5: Hero folded before Flop
+Seat 6: fa09101c (button) folded before Flop
+Seat 7: 571e78dd (small blind) folded before Flop
+Seat 8: 6239a3f7 (big blind) folded on the Flop
+
+

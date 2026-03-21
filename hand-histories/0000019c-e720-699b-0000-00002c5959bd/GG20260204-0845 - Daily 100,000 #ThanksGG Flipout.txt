@@ -1,0 +1,67 @@
+Poker Hand #TM5529480453: Tournament #261051814, Daily $100,000 #ThanksGG Flipout Hold'em No Limit - Level1(500/1,000(2,000,000,000)) - 2026/02/04 19:45:02
+Table '112' 9-max Seat #9 is the button
+Seat 1: 65ab33c8 (4,795 in chips)
+Seat 2: 1dbc2b19 (8,898 in chips)
+Seat 3: Hero (11,113 in chips)
+Seat 4: 7b19681c (4,795 in chips)
+Seat 5: 84fe4d4a (2,646 in chips)
+Seat 6: 41b01690 (13,272 in chips)
+Seat 7: 2d5645d9 (6,782 in chips)
+Seat 8: 6a93b00 (5,107 in chips)
+Seat 9: e4a79efa (37,866 in chips)
+e4a79efa: posts the ante 37,866
+2d5645d9: posts the ante 6,782
+84fe4d4a: posts the ante 2,646
+1dbc2b19: posts the ante 8,898
+41b01690: posts the ante 13,272
+Hero: posts the ante 11,113
+65ab33c8: posts the ante 4,795
+7b19681c: posts the ante 4,795
+6a93b00: posts the ante 5,107
+65ab33c8: posts small blind 0
+1dbc2b19: posts big blind 0
+*** HOLE CARDS ***
+Dealt to 65ab33c8 
+Dealt to 1dbc2b19 
+Dealt to Hero [4s 5h]
+Dealt to 7b19681c 
+Dealt to 84fe4d4a 
+Dealt to 41b01690 
+Dealt to 2d5645d9 
+Dealt to 6a93b00 
+Dealt to e4a79efa 
+Uncalled bet (24,594) returned to e4a79efa
+65ab33c8: shows [7c 9c]
+1dbc2b19: shows [2d 8d]
+Hero: shows [4s 5h]
+7b19681c: shows [Qc Jd]
+84fe4d4a: shows [Ac Kc]
+41b01690: shows [6h Th]
+2d5645d9: shows [3c 8c]
+6a93b00: shows [9h Jh]
+e4a79efa: shows [Tc Ts]
+*** FLOP *** [Ks 5s Ad]
+*** TURN *** [Ks 5s Ad] [Qh]
+*** RIVER *** [Ks 5s Ad Qh] [Kd]
+*** SHOWDOWN ***
+84fe4d4a collected 23,814 from pot
+7b19681c collected 17,192 from pot
+e4a79efa collected 1,872 from pot
+e4a79efa collected 8,375 from pot
+e4a79efa collected 8,464 from pot
+e4a79efa collected 6,645 from pot
+e4a79efa collected 4,318 from pot
+*** SUMMARY ***
+Total pot 70,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 5s Ad Qh Kd]
+Seat 1: 65ab33c8 (small blind) showed [7c 9c] and lost with a pair of Kings
+Seat 2: 1dbc2b19 (big blind) showed [2d 8d] and lost with a pair of Kings
+Seat 3: Hero showed [4s 5h] and lost with two pair, Kings and Fives
+Seat 4: 7b19681c showed [Qc Jd] and won (17,192) with two pair, Kings and Queens
+Seat 5: 84fe4d4a showed [Ac Kc] and won (23,814) with a full house, Kings full of Aces
+Seat 6: 41b01690 showed [6h Th] and lost with a pair of Kings
+Seat 7: 2d5645d9 showed [3c 8c] and lost with a pair of Kings
+Seat 8: 6a93b00 showed [9h Jh] and lost with a pair of Kings
+Seat 9: e4a79efa (button) showed [Tc Ts] and won (29,674) with two pair, Kings and Tens
+
+

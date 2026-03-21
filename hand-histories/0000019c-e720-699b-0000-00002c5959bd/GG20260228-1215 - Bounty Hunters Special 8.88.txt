@@ -1,0 +1,57 @@
+Poker Hand #TM5643840559: Tournament #266639678, Bounty Hunters Special $8.88 Hold'em No Limit - Level12(350/700(100)) - 2026/02/28 23:15:06
+Table '39' 8-max Seat #5 is the button
+Seat 1: 9a41518a (72,897 in chips)
+Seat 2: 7d5381d4 (18,411 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: 58e706b3 (45,990 in chips)
+Seat 5: 2da129a (15,650 in chips)
+Seat 6: 1c761a43 (15,210 in chips)
+Seat 7: 56b6314 (40,059 in chips)
+Seat 8: cebffb7a (33,961 in chips)
+7d5381d4: posts the ante 100
+Hero: posts the ante 100
+9a41518a: posts the ante 100
+58e706b3: posts the ante 100
+2da129a: posts the ante 100
+cebffb7a: posts the ante 100
+56b6314: posts the ante 100
+1c761a43: posts the ante 100
+1c761a43: posts small blind 350
+56b6314: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 9a41518a 
+Dealt to 7d5381d4 
+Dealt to Hero [Ad 4h]
+Dealt to 58e706b3 
+Dealt to 2da129a 
+Dealt to 1c761a43 
+Dealt to 56b6314 
+Dealt to cebffb7a 
+cebffb7a: folds
+9a41518a: folds
+7d5381d4: folds
+Hero: raises 9,200 to 9,900 and is all-in
+58e706b3: folds
+2da129a: calls 9,900
+1c761a43: folds
+56b6314: folds
+Hero: shows [Ad 4h]
+2da129a: shows [Qd Kd]
+*** FLOP *** [2h 8c 6d]
+*** TURN *** [2h 8c 6d] [Qh]
+*** RIVER *** [2h 8c 6d Qh] [9h]
+*** SHOWDOWN ***
+2da129a collected 21,650 from pot
+*** SUMMARY ***
+Total pot 21,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 8c 6d Qh 9h]
+Seat 1: 9a41518a folded before Flop
+Seat 2: 7d5381d4 folded before Flop
+Seat 3: Hero showed [Ad 4h] and lost with Ace high
+Seat 4: 58e706b3 folded before Flop
+Seat 5: 2da129a (button) showed [Qd Kd] and won (21,650) with a pair of Queens
+Seat 6: 1c761a43 (small blind) folded before Flop
+Seat 7: 56b6314 (big blind) folded before Flop
+Seat 8: cebffb7a folded before Flop
+
+

@@ -1,0 +1,57 @@
+Poker Hand #TM5643037406: Tournament #266375414, APL Series: ¥88 Zodiac Lucky Eights Bounty + Rabbit Hold'em No Limit - Level13(400/800(100)) - 2026/02/28 20:50:50
+Table '96' 8-max Seat #5 is the button
+Seat 1: 6642b801 (9,755 in chips)
+Seat 2: 92b118d1 (37,970 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: fa8654a2 (35,255 in chips)
+Seat 5: e10a6597 (13,018 in chips)
+Seat 6: 79924bab (31,664 in chips)
+Seat 7: 6ef6de00 (35,869 in chips)
+Seat 8: 413c88f5 (9,905 in chips)
+92b118d1: posts the ante 100
+79924bab: posts the ante 100
+Hero: posts the ante 100
+6ef6de00: posts the ante 100
+e10a6597: posts the ante 100
+413c88f5: posts the ante 100
+6642b801: posts the ante 100
+fa8654a2: posts the ante 100
+79924bab: posts small blind 400
+6ef6de00: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 6642b801 
+Dealt to 92b118d1 
+Dealt to Hero [Jc Js]
+Dealt to fa8654a2 
+Dealt to e10a6597 
+Dealt to 79924bab 
+Dealt to 6ef6de00 
+Dealt to 413c88f5 
+413c88f5: folds
+6642b801: folds
+92b118d1: folds
+Hero: raises 9,100 to 9,900 and is all-in
+fa8654a2: folds
+e10a6597: folds
+79924bab: folds
+6ef6de00: calls 9,100
+Hero: shows [Jc Js]
+6ef6de00: shows [Kd 3d]
+*** FLOP *** [Ks Qd 4h]
+*** TURN *** [Ks Qd 4h] [6s]
+*** RIVER *** [Ks Qd 4h 6s] [Ac]
+*** SHOWDOWN ***
+6ef6de00 collected 21,000 from pot
+*** SUMMARY ***
+Total pot 21,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Qd 4h 6s Ac]
+Seat 1: 6642b801 folded before Flop
+Seat 2: 92b118d1 folded before Flop
+Seat 3: Hero showed [Jc Js] and lost with a pair of Jacks
+Seat 4: fa8654a2 folded before Flop
+Seat 5: e10a6597 (button) folded before Flop
+Seat 6: 79924bab (small blind) folded before Flop
+Seat 7: 6ef6de00 (big blind) showed [Kd 3d] and won (21,000) with a pair of Kings
+Seat 8: 413c88f5 folded before Flop
+
+

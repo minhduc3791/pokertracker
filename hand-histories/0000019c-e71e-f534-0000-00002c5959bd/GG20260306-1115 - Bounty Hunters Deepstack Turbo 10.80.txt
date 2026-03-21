@@ -1,0 +1,4640 @@
+Poker Hand #TM5671524456: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:47:43
+Table '7' 8-max Seat #8 is the button
+Seat 1: 91dd0eb4 (35,664 in chips)
+Seat 2: 6333fcc7 (52,560 in chips)
+Seat 3: Hero (15,478 in chips)
+Seat 4: e319fcaa (24,816 in chips)
+Seat 5: c11f676f (28,540 in chips)
+Seat 6: a97c09cf (10,134 in chips)
+Seat 7: d3662094 (77,688 in chips)
+Seat 8: 5c5ef386 (48,064 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+5c5ef386: posts the ante 120
+c11f676f: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+91dd0eb4: posts small blind 400
+6333fcc7: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [4h 4d]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+Hero: raises 800 to 1,600
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: folds
+d3662094: folds
+5c5ef386: calls 1,600
+91dd0eb4: raises 5,200 to 6,800
+6333fcc7: folds
+Hero: raises 8,558 to 15,358 and is all-in
+5c5ef386: folds
+91dd0eb4: calls 8,558
+Hero: shows [4h 4d]
+91dd0eb4: shows [Js Jd]
+*** FLOP *** [Ts 9c 2d]
+*** TURN *** [Ts 9c 2d] [3d]
+*** RIVER *** [Ts 9c 2d 3d] [6s]
+*** SHOWDOWN ***
+91dd0eb4 collected 34,076 from pot
+*** SUMMARY ***
+Total pot 34,076 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 9c 2d 3d 6s]
+Seat 1: 91dd0eb4 (small blind) showed [Js Jd] and won (34,076) with a pair of Jacks
+Seat 2: 6333fcc7 (big blind) folded before Flop
+Seat 3: Hero showed [4h 4d] and lost with a pair of Fours
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 (button) folded before Flop
+
+
+Poker Hand #TM5671524434: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:47:03
+Table '7' 8-max Seat #7 is the button
+Seat 1: 91dd0eb4 (40,171 in chips)
+Seat 2: 6333fcc7 (52,680 in chips)
+Seat 3: Hero (15,598 in chips)
+Seat 4: e319fcaa (24,936 in chips)
+Seat 5: c11f676f (28,660 in chips)
+Seat 6: a97c09cf (4,507 in chips)
+Seat 7: d3662094 (77,808 in chips)
+Seat 8: 5c5ef386 (48,584 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+c11f676f: posts the ante 120
+5c5ef386: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+5c5ef386: posts small blind 400
+91dd0eb4: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [7c Kd]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: raises 3,587 to 4,387 and is all-in
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: calls 3,587
+a97c09cf: shows [Td Jh]
+91dd0eb4: shows [4d 9h]
+*** FLOP *** [Qd Ad Tc]
+*** TURN *** [Qd Ad Tc] [5d]
+*** RIVER *** [Qd Ad Tc 5d] [5h]
+*** SHOWDOWN ***
+a97c09cf collected 10,134 from pot
+*** SUMMARY ***
+Total pot 10,134 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd Ad Tc 5d 5h]
+Seat 1: 91dd0eb4 (big blind) showed [4d 9h] and lost with a pair of Fives
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf showed [Td Jh] and won (10,134) with two pair, Tens and Fives
+Seat 7: d3662094 (button) folded before Flop
+Seat 8: 5c5ef386 (small blind) folded before Flop
+
+
+Poker Hand #TM5671524402: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:46:07
+Table '7' 8-max Seat #6 is the button
+Seat 1: 91dd0eb4 (40,291 in chips)
+Seat 2: 6333fcc7 (52,800 in chips)
+Seat 3: Hero (15,718 in chips)
+Seat 4: e319fcaa (25,056 in chips)
+Seat 5: c11f676f (30,380 in chips)
+Seat 6: a97c09cf (9,827 in chips)
+Seat 7: d3662094 (78,328 in chips)
+Seat 8: 5c5ef386 (40,544 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+c11f676f: posts the ante 120
+5c5ef386: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+d3662094: posts small blind 400
+5c5ef386: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [8c Jh]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: raises 800 to 1,600
+a97c09cf: calls 1,600
+d3662094: folds
+5c5ef386: calls 800
+*** FLOP *** [Js 6d Qc]
+5c5ef386: checks
+c11f676f: checks
+a97c09cf: checks
+*** TURN *** [Js 6d Qc] [7c]
+5c5ef386: bets 3,600
+c11f676f: folds
+a97c09cf: calls 3,600
+*** RIVER *** [Js 6d Qc 7c] [7h]
+5c5ef386: checks
+a97c09cf: checks
+5c5ef386: shows [Qs Kc] (two pair, Queens and Sevens)
+a97c09cf: shows [4c Ac] (a pair of Sevens)
+*** SHOWDOWN ***
+5c5ef386 collected 13,360 from pot
+*** SUMMARY ***
+Total pot 13,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 6d Qc 7c 7h]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded on the Turn
+Seat 6: a97c09cf (button) showed [4c Ac] and lost with a pair of Sevens
+Seat 7: d3662094 (small blind) folded before Flop
+Seat 8: 5c5ef386 (big blind) showed [Qs Kc] and won (13,360) with two pair, Queens and Sevens
+
+
+Poker Hand #TM5671524362: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:44:56
+Table '7' 8-max Seat #5 is the button
+Seat 1: 91dd0eb4 (40,411 in chips)
+Seat 2: 6333fcc7 (52,920 in chips)
+Seat 3: Hero (15,838 in chips)
+Seat 4: e319fcaa (25,176 in chips)
+Seat 5: c11f676f (14,430 in chips)
+Seat 6: a97c09cf (24,257 in chips)
+Seat 7: d3662094 (79,248 in chips)
+Seat 8: 5c5ef386 (40,664 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+c11f676f: posts the ante 120
+5c5ef386: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+a97c09cf: posts small blind 400
+d3662094: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [2c 8h]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: raises 800 to 1,600
+a97c09cf: calls 1,200
+d3662094: folds
+*** FLOP *** [Kd 3c 8s]
+a97c09cf: checks
+c11f676f: bets 1,637
+a97c09cf: calls 1,637
+*** TURN *** [Kd 3c 8s] [3d]
+a97c09cf: checks
+c11f676f: bets 11,073 and is all-in
+a97c09cf: calls 11,073
+c11f676f: shows [Js Jh] (two pair, Jacks and Threes)
+a97c09cf: shows [Qd 8d] (two pair, Eights and Threes)
+*** RIVER *** [Kd 3c 8s 3d] [4h]
+*** SHOWDOWN ***
+c11f676f collected 30,380 from pot
+*** SUMMARY ***
+Total pot 30,380 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 3c 8s 3d 4h]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f (button) showed [Js Jh] and won (30,380) with two pair, Jacks and Threes
+Seat 6: a97c09cf (small blind) showed [Qd 8d] and lost with two pair, Eights and Threes
+Seat 7: d3662094 (big blind) folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524339: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:44:12
+Table '7' 8-max Seat #4 is the button
+Seat 1: 91dd0eb4 (40,531 in chips)
+Seat 2: 6333fcc7 (50,080 in chips)
+Seat 3: Hero (15,958 in chips)
+Seat 4: e319fcaa (25,296 in chips)
+Seat 5: c11f676f (14,950 in chips)
+Seat 6: a97c09cf (25,977 in chips)
+Seat 7: d3662094 (79,368 in chips)
+Seat 8: 5c5ef386 (40,784 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+5c5ef386: posts the ante 120
+c11f676f: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+c11f676f: posts small blind 400
+a97c09cf: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [2c 7c]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: raises 800 to 1,600
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: calls 800
+*** FLOP *** [9d 9c 6s]
+a97c09cf: checks
+6333fcc7: checks
+*** TURN *** [9d 9c 6s] [Jh]
+a97c09cf: checks
+6333fcc7: bets 3,420
+a97c09cf: folds
+Uncalled bet (3,420) returned to 6333fcc7
+*** SHOWDOWN ***
+6333fcc7 collected 4,560 from pot
+*** SUMMARY ***
+Total pot 4,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 9c 6s Jh]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 won (4,560)
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa (button) folded before Flop
+Seat 5: c11f676f (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) folded on the Turn
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524326: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:43:45
+Table '7' 8-max Seat #3 is the button
+Seat 1: 91dd0eb4 (40,651 in chips)
+Seat 2: 6333fcc7 (50,200 in chips)
+Seat 3: Hero (16,078 in chips)
+Seat 4: e319fcaa (25,816 in chips)
+Seat 5: c11f676f (15,870 in chips)
+Seat 6: a97c09cf (23,937 in chips)
+Seat 7: d3662094 (79,488 in chips)
+Seat 8: 5c5ef386 (40,904 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+5c5ef386: posts the ante 120
+c11f676f: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+e319fcaa: posts small blind 400
+c11f676f: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [9c 6d]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+a97c09cf: raises 800 to 1,600
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+Uncalled bet (800) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 2,960 from pot
+*** SUMMARY ***
+Total pot 2,960 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: e319fcaa (small blind) folded before Flop
+Seat 5: c11f676f (big blind) folded before Flop
+Seat 6: a97c09cf collected (2,960)
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524272: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level11(400/800(120)) - 2026/03/06 23:42:10
+Table '7' 8-max Seat #2 is the button
+Seat 1: 91dd0eb4 (40,771 in chips)
+Seat 2: 6333fcc7 (23,140 in chips)
+Seat 3: Hero (17,798 in chips)
+Seat 4: e319fcaa (27,536 in chips)
+Seat 5: c11f676f (15,990 in chips)
+Seat 6: a97c09cf (47,077 in chips)
+Seat 7: d3662094 (79,608 in chips)
+Seat 8: 5c5ef386 (41,024 in chips)
+6333fcc7: posts the ante 120
+91dd0eb4: posts the ante 120
+e319fcaa: posts the ante 120
+Hero: posts the ante 120
+5c5ef386: posts the ante 120
+c11f676f: posts the ante 120
+a97c09cf: posts the ante 120
+d3662094: posts the ante 120
+Hero: posts small blind 400
+e319fcaa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Ks Qh]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+c11f676f: folds
+a97c09cf: raises 800 to 1,600
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: calls 1,600
+Hero: calls 1,200
+e319fcaa: calls 800
+*** FLOP *** [Ah 4s Td]
+Hero: checks
+e319fcaa: checks
+a97c09cf: bets 2,429
+6333fcc7: calls 2,429
+Hero: folds
+e319fcaa: folds
+*** TURN *** [Ah 4s Td] [2h]
+a97c09cf: bets 4,032
+6333fcc7: calls 4,032
+*** RIVER *** [Ah 4s Td 2h] [8d]
+a97c09cf: checks
+6333fcc7: bets 14,959 and is all-in
+a97c09cf: calls 14,959
+6333fcc7: shows [4h 4c] (three of a kind, Fours)
+a97c09cf: shows [Ac Js] (a pair of Aces)
+*** SHOWDOWN ***
+6333fcc7 collected 50,200 from pot
+*** SUMMARY ***
+Total pot 50,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 4s Td 2h 8d]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 (button) showed [4h 4c] and won (50,200) with three of a kind, Fours
+Seat 3: Hero (small blind) folded on the Flop
+Seat 4: e319fcaa (big blind) folded on the Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf showed [Ac Js] and lost with a pair of Aces
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524250: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:41:34
+Table '7' 8-max Seat #1 is the button
+Seat 1: 91dd0eb4 (40,871 in chips)
+Seat 2: 6333fcc7 (23,590 in chips)
+Seat 3: Hero (18,598 in chips)
+Seat 4: e319fcaa (27,636 in chips)
+Seat 5: c11f676f (16,090 in chips)
+Seat 6: a97c09cf (45,327 in chips)
+Seat 7: d3662094 (79,708 in chips)
+Seat 8: 5c5ef386 (41,124 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+5c5ef386: posts the ante 100
+c11f676f: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+6333fcc7: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Qs 4c]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: raises 700 to 1,400
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+Uncalled bet (700) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 2,550 from pot
+*** SUMMARY ***
+Total pot 2,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf collected (2,550)
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524210: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:40:16
+Table '7' 8-max Seat #8 is the button
+Seat 1: 91dd0eb4 (41,321 in chips)
+Seat 2: 6333fcc7 (29,077 in chips)
+Seat 3: Hero (18,698 in chips)
+Seat 4: e319fcaa (27,736 in chips)
+Seat 5: c11f676f (16,190 in chips)
+Seat 6: a97c09cf (37,490 in chips)
+Seat 7: d3662094 (79,808 in chips)
+Seat 8: 5c5ef386 (42,624 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+5c5ef386: posts the ante 100
+c11f676f: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+91dd0eb4: posts small blind 350
+6333fcc7: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Jc 9d]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: raises 700 to 1,400
+d3662094: folds
+5c5ef386: calls 1,400
+91dd0eb4: folds
+6333fcc7: calls 700
+*** FLOP *** [9h Ah 2d]
+6333fcc7: checks
+a97c09cf: bets 1,766
+5c5ef386: folds
+6333fcc7: calls 1,766
+*** TURN *** [9h Ah 2d] [8d]
+6333fcc7: checks
+a97c09cf: checks
+*** RIVER *** [9h Ah 2d 8d] [Kc]
+6333fcc7: bets 2,221
+a97c09cf: calls 2,221
+6333fcc7: shows [Ad 4h] (a pair of Aces)
+a97c09cf: shows [Qd As] (a pair of Aces)
+*** SHOWDOWN ***
+a97c09cf collected 13,324 from pot
+*** SUMMARY ***
+Total pot 13,324 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Ah 2d 8d Kc]
+Seat 1: 91dd0eb4 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) showed [Ad 4h] and lost with a pair of Aces
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf showed [Qd As] and won (13,324) with a pair of Aces
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 (button) folded on the Flop
+
+
+Poker Hand #TM5671524187: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:39:38
+Table '7' 8-max Seat #7 is the button
+Seat 1: 91dd0eb4 (42,121 in chips)
+Seat 2: 6333fcc7 (29,177 in chips)
+Seat 3: Hero (15,548 in chips)
+Seat 4: e319fcaa (27,836 in chips)
+Seat 5: c11f676f (16,290 in chips)
+Seat 6: a97c09cf (38,990 in chips)
+Seat 7: d3662094 (79,908 in chips)
+Seat 8: 5c5ef386 (43,074 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+c11f676f: posts the ante 100
+5c5ef386: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+5c5ef386: posts small blind 350
+91dd0eb4: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Qs Ts]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+6333fcc7: folds
+Hero: raises 700 to 1,400
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: calls 1,400
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+*** FLOP *** [2c 8h 6h]
+Hero: checks
+a97c09cf: checks
+*** TURN *** [2c 8h 6h] [Ah]
+Hero: checks
+a97c09cf: checks
+*** RIVER *** [2c 8h 6h Ah] [6s]
+Hero: bets 1,535
+a97c09cf: folds
+Uncalled bet (1,535) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,650 from pot
+*** SUMMARY ***
+Total pot 4,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 8h 6h Ah 6s]
+Seat 1: 91dd0eb4 (big blind) folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero won (4,650)
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf folded on the River
+Seat 7: d3662094 (button) folded before Flop
+Seat 8: 5c5ef386 (small blind) folded before Flop
+
+
+Poker Hand #TM5671524147: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:38:30
+Table '7' 8-max Seat #6 is the button
+Seat 1: 91dd0eb4 (43,761 in chips)
+Seat 2: 6333fcc7 (29,277 in chips)
+Seat 3: Hero (15,648 in chips)
+Seat 4: e319fcaa (27,936 in chips)
+Seat 5: c11f676f (16,390 in chips)
+Seat 6: a97c09cf (47,490 in chips)
+Seat 7: d3662094 (68,568 in chips)
+Seat 8: 5c5ef386 (43,874 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+c11f676f: posts the ante 100
+5c5ef386: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+d3662094: posts small blind 350
+5c5ef386: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [7s Ts]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+91dd0eb4: raises 840 to 1,540
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: calls 1,540
+d3662094: raises 6,860 to 8,400
+5c5ef386: folds
+91dd0eb4: folds
+a97c09cf: calls 6,860
+*** FLOP *** [7h Qs Tc]
+d3662094: checks
+a97c09cf: checks
+*** TURN *** [7h Qs Tc] [4d]
+d3662094: bets 7,000
+a97c09cf: folds
+Uncalled bet (7,000) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 19,840 from pot
+*** SUMMARY ***
+Total pot 19,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Qs Tc 4d]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf (button) folded on the Turn
+Seat 7: d3662094 (small blind) won (19,840)
+Seat 8: 5c5ef386 (big blind) folded before Flop
+
+
+Poker Hand #TM5671524126: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:37:52
+Table '7' 8-max Seat #5 is the button
+Seat 1: 91dd0eb4 (43,861 in chips)
+Seat 2: 6333fcc7 (29,377 in chips)
+Seat 3: Hero (15,748 in chips)
+Seat 4: e319fcaa (28,036 in chips)
+Seat 5: c11f676f (16,490 in chips)
+Seat 6: a97c09cf (47,940 in chips)
+Seat 7: d3662094 (67,518 in chips)
+Seat 8: 5c5ef386 (43,974 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+c11f676f: posts the ante 100
+5c5ef386: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+a97c09cf: posts small blind 350
+d3662094: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Ts 9d]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: folds
+Uncalled bet (350) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 1,500 from pot
+*** SUMMARY ***
+Total pot 1,500 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: d3662094 (big blind) collected (1,500)
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524084: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:36:41
+Table '7' 8-max Seat #4 is the button
+Seat 1: 91dd0eb4 (43,961 in chips)
+Seat 2: 6333fcc7 (29,477 in chips)
+Seat 3: Hero (7,049 in chips)
+Seat 4: e319fcaa (28,136 in chips)
+Seat 5: c11f676f (16,940 in chips)
+Seat 6: a97c09cf (48,740 in chips)
+Seat 7: d3662094 (67,618 in chips)
+Seat 8: 5c5ef386 (51,023 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+5c5ef386: posts the ante 100
+c11f676f: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+c11f676f: posts small blind 350
+a97c09cf: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [5d As]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+d3662094: folds
+5c5ef386: raises 700 to 1,400
+91dd0eb4: folds
+6333fcc7: folds
+Hero: raises 5,549 to 6,949 and is all-in
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: folds
+5c5ef386: calls 5,549
+Hero: shows [5d As]
+5c5ef386: shows [2c 2d]
+*** FLOP *** [6s Ah 6c]
+*** TURN *** [6s Ah 6c] [5c]
+*** RIVER *** [6s Ah 6c 5c] [Kd]
+*** SHOWDOWN ***
+Hero collected 15,748 from pot
+*** SUMMARY ***
+Total pot 15,748 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Ah 6c 5c Kd]
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero showed [5d As] and won (15,748) with two pair, Aces and Sixes
+Seat 4: e319fcaa (button) folded before Flop
+Seat 5: c11f676f (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 showed [2c 2d] and lost with two pair, Sixes and Twos
+
+
+Poker Hand #TM5671524065: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:36:07
+Table '7' 8-max Seat #3 is the button
+Seat 1: 91dd0eb4 (44,061 in chips)
+Seat 2: 6333fcc7 (29,577 in chips)
+Seat 3: Hero (7,149 in chips)
+Seat 4: e319fcaa (28,586 in chips)
+Seat 5: c11f676f (14,490 in chips)
+Seat 6: a97c09cf (48,840 in chips)
+Seat 7: d3662094 (69,118 in chips)
+Seat 8: 5c5ef386 (51,123 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+5c5ef386: posts the ante 100
+c11f676f: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+e319fcaa: posts small blind 350
+c11f676f: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [5d 6s]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+a97c09cf: folds
+d3662094: raises 700 to 1,400
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: raises 12,990 to 14,390 and is all-in
+d3662094: folds
+Uncalled bet (12,990) returned to c11f676f
+*** SHOWDOWN ***
+c11f676f collected 3,950 from pot
+*** SUMMARY ***
+Total pot 3,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: e319fcaa (small blind) folded before Flop
+Seat 5: c11f676f (big blind) collected (3,950)
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671524028: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level10(350/700(100)) - 2026/03/06 23:34:56
+Table '7' 8-max Seat #2 is the button
+Seat 1: 91dd0eb4 (40,841 in chips)
+Seat 2: 6333fcc7 (29,677 in chips)
+Seat 3: Hero (7,599 in chips)
+Seat 4: e319fcaa (29,386 in chips)
+Seat 5: c11f676f (14,590 in chips)
+Seat 6: a97c09cf (48,940 in chips)
+Seat 7: d3662094 (69,218 in chips)
+Seat 8: 5c5ef386 (52,693 in chips)
+6333fcc7: posts the ante 100
+91dd0eb4: posts the ante 100
+e319fcaa: posts the ante 100
+Hero: posts the ante 100
+5c5ef386: posts the ante 100
+c11f676f: posts the ante 100
+a97c09cf: posts the ante 100
+d3662094: posts the ante 100
+Hero: posts small blind 350
+e319fcaa: posts big blind 700
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Qd 6h]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+c11f676f: folds
+a97c09cf: folds
+d3662094: folds
+5c5ef386: raises 770 to 1,470
+91dd0eb4: calls 1,470
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+*** FLOP *** [3s 2c 7s]
+5c5ef386: checks
+91dd0eb4: checks
+*** TURN *** [3s 2c 7s] [7c]
+5c5ef386: checks
+91dd0eb4: checks
+*** RIVER *** [3s 2c 7s 7c] [5h]
+5c5ef386: checks
+91dd0eb4: checks
+5c5ef386: shows [Jh Th] (a pair of Sevens)
+91dd0eb4: shows [Kc Qs] (a pair of Sevens)
+*** SHOWDOWN ***
+91dd0eb4 collected 4,790 from pot
+*** SUMMARY ***
+Total pot 4,790 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 2c 7s 7c 5h]
+Seat 1: 91dd0eb4 showed [Kc Qs] and won (4,790) with a pair of Sevens
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: e319fcaa (big blind) folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 showed [Jh Th] and lost with a pair of Sevens
+
+
+Poker Hand #TM5671523982: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:33:43
+Table '7' 8-max Seat #1 is the button
+Seat 1: 91dd0eb4 (40,931 in chips)
+Seat 2: 6333fcc7 (30,067 in chips)
+Seat 3: Hero (8,289 in chips)
+Seat 4: e319fcaa (24,933 in chips)
+Seat 5: c11f676f (14,680 in chips)
+Seat 6: a97c09cf (51,953 in chips)
+Seat 7: d3662094 (69,308 in chips)
+Seat 8: 5c5ef386 (52,783 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+c11f676f: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+6333fcc7: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Kh 2c]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+e319fcaa: raises 600 to 1,200
+c11f676f: folds
+a97c09cf: raises 600 to 1,800
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: calls 600
+*** FLOP *** [6d 6h 4s]
+e319fcaa: checks
+a97c09cf: checks
+*** TURN *** [6d 6h 4s] [Jd]
+e319fcaa: checks
+a97c09cf: checks
+*** RIVER *** [6d 6h 4s Jd] [8h]
+e319fcaa: bets 1,123
+a97c09cf: calls 1,123
+e319fcaa: shows [8s 7s] (two pair, Eights and Sixes)
+a97c09cf: shows [Qd As] (a pair of Sixes)
+*** SHOWDOWN ***
+e319fcaa collected 7,466 from pot
+*** SUMMARY ***
+Total pot 7,466 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 6h 4s Jd 8h]
+Seat 1: 91dd0eb4 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: e319fcaa showed [8s 7s] and won (7,466) with two pair, Eights and Sixes
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf showed [Qd As] and lost with a pair of Sixes
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523943: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:32:36
+Table '7' 8-max Seat #8 is the button
+Seat 1: 91dd0eb4 (41,321 in chips)
+Seat 2: 6333fcc7 (13,251 in chips)
+Seat 3: Hero (21,540 in chips)
+Seat 4: e319fcaa (25,023 in chips)
+Seat 5: c11f676f (14,770 in chips)
+Seat 6: a97c09cf (52,043 in chips)
+Seat 7: d3662094 (69,398 in chips)
+Seat 8: 5c5ef386 (55,598 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+c11f676f: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+91dd0eb4: posts small blind 300
+6333fcc7: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [7h Ah]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+Hero: raises 600 to 1,200
+e319fcaa: folds
+c11f676f: folds
+a97c09cf: folds
+d3662094: folds
+5c5ef386: calls 1,200
+91dd0eb4: folds
+6333fcc7: calls 600
+*** FLOP *** [Ad 3s 5c]
+6333fcc7: checks
+Hero: bets 1,525
+5c5ef386: calls 1,525
+6333fcc7: calls 1,525
+*** TURN *** [Ad 3s 5c] [4s]
+6333fcc7: checks
+Hero: bets 4,598
+5c5ef386: folds
+6333fcc7: calls 4,598
+*** RIVER *** [Ad 3s 5c 4s] [Jc]
+6333fcc7: bets 5,838 and is all-in
+Hero: calls 5,838
+6333fcc7: shows [2h 5h] (a straight, Ace to Five)
+Hero: shows [7h Ah] (a pair of Aces)
+*** SHOWDOWN ***
+6333fcc7 collected 30,067 from pot
+*** SUMMARY ***
+Total pot 30,067 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 3s 5c 4s Jc]
+Seat 1: 91dd0eb4 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) showed [2h 5h] and won (30,067) with a straight, Ace to Five
+Seat 3: Hero showed [7h Ah] and lost with a pair of Aces
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 (button) folded on the Turn
+
+
+Poker Hand #TM5671523903: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:31:20
+Table '7' 8-max Seat #7 is the button
+Seat 1: 91dd0eb4 (42,011 in chips)
+Seat 2: 6333fcc7 (13,341 in chips)
+Seat 3: Hero (21,630 in chips)
+Seat 4: e319fcaa (25,113 in chips)
+Seat 5: c11f676f (6,665 in chips)
+Seat 6: a97c09cf (52,133 in chips)
+Seat 7: d3662094 (76,063 in chips)
+Seat 8: 5c5ef386 (55,988 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+c11f676f: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+5c5ef386: posts small blind 300
+91dd0eb4: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Qd 4c]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+c11f676f: raises 600 to 1,200
+a97c09cf: folds
+d3662094: raises 1,800 to 3,000
+5c5ef386: folds
+91dd0eb4: folds
+c11f676f: raises 3,575 to 6,575 and is all-in
+d3662094: calls 3,575
+c11f676f: shows [Js Qs]
+d3662094: shows [7d 7c]
+*** FLOP *** [8s 8c Ts]
+*** TURN *** [8s 8c Ts] [As]
+*** RIVER *** [8s 8c Ts As] [4s]
+*** SHOWDOWN ***
+c11f676f collected 14,770 from pot
+*** SUMMARY ***
+Total pot 14,770 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 8c Ts As 4s]
+Seat 1: 91dd0eb4 (big blind) folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: c11f676f showed [Js Qs] and won (14,770) with a flush Ace high
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 (button) showed [7d 7c] and lost with two pair, Eights and Sevens
+Seat 8: 5c5ef386 (small blind) folded before Flop
+
+
+Poker Hand #TM5671523869: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:30:18
+Table '7' 8-max Seat #6 is the button
+Seat 1: 91dd0eb4 (43,421 in chips)
+Seat 2: 6333fcc7 (13,431 in chips)
+Seat 3: Hero (21,720 in chips)
+Seat 4: e319fcaa (26,523 in chips)
+Seat 5: c11f676f (6,755 in chips)
+Seat 6: a97c09cf (52,223 in chips)
+Seat 7: d3662094 (76,453 in chips)
+Seat 8: 5c5ef386 (52,418 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+c11f676f: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+d3662094: posts small blind 300
+5c5ef386: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Ts 7s]
+Dealt to e319fcaa 
+Dealt to c11f676f 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+91dd0eb4: raises 720 to 1,320
+6333fcc7: folds
+Hero: folds
+e319fcaa: calls 1,320
+c11f676f: folds
+a97c09cf: folds
+d3662094: folds
+5c5ef386: calls 720
+*** FLOP *** [2s Qh 3d]
+5c5ef386: checks
+91dd0eb4: checks
+e319fcaa: checks
+*** TURN *** [2s Qh 3d] [8d]
+5c5ef386: bets 2,700
+91dd0eb4: folds
+e319fcaa: folds
+Uncalled bet (2,700) returned to 5c5ef386
+*** SHOWDOWN ***
+5c5ef386 collected 4,980 from pot
+*** SUMMARY ***
+Total pot 4,980 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Qh 3d 8d]
+Seat 1: 91dd0eb4 folded on the Turn
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded on the Turn
+Seat 5: c11f676f folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: d3662094 (small blind) folded before Flop
+Seat 8: 5c5ef386 (big blind) won (4,980)
+
+
+Poker Hand #TM5671523832: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:29:21
+Table '7' 8-max Seat #4 is the button
+Seat 1: 91dd0eb4 (41,261 in chips)
+Seat 2: 6333fcc7 (13,521 in chips)
+Seat 3: Hero (21,810 in chips)
+Seat 4: e319fcaa (26,613 in chips)
+Seat 6: a97c09cf (52,613 in chips)
+Seat 7: d3662094 (77,863 in chips)
+Seat 8: 5c5ef386 (52,508 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+a97c09cf: posts small blind 300
+d3662094: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Kc 3c]
+Dealt to e319fcaa 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+5c5ef386: folds
+91dd0eb4: raises 720 to 1,320
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+a97c09cf: folds
+d3662094: calls 720
+*** FLOP *** [6h Jd 6c]
+d3662094: checks
+91dd0eb4: bets 893
+d3662094: folds
+Uncalled bet (893) returned to 91dd0eb4
+*** SHOWDOWN ***
+91dd0eb4 collected 3,570 from pot
+*** SUMMARY ***
+Total pot 3,570 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h Jd 6c]
+Seat 1: 91dd0eb4 won (3,570)
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: d3662094 (big blind) folded on the Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523812: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:28:42
+Table '7' 8-max Seat #3 is the button
+Seat 1: 91dd0eb4 (41,351 in chips)
+Seat 2: 6333fcc7 (13,611 in chips)
+Seat 3: Hero (23,100 in chips)
+Seat 4: e319fcaa (24,273 in chips)
+Seat 6: a97c09cf (53,303 in chips)
+Seat 7: d3662094 (77,953 in chips)
+Seat 8: 5c5ef386 (52,598 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+e319fcaa: posts small blind 300
+a97c09cf: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [Kc 6c]
+Dealt to e319fcaa 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+d3662094: folds
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: raises 600 to 1,200
+e319fcaa: raises 3,923 to 5,123
+a97c09cf: folds
+Hero: folds
+Uncalled bet (3,923) returned to e319fcaa
+*** SHOWDOWN ***
+e319fcaa collected 3,630 from pot
+*** SUMMARY ***
+Total pot 3,630 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: e319fcaa (small blind) collected (3,630)
+Seat 6: a97c09cf (big blind) folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523774: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:27:28
+Table '7' 8-max Seat #2 is the button
+Seat 1: 91dd0eb4 (42,641 in chips)
+Seat 2: 6333fcc7 (13,701 in chips)
+Seat 3: Hero (23,490 in chips)
+Seat 4: e319fcaa (24,963 in chips)
+Seat 6: a97c09cf (53,393 in chips)
+Seat 7: d3662094 (75,313 in chips)
+Seat 8: 5c5ef386 (52,688 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+Hero: posts small blind 300
+e319fcaa: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [7h 4d]
+Dealt to e319fcaa 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+a97c09cf: folds
+d3662094: raises 600 to 1,200
+5c5ef386: folds
+91dd0eb4: calls 1,200
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+*** FLOP *** [5d 3d 5s]
+d3662094: checks
+91dd0eb4: checks
+*** TURN *** [5d 3d 5s] [2h]
+d3662094: bets 1,965
+91dd0eb4: folds
+Uncalled bet (1,965) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 3,930 from pot
+*** SUMMARY ***
+Total pot 3,930 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 3d 5s 2h]
+Seat 1: 91dd0eb4 folded on the Turn
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: e319fcaa (big blind) folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 won (3,930)
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523742: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level9(300/600(90)) - 2026/03/06 23:26:34
+Table '7' 8-max Seat #1 is the button
+Seat 1: 91dd0eb4 (42,731 in chips)
+Seat 2: 6333fcc7 (14,091 in chips)
+Seat 3: Hero (24,180 in chips)
+Seat 4: e319fcaa (26,253 in chips)
+Seat 5: 7bbffa16 (8,431 in chips)
+Seat 6: a97c09cf (21,206 in chips)
+Seat 7: d3662094 (96,519 in chips)
+Seat 8: 5c5ef386 (52,778 in chips)
+6333fcc7: posts the ante 90
+91dd0eb4: posts the ante 90
+e319fcaa: posts the ante 90
+7bbffa16: posts the ante 90
+Hero: posts the ante 90
+5c5ef386: posts the ante 90
+a97c09cf: posts the ante 90
+d3662094: posts the ante 90
+6333fcc7: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [7c As]
+Dealt to e319fcaa 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+e319fcaa: raises 600 to 1,200
+7bbffa16: raises 7,141 to 8,341 and is all-in
+a97c09cf: raises 12,775 to 21,116 and is all-in
+d3662094: calls 21,116
+5c5ef386: folds
+91dd0eb4: folds
+6333fcc7: folds
+Hero: folds
+e319fcaa: folds
+a97c09cf: shows [Qd Ah]
+d3662094: shows [Js Jd]
+7bbffa16: shows [Ac Jh]
+*** FLOP *** [Qs 7d Th]
+*** TURN *** [Qs 7d Th] [3c]
+*** RIVER *** [Qs 7d Th 3c] [8s]
+*** SHOWDOWN ***
+a97c09cf collected 27,843 from pot
+a97c09cf collected 25,550 from pot
+*** SUMMARY ***
+Total pot 53,393 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 7d Th 3c 8s]
+Seat 1: 91dd0eb4 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: 7bbffa16 showed [Ac Jh] and lost with Ace high
+Seat 6: a97c09cf showed [Qd Ah] and won (53,393) with a pair of Queens
+Seat 7: d3662094 showed [Js Jd] and lost with a pair of Jacks
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523670: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:24:11
+Table '7' 8-max Seat #8 is the button
+Seat 1: 91dd0eb4 (47,478 in chips)
+Seat 2: 6333fcc7 (15,166 in chips)
+Seat 3: Hero (24,255 in chips)
+Seat 4: e319fcaa (26,328 in chips)
+Seat 5: 7bbffa16 (8,506 in chips)
+Seat 6: a97c09cf (21,281 in chips)
+Seat 7: d3662094 (90,322 in chips)
+Seat 8: 5c5ef386 (52,853 in chips)
+6333fcc7: posts the ante 75
+91dd0eb4: posts the ante 75
+e319fcaa: posts the ante 75
+7bbffa16: posts the ante 75
+Hero: posts the ante 75
+5c5ef386: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+91dd0eb4: posts small blind 250
+6333fcc7: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [6d Js]
+Dealt to e319fcaa 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+Hero: folds
+e319fcaa: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 500 to 1,000
+5c5ef386: folds
+91dd0eb4: calls 750
+6333fcc7: calls 500
+*** FLOP *** [2d Qc 5h]
+91dd0eb4: checks
+6333fcc7: checks
+d3662094: bets 936
+91dd0eb4: calls 936
+6333fcc7: folds
+*** TURN *** [2d Qc 5h] [5d]
+91dd0eb4: checks
+d3662094: bets 2,736
+91dd0eb4: calls 2,736
+*** RIVER *** [2d Qc 5h 5d] [3h]
+91dd0eb4: checks
+d3662094: bets 10,944
+91dd0eb4: folds
+Uncalled bet (10,944) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 10,944 from pot
+*** SUMMARY ***
+Total pot 10,944 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Qc 5h 5d 3h]
+Seat 1: 91dd0eb4 (small blind) folded on the River
+Seat 2: 6333fcc7 (big blind) folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: e319fcaa folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 won (10,944)
+Seat 8: 5c5ef386 (button) folded before Flop
+
+
+Poker Hand #TM5671523645: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:23:22
+Table '7' 8-max Seat #7 is the button
+Seat 1: 91dd0eb4 (45,028 in chips)
+Seat 2: 6333fcc7 (15,241 in chips)
+Seat 3: Hero (24,330 in chips)
+Seat 5: 7bbffa16 (8,581 in chips)
+Seat 6: a97c09cf (21,356 in chips)
+Seat 7: d3662094 (91,397 in chips)
+Seat 8: 5c5ef386 (53,928 in chips)
+6333fcc7: posts the ante 75
+91dd0eb4: posts the ante 75
+7bbffa16: posts the ante 75
+Hero: posts the ante 75
+5c5ef386: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+5c5ef386: posts small blind 250
+91dd0eb4: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 91dd0eb4 
+Dealt to 6333fcc7 
+Dealt to Hero [2s 8c]
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+6333fcc7: folds
+Hero: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 500 to 1,000
+5c5ef386: calls 750
+91dd0eb4: raises 4,750 to 5,750
+d3662094: folds
+5c5ef386: folds
+Uncalled bet (4,750) returned to 91dd0eb4
+*** SHOWDOWN ***
+91dd0eb4 collected 3,525 from pot
+*** SUMMARY ***
+Total pot 3,525 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 91dd0eb4 (big blind) collected (3,525)
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 (button) folded before Flop
+Seat 8: 5c5ef386 (small blind) folded before Flop
+
+
+Poker Hand #TM5671523586: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:21:33
+Table '7' 8-max Seat #6 is the button
+Seat 2: 6333fcc7 (15,316 in chips)
+Seat 3: Hero (24,405 in chips)
+Seat 4: 6c70eb6 (19,925 in chips)
+Seat 5: 7bbffa16 (8,656 in chips)
+Seat 6: a97c09cf (21,431 in chips)
+Seat 7: d3662094 (70,597 in chips)
+Seat 8: 5c5ef386 (54,503 in chips)
+6333fcc7: posts the ante 75
+7bbffa16: posts the ante 75
+Hero: posts the ante 75
+5c5ef386: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+6c70eb6: posts the ante 75
+d3662094: posts small blind 250
+5c5ef386: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 6333fcc7 
+Dealt to Hero [3s 4d]
+Dealt to 6c70eb6 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+6333fcc7: folds
+Hero: folds
+6c70eb6: calls 500
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 1,519 to 2,019
+5c5ef386: folds
+6c70eb6: calls 1,519
+*** FLOP *** [6d 9c 5h]
+d3662094: bets 1,817
+6c70eb6: raises 1,817 to 3,634
+d3662094: calls 1,817
+*** TURN *** [6d 9c 5h] [8s]
+d3662094: checks
+6c70eb6: bets 2,000
+d3662094: calls 2,000
+*** RIVER *** [6d 9c 5h 8s] [4c]
+d3662094: checks
+6c70eb6: bets 3,500
+d3662094: raises 23,331 to 26,831
+6c70eb6: calls 8,697 and is all-in
+Uncalled bet (14,634) returned to d3662094
+d3662094: shows [7d Ad] (a straight, Nine to Five)
+6c70eb6: shows [9d Qd] (a pair of Nines)
+*** SHOWDOWN ***
+d3662094 collected 40,725 from pot
+*** SUMMARY ***
+Total pot 40,725 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 9c 5h 8s 4c]
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 6c70eb6 showed [9d Qd] and lost with a pair of Nines
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: d3662094 (small blind) showed [7d Ad] and won (40,725) with a straight, Nine to Five
+Seat 8: 5c5ef386 (big blind) folded before Flop
+
+
+Poker Hand #TM5671523547: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:20:22
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (13,343 in chips)
+Seat 2: 6333fcc7 (15,391 in chips)
+Seat 3: Hero (24,480 in chips)
+Seat 4: 6c70eb6 (20,000 in chips)
+Seat 5: 7bbffa16 (8,731 in chips)
+Seat 6: a97c09cf (24,756 in chips)
+Seat 7: d3662094 (71,172 in chips)
+Seat 8: 5c5ef386 (36,960 in chips)
+6333fcc7: posts the ante 75
+7bbffa16: posts the ante 75
+Hero: posts the ante 75
+5c5ef386: posts the ante 75
+2d715249: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+6c70eb6: posts the ante 75
+a97c09cf: posts small blind 250
+d3662094: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [8d 9d]
+Dealt to 6c70eb6 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+5c5ef386: raises 650 to 1,150
+2d715249: raises 2,100 to 3,250
+6333fcc7: folds
+Hero: folds
+6c70eb6: folds
+7bbffa16: folds
+a97c09cf: calls 3,000
+d3662094: folds
+5c5ef386: raises 33,635 to 36,885 and is all-in
+2d715249: calls 10,018 and is all-in
+a97c09cf: folds
+Uncalled bet (23,617) returned to 5c5ef386
+5c5ef386: shows [Qc Qh]
+2d715249: shows [Ac Kc]
+*** FLOP *** [Th Jh 6d]
+*** TURN *** [Th Jh 6d] [5s]
+*** RIVER *** [Th Jh 6d 5s] [3s]
+*** SHOWDOWN ***
+5c5ef386 collected 30,886 from pot
+*** SUMMARY ***
+Total pot 30,886 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th Jh 6d 5s 3s]
+Seat 1: 2d715249 showed [Ac Kc] and lost with Ace high
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 6c70eb6 folded before Flop
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: d3662094 (big blind) folded before Flop
+Seat 8: 5c5ef386 showed [Qc Qh] and won (30,886) with a pair of Queens
+
+
+Poker Hand #TM5671523511: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:19:31
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (13,418 in chips)
+Seat 2: 6333fcc7 (15,466 in chips)
+Seat 3: Hero (28,408 in chips)
+Seat 5: 7bbffa16 (3,928 in chips)
+Seat 6: a97c09cf (25,331 in chips)
+Seat 7: d3662094 (71,247 in chips)
+Seat 8: 5c5ef386 (37,035 in chips)
+6333fcc7: posts the ante 75
+Hero: posts the ante 75
+7bbffa16: posts the ante 75
+5c5ef386: posts the ante 75
+2d715249: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+7bbffa16: posts small blind 250
+a97c09cf: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [5c Ac]
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+d3662094: folds
+5c5ef386: folds
+2d715249: folds
+6333fcc7: folds
+Hero: raises 500 to 1,000
+7bbffa16: raises 2,853 to 3,853 and is all-in
+a97c09cf: folds
+Hero: calls 2,853
+7bbffa16: shows [Kc Kh]
+Hero: shows [5c Ac]
+*** FLOP *** [7d Jd Th]
+*** TURN *** [7d Jd Th] [2c]
+*** RIVER *** [7d Jd Th 2c] [9c]
+*** SHOWDOWN ***
+7bbffa16 collected 8,731 from pot
+*** SUMMARY ***
+Total pot 8,731 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7d Jd Th 2c 9c]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) showed [5c Ac] and lost with Ace high
+Seat 5: 7bbffa16 (small blind) showed [Kc Kh] and won (8,731) with a pair of Kings
+Seat 6: a97c09cf (big blind) folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523492: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level8(250/500(75)) - 2026/03/06 23:18:57
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (13,493 in chips)
+Seat 2: 6333fcc7 (15,541 in chips)
+Seat 3: Hero (28,733 in chips)
+Seat 5: 7bbffa16 (4,503 in chips)
+Seat 6: a97c09cf (24,131 in chips)
+Seat 7: d3662094 (71,322 in chips)
+Seat 8: 5c5ef386 (37,110 in chips)
+6333fcc7: posts the ante 75
+7bbffa16: posts the ante 75
+Hero: posts the ante 75
+5c5ef386: posts the ante 75
+2d715249: posts the ante 75
+a97c09cf: posts the ante 75
+d3662094: posts the ante 75
+Hero: posts small blind 250
+7bbffa16: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [4d 9d]
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to 5c5ef386 
+a97c09cf: raises 500 to 1,000
+d3662094: folds
+5c5ef386: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7bbffa16: folds
+Uncalled bet (500) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 1,775 from pot
+*** SUMMARY ***
+Total pot 1,775 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) folded before Flop
+Seat 6: a97c09cf collected (1,775)
+Seat 7: d3662094 folded before Flop
+Seat 8: 5c5ef386 folded before Flop
+
+
+Poker Hand #TM5671523453: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:17:44
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (13,553 in chips)
+Seat 2: 6333fcc7 (15,801 in chips)
+Seat 3: Hero (29,193 in chips)
+Seat 4: 7dfebde1 (26,545 in chips)
+Seat 5: 7bbffa16 (4,563 in chips)
+Seat 6: a97c09cf (24,191 in chips)
+Seat 7: d3662094 (30,753 in chips)
+Seat 8: e42834e0 (13,124 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+6333fcc7: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ac 5s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+7dfebde1: raises 800 to 1,200
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 2,640 to 3,840
+e42834e0: raises 9,224 to 13,064 and is all-in
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: raises 13,421 to 26,485 and is all-in
+d3662094: calls 22,645
+7dfebde1: shows [7d 7h]
+d3662094: shows [Ks Ad]
+e42834e0: shows [Qd Qh]
+*** FLOP *** [8d 4c 2s]
+*** TURN *** [8d 4c 2s] [8h]
+*** RIVER *** [8d 4c 2s 8h] [Kc]
+*** SHOWDOWN ***
+d3662094 collected 40,272 from pot
+d3662094 collected 26,842 from pot
+*** SUMMARY ***
+Total pot 67,114 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 4c 2s 8h Kc]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 7dfebde1 showed [7d 7h] and lost with two pair, Eights and Sevens
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 showed [Ks Ad] and won (67,114) with two pair, Kings and Eights
+Seat 8: e42834e0 showed [Qd Qh] and lost with two pair, Queens and Eights
+
+
+Poker Hand #TM5671523415: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:16:35
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (14,413 in chips)
+Seat 2: 6333fcc7 (14,581 in chips)
+Seat 3: Hero (29,253 in chips)
+Seat 4: 7dfebde1 (26,605 in chips)
+Seat 5: 7bbffa16 (4,623 in chips)
+Seat 6: a97c09cf (24,251 in chips)
+Seat 7: d3662094 (30,813 in chips)
+Seat 8: e42834e0 (13,184 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+2d715249: posts small blind 200
+6333fcc7: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [5h 8s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: folds
+e42834e0: folds
+2d715249: calls 200
+6333fcc7: checks
+*** FLOP *** [Ac 9c 6d]
+2d715249: checks
+6333fcc7: bets 400
+2d715249: calls 400
+*** TURN *** [Ac 9c 6d] [2d]
+2d715249: checks
+6333fcc7: bets 1,560
+2d715249: folds
+Uncalled bet (1,560) returned to 6333fcc7
+*** SHOWDOWN ***
+6333fcc7 collected 2,080 from pot
+*** SUMMARY ***
+Total pot 2,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 9c 6d 2d]
+Seat 1: 2d715249 (small blind) folded on the Turn
+Seat 2: 6333fcc7 (big blind) won (2,080)
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: e42834e0 (button) folded before Flop
+
+
+Poker Hand #TM5671523375: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:15:29
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (16,073 in chips)
+Seat 2: 6333fcc7 (14,641 in chips)
+Seat 3: Hero (30,113 in chips)
+Seat 4: 7dfebde1 (26,665 in chips)
+Seat 5: 7bbffa16 (4,683 in chips)
+Seat 6: a97c09cf (24,311 in chips)
+Seat 7: d3662094 (27,793 in chips)
+Seat 8: e42834e0 (13,444 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+e42834e0: posts small blind 200
+2d715249: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Qs Kh]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+6333fcc7: folds
+Hero: raises 400 to 800
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: calls 800
+e42834e0: folds
+2d715249: calls 400
+*** FLOP *** [As Ac 5s]
+2d715249: checks
+Hero: checks
+d3662094: bets 800
+2d715249: calls 800
+Hero: folds
+*** TURN *** [As Ac 5s] [6s]
+2d715249: checks
+d3662094: bets 2,340
+2d715249: folds
+Uncalled bet (2,340) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 4,680 from pot
+*** SUMMARY ***
+Total pot 4,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As Ac 5s 6s]
+Seat 1: 2d715249 (big blind) folded on the Turn
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded on the Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 (button) won (4,680)
+Seat 8: e42834e0 (small blind) folded before Flop
+
+
+Poker Hand #TM5671523338: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:14:28
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (16,133 in chips)
+Seat 2: 6333fcc7 (14,701 in chips)
+Seat 3: Hero (30,173 in chips)
+Seat 4: 7dfebde1 (26,725 in chips)
+Seat 5: 7bbffa16 (4,743 in chips)
+Seat 6: a97c09cf (24,371 in chips)
+Seat 7: d3662094 (26,093 in chips)
+Seat 8: e42834e0 (14,784 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+d3662094: posts small blind 200
+e42834e0: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [6d Qh]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 880 to 1,280
+e42834e0: calls 880
+*** FLOP *** [8h 5s 9h]
+d3662094: checks
+e42834e0: checks
+*** TURN *** [8h 5s 9h] [Ac]
+d3662094: bets 2,280
+e42834e0: folds
+Uncalled bet (2,280) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 3,040 from pot
+*** SUMMARY ***
+Total pot 3,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 5s 9h Ac]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: d3662094 (small blind) won (3,040)
+Seat 8: e42834e0 (big blind) folded on the Turn
+
+
+Poker Hand #TM5671523294: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:13:08
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (16,193 in chips)
+Seat 2: 6333fcc7 (17,101 in chips)
+Seat 3: Hero (30,233 in chips)
+Seat 4: 7dfebde1 (21,025 in chips)
+Seat 5: 7bbffa16 (4,803 in chips)
+Seat 6: a97c09cf (24,631 in chips)
+Seat 7: d3662094 (26,553 in chips)
+Seat 8: e42834e0 (17,184 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+a97c09cf: posts small blind 200
+d3662094: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [6c As]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+e42834e0: calls 400
+2d715249: folds
+6333fcc7: raises 400 to 800
+Hero: folds
+7dfebde1: raises 1,540 to 2,340
+7bbffa16: folds
+a97c09cf: folds
+d3662094: folds
+e42834e0: calls 1,940
+6333fcc7: calls 1,540
+*** FLOP *** [Kh Td 6s]
+e42834e0: checks
+6333fcc7: checks
+7dfebde1: bets 6,075
+e42834e0: folds
+6333fcc7: folds
+Uncalled bet (6,075) returned to 7dfebde1
+*** SHOWDOWN ***
+7dfebde1 collected 8,100 from pot
+*** SUMMARY ***
+Total pot 8,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh Td 6s]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 won (8,100)
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: d3662094 (big blind) folded before Flop
+Seat 8: e42834e0 folded on the Flop
+
+
+Poker Hand #TM5671523268: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:12:24
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (16,253 in chips)
+Seat 2: 6333fcc7 (17,161 in chips)
+Seat 3: Hero (28,813 in chips)
+Seat 4: 7dfebde1 (21,085 in chips)
+Seat 5: 7bbffa16 (5,063 in chips)
+Seat 6: a97c09cf (25,491 in chips)
+Seat 7: d3662094 (26,613 in chips)
+Seat 8: e42834e0 (17,244 in chips)
+7dfebde1: posts the ante 60
+6333fcc7: posts the ante 60
+e42834e0: posts the ante 60
+Hero: posts the ante 60
+7bbffa16: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+7bbffa16: posts small blind 200
+a97c09cf: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9d 9c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+d3662094: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: raises 400 to 800
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: calls 400
+*** FLOP *** [Jd Ah 4c]
+a97c09cf: checks
+Hero: bets 753
+a97c09cf: folds
+Uncalled bet (753) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,280 from pot
+*** SUMMARY ***
+Total pot 2,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd Ah 4c]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero won (2,280)
+Seat 4: 7dfebde1 (button) folded before Flop
+Seat 5: 7bbffa16 (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) folded on the Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671523217: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:10:55
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (16,313 in chips)
+Seat 2: 6333fcc7 (17,221 in chips)
+Seat 3: Hero (28,873 in chips)
+Seat 4: 7dfebde1 (21,345 in chips)
+Seat 5: 7bbffa16 (5,923 in chips)
+Seat 6: a97c09cf (18,418 in chips)
+Seat 7: d3662094 (26,673 in chips)
+Seat 8: e42834e0 (22,957 in chips)
+6333fcc7: posts the ante 60
+7dfebde1: posts the ante 60
+e42834e0: posts the ante 60
+Hero: posts the ante 60
+7bbffa16: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+7dfebde1: posts small blind 200
+7bbffa16: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Kd 7h]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+a97c09cf: raises 400 to 800
+d3662094: folds
+e42834e0: calls 800
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: calls 400
+*** FLOP *** [7s 3h Th]
+7bbffa16: checks
+a97c09cf: bets 1,017
+e42834e0: calls 1,017
+7bbffa16: folds
+*** TURN *** [7s 3h Th] [4s]
+a97c09cf: checks
+e42834e0: checks
+*** RIVER *** [7s 3h Th 4s] [Kh]
+a97c09cf: checks
+e42834e0: bets 3,836
+a97c09cf: calls 3,836
+e42834e0: shows [6d 8d] (King high)
+a97c09cf: shows [Tc As] (a pair of Tens)
+*** SHOWDOWN ***
+a97c09cf collected 12,786 from pot
+*** SUMMARY ***
+Total pot 12,786 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 3h Th 4s Kh]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 7dfebde1 (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) folded on the Flop
+Seat 6: a97c09cf showed [Tc As] and won (12,786) with a pair of Tens
+Seat 7: d3662094 folded before Flop
+Seat 8: e42834e0 showed [6d 8d] and lost with King high
+
+
+Poker Hand #TM5671523198: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level7(200/400(60)) - 2026/03/06 23:10:15
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (16,373 in chips)
+Seat 2: 6333fcc7 (17,281 in chips)
+Seat 3: Hero (29,133 in chips)
+Seat 4: 7dfebde1 (21,805 in chips)
+Seat 5: 7bbffa16 (5,983 in chips)
+Seat 6: a97c09cf (18,478 in chips)
+Seat 7: d3662094 (25,653 in chips)
+Seat 8: e42834e0 (23,017 in chips)
+6333fcc7: posts the ante 60
+7dfebde1: posts the ante 60
+e42834e0: posts the ante 60
+7bbffa16: posts the ante 60
+Hero: posts the ante 60
+2d715249: posts the ante 60
+a97c09cf: posts the ante 60
+d3662094: posts the ante 60
+Hero: posts small blind 200
+7dfebde1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [2h 9c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 400 to 800
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+Uncalled bet (400) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 1,480 from pot
+*** SUMMARY ***
+Total pot 1,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 7dfebde1 (big blind) folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 collected (1,480)
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671523173: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:09:31
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (16,418 in chips)
+Seat 2: 6333fcc7 (18,376 in chips)
+Seat 3: Hero (27,768 in chips)
+Seat 4: 7dfebde1 (21,850 in chips)
+Seat 5: 7bbffa16 (6,028 in chips)
+Seat 6: a97c09cf (18,523 in chips)
+Seat 7: d3662094 (25,698 in chips)
+Seat 8: e42834e0 (23,062 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+7bbffa16: posts the ante 45
+Hero: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+6333fcc7: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ah Kd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: raises 750 to 1,050
+Hero: raises 26,673 to 27,723 and is all-in
+6333fcc7: folds
+Uncalled bet (26,673) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,460 from pot
+*** SUMMARY ***
+Total pot 2,460 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) collected (2,460)
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671523120: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:07:58
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (16,613 in chips)
+Seat 2: 6333fcc7 (19,694 in chips)
+Seat 3: Hero (27,813 in chips)
+Seat 4: 7dfebde1 (21,895 in chips)
+Seat 5: 7bbffa16 (6,073 in chips)
+Seat 6: a97c09cf (18,568 in chips)
+Seat 7: d3662094 (23,960 in chips)
+Seat 8: e42834e0 (23,107 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+7bbffa16: posts the ante 45
+Hero: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+2d715249: posts small blind 150
+6333fcc7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9d Ah]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 450 to 750
+e42834e0: folds
+2d715249: folds
+6333fcc7: calls 450
+*** FLOP *** [Ts Kc 6h]
+6333fcc7: checks
+d3662094: bets 523
+6333fcc7: calls 523
+*** TURN *** [Ts Kc 6h] [Ad]
+6333fcc7: checks
+d3662094: bets 2,892
+6333fcc7: folds
+Uncalled bet (2,892) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 3,056 from pot
+*** SUMMARY ***
+Total pot 3,056 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts Kc 6h Ad]
+Seat 1: 2d715249 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) folded on the Turn
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 won (3,056)
+Seat 8: e42834e0 (button) folded before Flop
+
+
+Poker Hand #TM5671523066: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:06:29
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (16,958 in chips)
+Seat 2: 6333fcc7 (19,739 in chips)
+Seat 3: Hero (27,858 in chips)
+Seat 4: 7dfebde1 (21,940 in chips)
+Seat 5: 7bbffa16 (6,118 in chips)
+Seat 6: a97c09cf (18,613 in chips)
+Seat 7: d3662094 (23,195 in chips)
+Seat 8: e42834e0 (23,302 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+7bbffa16: posts the ante 45
+Hero: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+e42834e0: posts small blind 150
+2d715249: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ts 9c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+d3662094: raises 300 to 600
+e42834e0: folds
+2d715249: folds
+Uncalled bet (300) returned to d3662094
+*** SHOWDOWN ***
+d3662094 collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 (big blind) folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: d3662094 (button) collected (1,110)
+Seat 8: e42834e0 (small blind) folded before Flop
+
+
+Poker Hand #TM5671523004: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:04:38
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (17,003 in chips)
+Seat 2: 6333fcc7 (19,784 in chips)
+Seat 3: Hero (27,903 in chips)
+Seat 4: 7dfebde1 (21,985 in chips)
+Seat 5: 7bbffa16 (8,833 in chips)
+Seat 6: a97c09cf (19,258 in chips)
+Seat 7: d3662094 (19,010 in chips)
+Seat 8: e42834e0 (23,947 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+7bbffa16: posts the ante 45
+Hero: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+d3662094: posts small blind 150
+e42834e0: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [8s 3s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: raises 300 to 600
+a97c09cf: calls 600
+d3662094: calls 450
+e42834e0: calls 300
+*** FLOP *** [3h 9c 9h]
+d3662094: checks
+e42834e0: checks
+7bbffa16: checks
+a97c09cf: checks
+*** TURN *** [3h 9c 9h] [Td]
+d3662094: checks
+e42834e0: checks
+7bbffa16: checks
+a97c09cf: checks
+*** RIVER *** [3h 9c 9h Td] [5c]
+d3662094: bets 2,070
+e42834e0: folds
+7bbffa16: calls 2,070
+a97c09cf: folds
+d3662094: shows [7d 9d] (three of a kind, Nines)
+7bbffa16: shows [Ts Qd] (two pair, Tens and Nines)
+*** SHOWDOWN ***
+d3662094 collected 6,900 from pot
+*** SUMMARY ***
+Total pot 6,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 9c 9h Td 5c]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 showed [Ts Qd] and lost with two pair, Tens and Nines
+Seat 6: a97c09cf (button) folded on the River
+Seat 7: d3662094 (small blind) showed [7d 9d] and won (6,900) with three of a kind, Nines
+Seat 8: e42834e0 (big blind) folded on the River
+
+
+Poker Hand #TM5671522956: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:03:23
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (17,048 in chips)
+Seat 2: 6333fcc7 (19,829 in chips)
+Seat 3: Hero (27,948 in chips)
+Seat 4: 7dfebde1 (21,700 in chips)
+Seat 5: 7bbffa16 (8,878 in chips)
+Seat 6: a97c09cf (18,973 in chips)
+Seat 7: d3662094 (19,355 in chips)
+Seat 8: e42834e0 (23,992 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+7bbffa16: posts the ante 45
+Hero: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+a97c09cf: posts small blind 150
+d3662094: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ah 8s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: raises 900 to 1,200
+7bbffa16: folds
+a97c09cf: calls 1,050
+d3662094: folds
+*** FLOP *** [Js Ts Kc]
+a97c09cf: checks
+7dfebde1: bets 2,295
+a97c09cf: raises 2,295 to 4,590
+7dfebde1: calls 2,295
+*** TURN *** [Js Ts Kc] [2c]
+a97c09cf: bets 13,138 and is all-in
+7dfebde1: calls 13,138
+a97c09cf: shows [Qs Ad] (a straight, Ace to Ten)
+7dfebde1: shows [Ac Qd] (a straight, Ace to Ten)
+*** RIVER *** [Js Ts Kc 2c] [Jh]
+*** SHOWDOWN ***
+7dfebde1 collected 19,258 from pot
+a97c09cf collected 19,258 from pot
+*** SUMMARY ***
+Total pot 38,516 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Ts Kc 2c Jh]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 showed [Ac Qd] and won (19,258) with a straight, Ace to Ten
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) showed [Qs Ad] and won (19,258) with a straight, Ace to Ten
+Seat 7: d3662094 (big blind) folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522912: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level6(150/300(45)) - 2026/03/06 23:02:08
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (17,093 in chips)
+Seat 2: 6333fcc7 (19,874 in chips)
+Seat 3: Hero (27,993 in chips)
+Seat 4: 7dfebde1 (26,965 in chips)
+Seat 5: 7bbffa16 (9,073 in chips)
+Seat 6: a97c09cf (12,688 in chips)
+Seat 7: d3662094 (20,000 in chips)
+Seat 8: e42834e0 (24,037 in chips)
+7dfebde1: posts the ante 45
+6333fcc7: posts the ante 45
+e42834e0: posts the ante 45
+Hero: posts the ante 45
+7bbffa16: posts the ante 45
+2d715249: posts the ante 45
+a97c09cf: posts the ante 45
+d3662094: posts the ante 45
+7bbffa16: posts small blind 150
+a97c09cf: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [4s Qs]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to d3662094 
+Dealt to e42834e0 
+d3662094: raises 300 to 600
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: calls 600
+7bbffa16: folds
+a97c09cf: calls 300
+*** FLOP *** [6d Qc 7c]
+a97c09cf: checks
+d3662094: checks
+7dfebde1: bets 1,155
+a97c09cf: calls 1,155
+d3662094: folds
+*** TURN *** [6d Qc 7c] [5c]
+a97c09cf: checks
+7dfebde1: bets 3,465
+a97c09cf: calls 3,465
+*** RIVER *** [6d Qc 7c 5c] [6h]
+a97c09cf: checks
+7dfebde1: checks
+a97c09cf: shows [Qd 5h] (two pair, Queens and Sixes)
+7dfebde1: shows [5d 7d] (two pair, Sevens and Sixes)
+*** SHOWDOWN ***
+a97c09cf collected 11,550 from pot
+*** SUMMARY ***
+Total pot 11,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Qc 7c 5c 6h]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 (button) showed [5d 7d] and lost with two pair, Sevens and Sixes
+Seat 5: 7bbffa16 (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) showed [Qd 5h] and won (11,550) with two pair, Queens and Sixes
+Seat 7: d3662094 folded on the Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522733: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:53:39
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (17,128 in chips)
+Seat 2: 6333fcc7 (19,909 in chips)
+Seat 3: Hero (31,106 in chips)
+Seat 4: 7dfebde1 (20,314 in chips)
+Seat 5: 7bbffa16 (9,358 in chips)
+Seat 6: a97c09cf (12,723 in chips)
+Seat 7: 52d25f9a (24,120 in chips)
+Seat 8: e42834e0 (24,072 in chips)
+6333fcc7: posts the ante 35
+7dfebde1: posts the ante 35
+e42834e0: posts the ante 35
+Hero: posts the ante 35
+52d25f9a: posts the ante 35
+7bbffa16: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+7dfebde1: posts small blind 125
+7bbffa16: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Jd 9d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+a97c09cf: folds
+52d25f9a: raises 250 to 500
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: calls 500
+7dfebde1: calls 375
+7bbffa16: folds
+*** FLOP *** [8d Ks Jh]
+7dfebde1: checks
+52d25f9a: bets 625
+Hero: calls 625
+7dfebde1: calls 625
+*** TURN *** [8d Ks Jh] [3h]
+7dfebde1: checks
+52d25f9a: checks
+Hero: bets 1,953
+7dfebde1: calls 1,953
+52d25f9a: calls 1,953
+*** RIVER *** [8d Ks Jh 3h] [2d]
+7dfebde1: checks
+52d25f9a: checks
+Hero: checks
+7dfebde1: shows [9c Kc] (a pair of Kings)
+52d25f9a: shows [Ah Js] (a pair of Jacks)
+Hero: shows [Jd 9d] (a pair of Jacks)
+*** SHOWDOWN ***
+7dfebde1 collected 9,764 from pot
+*** SUMMARY ***
+Total pot 9,764 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Ks Jh 3h 2d]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) showed [Jd 9d] and lost with a pair of Jacks
+Seat 4: 7dfebde1 (small blind) showed [9c Kc] and won (9,764) with a pair of Kings
+Seat 5: 7bbffa16 (big blind) folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a showed [Ah Js] and lost with a pair of Jacks
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522706: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:52:55
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (17,663 in chips)
+Seat 2: 6333fcc7 (19,944 in chips)
+Seat 3: Hero (30,111 in chips)
+Seat 4: 7dfebde1 (20,599 in chips)
+Seat 5: 7bbffa16 (9,393 in chips)
+Seat 6: a97c09cf (12,758 in chips)
+Seat 7: 52d25f9a (24,155 in chips)
+Seat 8: e42834e0 (24,107 in chips)
+6333fcc7: posts the ante 35
+7dfebde1: posts the ante 35
+e42834e0: posts the ante 35
+52d25f9a: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+Hero: posts small blind 125
+7dfebde1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ks As]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: raises 250 to 500
+6333fcc7: folds
+Hero: raises 2,030 to 2,530
+7dfebde1: folds
+2d715249: folds
+Uncalled bet (2,030) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,530 from pot
+*** SUMMARY ***
+Total pot 1,530 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) collected (1,530)
+Seat 4: 7dfebde1 (big blind) folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522662: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:51:33
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (17,698 in chips)
+Seat 2: 6333fcc7 (20,104 in chips)
+Seat 3: Hero (28,741 in chips)
+Seat 4: 7dfebde1 (20,634 in chips)
+Seat 5: 7bbffa16 (9,428 in chips)
+Seat 6: a97c09cf (12,793 in chips)
+Seat 7: 52d25f9a (25,190 in chips)
+Seat 8: e42834e0 (24,142 in chips)
+7dfebde1: posts the ante 35
+6333fcc7: posts the ante 35
+e42834e0: posts the ante 35
+52d25f9a: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+6333fcc7: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9s As]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: raises 250 to 500
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: calls 250
+*** FLOP *** [8s 4s 3s]
+Hero: checks
+52d25f9a: bets 500
+Hero: raises 2,405 to 2,905
+52d25f9a: folds
+Uncalled bet (2,405) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,405 from pot
+*** SUMMARY ***
+Total pot 2,405 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 4s 3s]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) won (2,405)
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded on the Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522641: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:50:53
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (17,858 in chips)
+Seat 2: 6333fcc7 (20,389 in chips)
+Seat 3: Hero (30,151 in chips)
+Seat 4: 7dfebde1 (18,639 in chips)
+Seat 5: 7bbffa16 (9,463 in chips)
+Seat 6: a97c09cf (12,828 in chips)
+Seat 7: 52d25f9a (25,225 in chips)
+Seat 8: e42834e0 (24,177 in chips)
+7dfebde1: posts the ante 35
+6333fcc7: posts the ante 35
+e42834e0: posts the ante 35
+52d25f9a: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+2d715249: posts small blind 125
+6333fcc7: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Kd 2d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+Hero: raises 250 to 500
+7dfebde1: raises 875 to 1,375
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: calls 875
+*** FLOP *** [Ah Qc Th]
+Hero: checks
+7dfebde1: bets 2,775
+Hero: folds
+Uncalled bet (2,775) returned to 7dfebde1
+*** SHOWDOWN ***
+7dfebde1 collected 3,405 from pot
+*** SUMMARY ***
+Total pot 3,405 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah Qc Th]
+Seat 1: 2d715249 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) folded before Flop
+Seat 3: Hero folded on the Flop
+Seat 4: 7dfebde1 won (3,405)
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 (button) folded before Flop
+
+
+Poker Hand #TM5671522594: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:49:32
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (17,126 in chips)
+Seat 2: 6333fcc7 (20,424 in chips)
+Seat 3: Hero (31,315 in chips)
+Seat 4: 7dfebde1 (18,674 in chips)
+Seat 5: 7bbffa16 (9,498 in chips)
+Seat 6: a97c09cf (12,096 in chips)
+Seat 7: 52d25f9a (25,260 in chips)
+Seat 8: e42834e0 (24,337 in chips)
+7dfebde1: posts the ante 35
+6333fcc7: posts the ante 35
+e42834e0: posts the ante 35
+52d25f9a: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+e42834e0: posts small blind 125
+2d715249: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9d Kd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+6333fcc7: folds
+Hero: raises 250 to 500
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: calls 500
+52d25f9a: folds
+e42834e0: folds
+2d715249: calls 250
+*** FLOP *** [3h 3c Ac]
+2d715249: checks
+Hero: bets 629
+a97c09cf: calls 629
+2d715249: calls 629
+*** TURN *** [3h 3c Ac] [8s]
+2d715249: checks
+Hero: checks
+a97c09cf: checks
+*** RIVER *** [3h 3c Ac 8s] [6d]
+2d715249: checks
+Hero: checks
+a97c09cf: checks
+2d715249: shows [Ad 5s] (two pair, Aces and Threes)
+Hero: shows [9d Kd] (a pair of Threes)
+a97c09cf: shows [4h As] (two pair, Aces and Threes)
+*** SHOWDOWN ***
+a97c09cf collected 1,896 from pot
+2d715249 collected 1,896 from pot
+*** SUMMARY ***
+Total pot 3,792 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 3c Ac 8s 6d]
+Seat 1: 2d715249 (big blind) showed [Ad 5s] and won (1,896) with two pair, Aces and Threes
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero showed [9d Kd] and lost with a pair of Threes
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf showed [4h As] and won (1,896) with two pair, Aces and Threes
+Seat 7: 52d25f9a (button) folded before Flop
+Seat 8: e42834e0 (small blind) folded before Flop
+
+
+Poker Hand #TM5671522531: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:47:37
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (17,161 in chips)
+Seat 2: 6333fcc7 (20,459 in chips)
+Seat 3: Hero (31,350 in chips)
+Seat 4: 7dfebde1 (20,209 in chips)
+Seat 5: 7bbffa16 (12,554 in chips)
+Seat 6: a97c09cf (12,131 in chips)
+Seat 7: 52d25f9a (25,420 in chips)
+Seat 8: e42834e0 (19,446 in chips)
+7dfebde1: posts the ante 35
+6333fcc7: posts the ante 35
+e42834e0: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+52d25f9a: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+52d25f9a: posts small blind 125
+e42834e0: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Qs 8h]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: raises 250 to 500
+7bbffa16: raises 1,000 to 1,500
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: calls 1,250
+7dfebde1: calls 1,000
+*** FLOP *** [Ac 4d Ah]
+e42834e0: checks
+7dfebde1: checks
+7bbffa16: checks
+*** TURN *** [Ac 4d Ah] [5h]
+e42834e0: checks
+7dfebde1: checks
+7bbffa16: bets 1,521
+e42834e0: calls 1,521
+7dfebde1: folds
+*** RIVER *** [Ac 4d Ah 5h] [Jh]
+e42834e0: bets 2,623
+7bbffa16: folds
+Uncalled bet (2,623) returned to e42834e0
+*** SHOWDOWN ***
+e42834e0 collected 7,947 from pot
+*** SUMMARY ***
+Total pot 7,947 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 4d Ah 5h Jh]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded on the Turn
+Seat 5: 7bbffa16 folded on the River
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: 52d25f9a (small blind) folded before Flop
+Seat 8: e42834e0 (big blind) won (7,947)
+
+
+Poker Hand #TM5671522509: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level5(125/250(35)) - 2026/03/06 22:47:03
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (17,196 in chips)
+Seat 2: 6333fcc7 (19,339 in chips)
+Seat 3: Hero (31,385 in chips)
+Seat 4: 7dfebde1 (20,244 in chips)
+Seat 5: 7bbffa16 (12,589 in chips)
+Seat 6: a97c09cf (12,291 in chips)
+Seat 7: 52d25f9a (25,705 in chips)
+Seat 8: e42834e0 (19,981 in chips)
+7dfebde1: posts the ante 35
+6333fcc7: posts the ante 35
+e42834e0: posts the ante 35
+7bbffa16: posts the ante 35
+Hero: posts the ante 35
+52d25f9a: posts the ante 35
+2d715249: posts the ante 35
+a97c09cf: posts the ante 35
+a97c09cf: posts small blind 125
+52d25f9a: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [3d 8d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+e42834e0: calls 250
+2d715249: folds
+6333fcc7: raises 250 to 500
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: calls 250
+*** FLOP *** [2s Qs 7h]
+e42834e0: checks
+6333fcc7: bets 547
+e42834e0: folds
+Uncalled bet (547) returned to 6333fcc7
+*** SHOWDOWN ***
+6333fcc7 collected 1,655 from pot
+*** SUMMARY ***
+Total pot 1,655 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Qs 7h]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 won (1,655)
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: 52d25f9a (big blind) folded before Flop
+Seat 8: e42834e0 folded on the Flop
+
+
+Poker Hand #TM5671522481: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:46:17
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (17,226 in chips)
+Seat 2: 6333fcc7 (19,369 in chips)
+Seat 3: Hero (31,415 in chips)
+Seat 4: 7dfebde1 (20,274 in chips)
+Seat 5: 7bbffa16 (12,819 in chips)
+Seat 6: a97c09cf (11,881 in chips)
+Seat 7: 52d25f9a (25,735 in chips)
+Seat 8: e42834e0 (20,011 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+Hero: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+7bbffa16: posts small blind 100
+a97c09cf: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [2d As]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: calls 100
+a97c09cf: raises 640 to 840
+7bbffa16: folds
+Uncalled bet (640) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 (button) folded before Flop
+Seat 5: 7bbffa16 (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) collected (640)
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522429: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:44:52
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (17,256 in chips)
+Seat 2: 6333fcc7 (19,399 in chips)
+Seat 3: Hero (33,445 in chips)
+Seat 4: 7dfebde1 (20,744 in chips)
+Seat 5: 7bbffa16 (14,849 in chips)
+Seat 6: a97c09cf (11,911 in chips)
+Seat 7: 52d25f9a (21,085 in chips)
+Seat 8: e42834e0 (20,041 in chips)
+6333fcc7: posts the ante 30
+7dfebde1: posts the ante 30
+e42834e0: posts the ante 30
+Hero: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+7dfebde1: posts small blind 100
+7bbffa16: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [3c Kc]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+a97c09cf: folds
+52d25f9a: raises 240 to 440
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: calls 440
+7dfebde1: calls 340
+7bbffa16: raises 1,560 to 2,000
+52d25f9a: calls 1,560
+Hero: calls 1,560
+7dfebde1: folds
+*** FLOP *** [8h 5h 7h]
+7bbffa16: checks
+52d25f9a: bets 3,000
+Hero: folds
+7bbffa16: folds
+Uncalled bet (3,000) returned to 52d25f9a
+*** SHOWDOWN ***
+52d25f9a collected 6,680 from pot
+*** SUMMARY ***
+Total pot 6,680 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 5h 7h]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) folded on the Flop
+Seat 4: 7dfebde1 (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) folded on the Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a won (6,680)
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522387: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:43:45
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (19,326 in chips)
+Seat 2: 6333fcc7 (19,429 in chips)
+Seat 3: Hero (27,115 in chips)
+Seat 4: 7dfebde1 (22,814 in chips)
+Seat 5: 7bbffa16 (14,879 in chips)
+Seat 6: a97c09cf (13,981 in chips)
+Seat 7: 52d25f9a (21,115 in chips)
+Seat 8: e42834e0 (20,071 in chips)
+6333fcc7: posts the ante 30
+7dfebde1: posts the ante 30
+e42834e0: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+Hero: posts small blind 100
+7dfebde1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Jh Kd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7bbffa16: folds
+a97c09cf: raises 200 to 400
+52d25f9a: folds
+e42834e0: folds
+2d715249: calls 400
+6333fcc7: folds
+Hero: raises 1,640 to 2,040
+7dfebde1: calls 1,840
+a97c09cf: calls 1,640
+2d715249: calls 1,640
+*** FLOP *** [5h Kc Jd]
+Hero: bets 4,200
+7dfebde1: folds
+a97c09cf: folds
+2d715249: folds
+Uncalled bet (4,200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 8,400 from pot
+*** SUMMARY ***
+Total pot 8,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Kc Jd]
+Seat 1: 2d715249 folded on the Flop
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) won (8,400)
+Seat 4: 7dfebde1 (big blind) folded on the Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded on the Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522356: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:42:49
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (19,356 in chips)
+Seat 2: 6333fcc7 (19,859 in chips)
+Seat 3: Hero (27,345 in chips)
+Seat 4: 7dfebde1 (22,844 in chips)
+Seat 5: 7bbffa16 (14,069 in chips)
+Seat 6: a97c09cf (14,011 in chips)
+Seat 7: 52d25f9a (21,145 in chips)
+Seat 8: e42834e0 (20,101 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+6333fcc7: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Kh 3s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7dfebde1: folds
+7bbffa16: raises 200 to 400
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: calls 300
+Hero: folds
+*** FLOP *** [5h 9h 9c]
+6333fcc7: checks
+7bbffa16: bets 1,200
+6333fcc7: folds
+Uncalled bet (1,200) returned to 7bbffa16
+*** SHOWDOWN ***
+7bbffa16 collected 1,240 from pot
+*** SUMMARY ***
+Total pot 1,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 9h 9c]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded on the Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 won (1,240)
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522312: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:41:37
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (19,486 in chips)
+Seat 2: 6333fcc7 (20,089 in chips)
+Seat 3: Hero (27,375 in chips)
+Seat 4: 7dfebde1 (22,874 in chips)
+Seat 5: 7bbffa16 (14,499 in chips)
+Seat 6: a97c09cf (14,441 in chips)
+Seat 7: 52d25f9a (19,835 in chips)
+Seat 8: e42834e0 (20,131 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+2d715249: posts small blind 100
+6333fcc7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [2h 5s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+Hero: folds
+7dfebde1: folds
+7bbffa16: raises 200 to 400
+a97c09cf: calls 400
+52d25f9a: raises 2,000 to 2,400
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+7bbffa16: folds
+a97c09cf: folds
+Uncalled bet (2,000) returned to 52d25f9a
+*** SHOWDOWN ***
+52d25f9a collected 1,740 from pot
+*** SUMMARY ***
+Total pot 1,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a collected (1,740)
+Seat 8: e42834e0 (button) folded before Flop
+
+
+Poker Hand #TM5671522285: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:40:56
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (20,116 in chips)
+Seat 2: 6333fcc7 (20,119 in chips)
+Seat 3: Hero (27,405 in chips)
+Seat 4: 7dfebde1 (21,964 in chips)
+Seat 5: 7bbffa16 (14,529 in chips)
+Seat 6: a97c09cf (14,471 in chips)
+Seat 7: 52d25f9a (19,865 in chips)
+Seat 8: e42834e0 (20,261 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+52d25f9a: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+e42834e0: posts small blind 100
+2d715249: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ks 8h]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+6333fcc7: folds
+Hero: folds
+7dfebde1: raises 400 to 600
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: calls 400
+*** FLOP *** [Ts 8s 3h]
+2d715249: checks
+7dfebde1: checks
+*** TURN *** [Ts 8s 3h] [Kc]
+2d715249: checks
+7dfebde1: bets 1,540
+2d715249: folds
+Uncalled bet (1,540) returned to 7dfebde1
+*** SHOWDOWN ***
+7dfebde1 collected 1,540 from pot
+*** SUMMARY ***
+Total pot 1,540 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 8s 3h Kc]
+Seat 1: 2d715249 (big blind) folded on the Turn
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 won (1,540)
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a (button) folded before Flop
+Seat 8: e42834e0 (small blind) folded before Flop
+
+
+Poker Hand #TM5671522256: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:40:06
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (20,146 in chips)
+Seat 2: 6333fcc7 (19,409 in chips)
+Seat 3: Hero (27,435 in chips)
+Seat 4: 7dfebde1 (21,994 in chips)
+Seat 5: 7bbffa16 (14,559 in chips)
+Seat 6: a97c09cf (14,501 in chips)
+Seat 7: 52d25f9a (19,995 in chips)
+Seat 8: e42834e0 (20,691 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+52d25f9a: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+52d25f9a: posts small blind 100
+e42834e0: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9h 2c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+2d715249: folds
+6333fcc7: raises 200 to 400
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: calls 200
+*** FLOP *** [5c 9s 4d]
+e42834e0: checks
+6333fcc7: bets 285
+e42834e0: folds
+Uncalled bet (285) returned to 6333fcc7
+*** SHOWDOWN ***
+6333fcc7 collected 1,140 from pot
+*** SUMMARY ***
+Total pot 1,140 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9s 4d]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 won (1,140)
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: 52d25f9a (small blind) folded before Flop
+Seat 8: e42834e0 (big blind) folded on the Flop
+
+
+Poker Hand #TM5671522232: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level4(100/200(30)) - 2026/03/06 22:39:23
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (20,176 in chips)
+Seat 2: 6333fcc7 (19,439 in chips)
+Seat 3: Hero (27,465 in chips)
+Seat 4: 7dfebde1 (22,024 in chips)
+Seat 5: 7bbffa16 (14,589 in chips)
+Seat 6: a97c09cf (14,631 in chips)
+Seat 7: 52d25f9a (20,525 in chips)
+Seat 8: e42834e0 (19,881 in chips)
+7dfebde1: posts the ante 30
+6333fcc7: posts the ante 30
+e42834e0: posts the ante 30
+7bbffa16: posts the ante 30
+Hero: posts the ante 30
+52d25f9a: posts the ante 30
+2d715249: posts the ante 30
+a97c09cf: posts the ante 30
+a97c09cf: posts small blind 100
+52d25f9a: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [4s Qd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+e42834e0: calls 200
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: checks
+*** FLOP *** [Ks Qc 8d]
+52d25f9a: checks
+e42834e0: checks
+*** TURN *** [Ks Qc 8d] [7h]
+52d25f9a: bets 300
+e42834e0: calls 300
+*** RIVER *** [Ks Qc 8d 7h] [9c]
+52d25f9a: checks
+e42834e0: checks
+52d25f9a: shows [3h 8s] (a pair of Eights)
+e42834e0: shows [7d 9d] (two pair, Nines and Sevens)
+*** SHOWDOWN ***
+e42834e0 collected 1,340 from pot
+*** SUMMARY ***
+Total pot 1,340 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Qc 8d 7h 9c]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: 52d25f9a (big blind) showed [3h 8s] and lost with a pair of Eights
+Seat 8: e42834e0 showed [7d 9d] and won (1,340) with two pair, Nines and Sevens
+
+
+Poker Hand #TM5671522182: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:38:02
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (20,196 in chips)
+Seat 2: 6333fcc7 (19,759 in chips)
+Seat 3: Hero (27,785 in chips)
+Seat 4: 7dfebde1 (22,044 in chips)
+Seat 5: 7bbffa16 (14,909 in chips)
+Seat 6: a97c09cf (13,591 in chips)
+Seat 7: 52d25f9a (20,545 in chips)
+Seat 8: e42834e0 (19,901 in chips)
+7dfebde1: posts the ante 20
+6333fcc7: posts the ante 20
+e42834e0: posts the ante 20
+Hero: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+7bbffa16: posts small blind 75
+a97c09cf: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Kd 6d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: raises 150 to 300
+Hero: calls 300
+7dfebde1: folds
+7bbffa16: calls 225
+a97c09cf: calls 150
+*** FLOP *** [3s Jh 5s]
+7bbffa16: checks
+a97c09cf: checks
+6333fcc7: checks
+Hero: checks
+*** TURN *** [3s Jh 5s] [Qc]
+7bbffa16: checks
+a97c09cf: bets 680
+6333fcc7: folds
+Hero: folds
+7bbffa16: folds
+Uncalled bet (680) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 1,360 from pot
+*** SUMMARY ***
+Total pot 1,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Jh 5s Qc]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded on the Turn
+Seat 3: Hero folded on the Turn
+Seat 4: 7dfebde1 (button) folded before Flop
+Seat 5: 7bbffa16 (small blind) folded on the Turn
+Seat 6: a97c09cf (big blind) won (1,360)
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522122: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:36:02
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (20,216 in chips)
+Seat 2: 6333fcc7 (18,794 in chips)
+Seat 3: Hero (27,805 in chips)
+Seat 4: 7dfebde1 (22,139 in chips)
+Seat 5: 7bbffa16 (15,079 in chips)
+Seat 6: a97c09cf (13,611 in chips)
+Seat 7: 52d25f9a (20,565 in chips)
+Seat 8: e42834e0 (20,521 in chips)
+6333fcc7: posts the ante 20
+7dfebde1: posts the ante 20
+e42834e0: posts the ante 20
+Hero: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+7dfebde1: posts small blind 75
+7bbffa16: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [5h 3c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: calls 150
+2d715249: folds
+6333fcc7: raises 450 to 600
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+e42834e0: calls 450
+*** FLOP *** [2s Jd Ah]
+e42834e0: checks
+6333fcc7: checks
+*** TURN *** [2s Jd Ah] [4h]
+e42834e0: checks
+6333fcc7: checks
+*** RIVER *** [2s Jd Ah 4h] [8h]
+e42834e0: checks
+6333fcc7: checks
+e42834e0: shows [Kd 7d] (Ace high)
+6333fcc7: shows [Ks Th] (Ace high)
+*** SHOWDOWN ***
+6333fcc7 collected 1,585 from pot
+*** SUMMARY ***
+Total pot 1,585 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Jd Ah 4h 8h]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 showed [Ks Th] and won (1,585) with Ace high
+Seat 3: Hero (button) folded before Flop
+Seat 4: 7dfebde1 (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 showed [Kd 7d] and lost with Ace high
+
+
+Poker Hand #TM5671522107: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:35:31
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (20,236 in chips)
+Seat 2: 6333fcc7 (18,814 in chips)
+Seat 3: Hero (27,900 in chips)
+Seat 4: 7dfebde1 (21,924 in chips)
+Seat 5: 7bbffa16 (15,099 in chips)
+Seat 6: a97c09cf (13,631 in chips)
+Seat 7: 52d25f9a (20,585 in chips)
+Seat 8: e42834e0 (20,541 in chips)
+6333fcc7: posts the ante 20
+7dfebde1: posts the ante 20
+e42834e0: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+Hero: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+Hero: posts small blind 75
+7dfebde1: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [5c 9d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+Uncalled bet (75) returned to 7dfebde1
+*** SHOWDOWN ***
+7dfebde1 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 7dfebde1 (big blind) collected (310)
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671522058: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:34:07
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (20,256 in chips)
+Seat 2: 6333fcc7 (18,909 in chips)
+Seat 3: Hero (28,220 in chips)
+Seat 4: 7dfebde1 (21,944 in chips)
+Seat 5: 7bbffa16 (15,119 in chips)
+Seat 6: a97c09cf (14,326 in chips)
+Seat 7: 52d25f9a (20,605 in chips)
+Seat 8: e42834e0 (19,351 in chips)
+7dfebde1: posts the ante 20
+6333fcc7: posts the ante 20
+e42834e0: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+Hero: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+6333fcc7: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Qc 7d]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: raises 150 to 300
+52d25f9a: folds
+e42834e0: calls 300
+2d715249: folds
+6333fcc7: folds
+Hero: calls 150
+*** FLOP *** [8c 3d 5d]
+Hero: checks
+a97c09cf: checks
+e42834e0: bets 375
+Hero: folds
+a97c09cf: calls 375
+*** TURN *** [8c 3d 5d] [Jd]
+a97c09cf: checks
+e42834e0: bets 375
+a97c09cf: folds
+Uncalled bet (375) returned to e42834e0
+*** SHOWDOWN ***
+e42834e0 collected 1,885 from pot
+*** SUMMARY ***
+Total pot 1,885 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 3d 5d Jd]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded on the Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded on the Turn
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 won (1,885)
+
+
+Poker Hand #TM5671522023: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:33:11
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (20,351 in chips)
+Seat 2: 6333fcc7 (19,229 in chips)
+Seat 3: Hero (28,240 in chips)
+Seat 4: 7dfebde1 (21,964 in chips)
+Seat 5: 7bbffa16 (15,139 in chips)
+Seat 6: a97c09cf (13,811 in chips)
+Seat 7: 52d25f9a (20,625 in chips)
+Seat 8: e42834e0 (19,371 in chips)
+7dfebde1: posts the ante 20
+6333fcc7: posts the ante 20
+e42834e0: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+Hero: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+2d715249: posts small blind 75
+6333fcc7: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [7s Kd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: raises 150 to 300
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: calls 150
+*** FLOP *** [Qd 5s Ah]
+6333fcc7: checks
+a97c09cf: bets 276
+6333fcc7: folds
+Uncalled bet (276) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 5s Ah]
+Seat 1: 2d715249 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf won (835)
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 (button) folded before Flop
+
+
+Poker Hand #TM5671521979: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level3(75/150(20)) - 2026/03/06 22:32:01
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (20,521 in chips)
+Seat 2: 6333fcc7 (19,249 in chips)
+Seat 3: Hero (28,260 in chips)
+Seat 4: 7dfebde1 (21,984 in chips)
+Seat 5: 7bbffa16 (15,309 in chips)
+Seat 6: a97c09cf (13,831 in chips)
+Seat 7: 52d25f9a (19,660 in chips)
+Seat 8: e42834e0 (19,916 in chips)
+7dfebde1: posts the ante 20
+6333fcc7: posts the ante 20
+e42834e0: posts the ante 20
+52d25f9a: posts the ante 20
+7bbffa16: posts the ante 20
+Hero: posts the ante 20
+2d715249: posts the ante 20
+a97c09cf: posts the ante 20
+e42834e0: posts small blind 75
+2d715249: posts big blind 150
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [8d 4c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: calls 150
+a97c09cf: folds
+52d25f9a: raises 375 to 525
+e42834e0: calls 450
+2d715249: folds
+7bbffa16: folds
+*** FLOP *** [2s 7s 2d]
+e42834e0: checks
+52d25f9a: bets 525
+e42834e0: folds
+Uncalled bet (525) returned to 52d25f9a
+*** SHOWDOWN ***
+52d25f9a collected 1,510 from pot
+*** SUMMARY ***
+Total pot 1,510 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 7s 2d]
+Seat 1: 2d715249 (big blind) folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a (button) won (1,510)
+Seat 8: e42834e0 (small blind) folded on the Flop
+
+
+Poker Hand #TM5671521945: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:30:54
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (20,539 in chips)
+Seat 2: 6333fcc7 (19,267 in chips)
+Seat 3: Hero (28,278 in chips)
+Seat 4: 7dfebde1 (22,302 in chips)
+Seat 5: 7bbffa16 (15,327 in chips)
+Seat 6: a97c09cf (13,849 in chips)
+Seat 7: 52d25f9a (19,738 in chips)
+Seat 8: e42834e0 (19,430 in chips)
+7dfebde1: posts the ante 18
+6333fcc7: posts the ante 18
+e42834e0: posts the ante 18
+7bbffa16: posts the ante 18
+Hero: posts the ante 18
+52d25f9a: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+52d25f9a: posts small blind 60
+e42834e0: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [9c 4c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: raises 180 to 300
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: calls 180
+*** FLOP *** [4d 2c 6s]
+e42834e0: checks
+7dfebde1: checks
+*** TURN *** [4d 2c 6s] [3s]
+e42834e0: bets 266
+7dfebde1: folds
+Uncalled bet (266) returned to e42834e0
+*** SHOWDOWN ***
+e42834e0 collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 2c 6s 3s]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded on the Turn
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: 52d25f9a (small blind) folded before Flop
+Seat 8: e42834e0 (big blind) won (804)
+
+
+Poker Hand #TM5671521912: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:29:53
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (20,557 in chips)
+Seat 2: 6333fcc7 (19,285 in chips)
+Seat 3: Hero (28,536 in chips)
+Seat 4: 7dfebde1 (22,320 in chips)
+Seat 5: 7bbffa16 (16,305 in chips)
+Seat 6: a97c09cf (12,163 in chips)
+Seat 7: 52d25f9a (19,876 in chips)
+Seat 8: e42834e0 (19,688 in chips)
+7dfebde1: posts the ante 18
+6333fcc7: posts the ante 18
+e42834e0: posts the ante 18
+7bbffa16: posts the ante 18
+Hero: posts the ante 18
+52d25f9a: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+a97c09cf: posts small blind 60
+52d25f9a: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Td Ac]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+e42834e0: raises 120 to 240
+2d715249: folds
+6333fcc7: folds
+Hero: calls 240
+7dfebde1: folds
+7bbffa16: raises 720 to 960
+a97c09cf: raises 11,185 to 12,145 and is all-in
+52d25f9a: folds
+e42834e0: folds
+Hero: folds
+7bbffa16: folds
+Uncalled bet (11,185) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 2,664 from pot
+*** SUMMARY ***
+Total pot 2,664 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) collected (2,664)
+Seat 7: 52d25f9a (big blind) folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671521854: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:28:19
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (20,575 in chips)
+Seat 2: 6333fcc7 (19,543 in chips)
+Seat 3: Hero (24,582 in chips)
+Seat 4: 7dfebde1 (22,338 in chips)
+Seat 5: 7bbffa16 (16,383 in chips)
+Seat 6: a97c09cf (15,229 in chips)
+Seat 7: 52d25f9a (20,134 in chips)
+Seat 8: e42834e0 (19,946 in chips)
+7dfebde1: posts the ante 18
+6333fcc7: posts the ante 18
+e42834e0: posts the ante 18
+Hero: posts the ante 18
+52d25f9a: posts the ante 18
+7bbffa16: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+7bbffa16: posts small blind 60
+a97c09cf: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Qh Qs]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+52d25f9a: raises 120 to 240
+e42834e0: calls 240
+2d715249: folds
+6333fcc7: calls 240
+Hero: calls 240
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: calls 120
+*** FLOP *** [Jh 7d 6s]
+a97c09cf: checks
+52d25f9a: checks
+e42834e0: checks
+6333fcc7: checks
+Hero: bets 702
+a97c09cf: calls 702
+52d25f9a: folds
+e42834e0: folds
+6333fcc7: folds
+*** TURN *** [Jh 7d 6s] [2c]
+a97c09cf: checks
+Hero: bets 2,106
+a97c09cf: calls 2,106
+*** RIVER *** [Jh 7d 6s 2c] [4d]
+a97c09cf: checks
+Hero: bets 21,516 and is all-in
+a97c09cf: folds
+Uncalled bet (21,516) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,020 from pot
+*** SUMMARY ***
+Total pot 7,020 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 7d 6s 2c 4d]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded on the Flop
+Seat 3: Hero won (7,020)
+Seat 4: 7dfebde1 (button) folded before Flop
+Seat 5: 7bbffa16 (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) folded on the River
+Seat 7: 52d25f9a folded on the Flop
+Seat 8: e42834e0 folded on the Flop
+
+
+Poker Hand #TM5671521777: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:26:10
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (20,593 in chips)
+Seat 2: 6333fcc7 (19,561 in chips)
+Seat 3: Hero (20,533 in chips)
+Seat 4: 7dfebde1 (22,416 in chips)
+Seat 5: 7bbffa16 (20,264 in chips)
+Seat 6: a97c09cf (15,247 in chips)
+Seat 7: 52d25f9a (20,152 in chips)
+Seat 8: e42834e0 (19,964 in chips)
+6333fcc7: posts the ante 18
+7dfebde1: posts the ante 18
+e42834e0: posts the ante 18
+Hero: posts the ante 18
+52d25f9a: posts the ante 18
+7bbffa16: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+7dfebde1: posts small blind 60
+7bbffa16: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ks Jd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: folds
+Hero: raises 120 to 240
+7dfebde1: folds
+7bbffa16: raises 840 to 1,080
+Hero: calls 840
+*** FLOP *** [7h 5d 7s]
+7bbffa16: bets 1,206
+Hero: calls 1,206
+*** TURN *** [7h 5d 7s] [2s]
+7bbffa16: checks
+Hero: bets 1,577
+7bbffa16: calls 1,577
+*** RIVER *** [7h 5d 7s 2s] [3d]
+7bbffa16: checks
+Hero: bets 16,652 and is all-in
+7bbffa16: folds
+Uncalled bet (16,652) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,930 from pot
+*** SUMMARY ***
+Total pot 7,930 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 5d 7s 2s 3d]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) showed [Ks Jd] and won (7,930)
+Seat 4: 7dfebde1 (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) folded on the River
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671521722: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:24:45
+Table '7' 8-max Seat #2 is the button
+Seat 1: 2d715249 (19,867 in chips)
+Seat 2: 6333fcc7 (19,579 in chips)
+Seat 3: Hero (20,851 in chips)
+Seat 4: 7dfebde1 (22,734 in chips)
+Seat 5: 7bbffa16 (20,282 in chips)
+Seat 6: a97c09cf (15,265 in chips)
+Seat 7: 52d25f9a (20,170 in chips)
+Seat 8: e42834e0 (19,982 in chips)
+6333fcc7: posts the ante 18
+7dfebde1: posts the ante 18
+e42834e0: posts the ante 18
+52d25f9a: posts the ante 18
+7bbffa16: posts the ante 18
+Hero: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+Hero: posts small blind 60
+7dfebde1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ah 9h]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: raises 180 to 300
+6333fcc7: folds
+Hero: calls 240
+7dfebde1: calls 180
+*** FLOP *** [5h 3c Tc]
+Hero: checks
+7dfebde1: checks
+2d715249: bets 360
+Hero: folds
+7dfebde1: folds
+Uncalled bet (360) returned to 2d715249
+*** SHOWDOWN ***
+2d715249 collected 1,044 from pot
+*** SUMMARY ***
+Total pot 1,044 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3c Tc]
+Seat 1: 2d715249 won (1,044)
+Seat 2: 6333fcc7 (button) folded before Flop
+Seat 3: Hero (small blind) folded on the Flop
+Seat 4: 7dfebde1 (big blind) folded on the Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671521678: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level2(60/120(18)) - 2026/03/06 22:23:38
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (19,885 in chips)
+Seat 2: 6333fcc7 (19,525 in chips)
+Seat 3: Hero (20,797 in chips)
+Seat 4: 7dfebde1 (22,752 in chips)
+Seat 5: 7bbffa16 (20,300 in chips)
+Seat 6: a97c09cf (15,283 in chips)
+Seat 7: 52d25f9a (20,188 in chips)
+Seat 8: e42834e0 (20,000 in chips)
+7dfebde1: posts the ante 18
+6333fcc7: posts the ante 18
+e42834e0: posts the ante 18
+52d25f9a: posts the ante 18
+7bbffa16: posts the ante 18
+Hero: posts the ante 18
+2d715249: posts the ante 18
+a97c09cf: posts the ante 18
+6333fcc7: posts small blind 60
+Hero: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [6c Ts]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to e42834e0 
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: folds
+e42834e0: folds
+2d715249: folds
+6333fcc7: calls 60
+Hero: checks
+*** FLOP *** [Kd Kh 2c]
+6333fcc7: checks
+Hero: checks
+*** TURN *** [Kd Kh 2c] [2d]
+6333fcc7: checks
+Hero: checks
+*** RIVER *** [Kd Kh 2c 2d] [Ad]
+6333fcc7: checks
+Hero: checks
+6333fcc7: shows [8h 4h] (two pair, Kings and Twos)
+Hero: shows [6c Ts] (two pair, Kings and Twos)
+*** SHOWDOWN ***
+Hero collected 192 from pot
+6333fcc7 collected 192 from pot
+*** SUMMARY ***
+Total pot 384 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Kh 2c 2d Ad]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 2: 6333fcc7 (small blind) showed [8h 4h] and won (192) with two pair, Kings and Twos
+Seat 3: Hero (big blind) showed [6c Ts] and won (192) with two pair, Kings and Twos
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: e42834e0 folded before Flop
+
+
+Poker Hand #TM5671521613: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:21:59
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (19,950 in chips)
+Seat 2: 6333fcc7 (19,740 in chips)
+Seat 3: Hero (21,012 in chips)
+Seat 4: 7dfebde1 (19,745 in chips)
+Seat 5: 7bbffa16 (20,315 in chips)
+Seat 6: a97c09cf (17,765 in chips)
+Seat 7: 52d25f9a (20,203 in chips)
+7dfebde1: posts the ante 15
+6333fcc7: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+2d715249: posts small blind 50
+6333fcc7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Kc Jd]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Hero: raises 100 to 200
+7dfebde1: calls 200
+7bbffa16: folds
+a97c09cf: calls 200
+52d25f9a: folds
+2d715249: folds
+6333fcc7: calls 100
+*** FLOP *** [4c 7s Td]
+6333fcc7: checks
+Hero: checks
+7dfebde1: bets 717
+a97c09cf: calls 717
+6333fcc7: folds
+Hero: folds
+*** TURN *** [4c 7s Td] [Qs]
+7dfebde1: checks
+a97c09cf: checks
+*** RIVER *** [4c 7s Td Qs] [Qd]
+7dfebde1: bets 1,550
+a97c09cf: calls 1,550
+7dfebde1: shows [Th Ac] (two pair, Queens and Tens)
+a97c09cf: shows [Tc Kd] (two pair, Queens and Tens)
+*** SHOWDOWN ***
+7dfebde1 collected 5,489 from pot
+*** SUMMARY ***
+Total pot 5,489 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 7s Td Qs Qd]
+Seat 1: 2d715249 (small blind) folded before Flop
+Seat 2: 6333fcc7 (big blind) folded on the Flop
+Seat 3: Hero folded on the Flop
+Seat 4: 7dfebde1 showed [Th Ac] and won (5,489) with two pair, Queens and Tens
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf showed [Tc Kd] and lost with two pair, Queens and Tens
+Seat 7: 52d25f9a (button) folded before Flop
+
+
+Poker Hand #TM5671521583: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:21:17
+Table '7' 8-max Seat #6 is the button
+Seat 1: 2d715249 (19,610 in chips)
+Seat 2: 6333fcc7 (19,755 in chips)
+Seat 3: Hero (21,027 in chips)
+Seat 4: 7dfebde1 (19,760 in chips)
+Seat 5: 7bbffa16 (20,330 in chips)
+Seat 6: a97c09cf (17,980 in chips)
+Seat 7: 52d25f9a (20,268 in chips)
+7dfebde1: posts the ante 15
+6333fcc7: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+52d25f9a: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+52d25f9a: posts small blind 50
+2d715249: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [7d 8s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: raises 100 to 200
+52d25f9a: folds
+2d715249: raises 650 to 850
+a97c09cf: folds
+Uncalled bet (650) returned to 2d715249
+*** SHOWDOWN ***
+2d715249 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 (big blind) collected (555)
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf (button) folded before Flop
+Seat 7: 52d25f9a (small blind) folded before Flop
+
+
+Poker Hand #TM5671521546: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:20:14
+Table '7' 8-max Seat #5 is the button
+Seat 1: 2d715249 (19,625 in chips)
+Seat 2: 6333fcc7 (19,770 in chips)
+Seat 3: Hero (21,042 in chips)
+Seat 4: 7dfebde1 (19,775 in chips)
+Seat 5: 7bbffa16 (20,345 in chips)
+Seat 6: a97c09cf (18,045 in chips)
+Seat 7: 52d25f9a (20,583 in chips)
+Seat 8: 6e930065 (20,830 in chips)
+7dfebde1: posts the ante 15
+6333fcc7: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+6e930065: posts the ante 15
+52d25f9a: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+a97c09cf: posts small blind 50
+52d25f9a: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [6s 7c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+6e930065: raises 200 to 300
+2d715249: folds
+6333fcc7: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: calls 200
+*** FLOP *** [Jc 2c 9h]
+52d25f9a: checks
+6e930065: bets 578
+52d25f9a: folds
+Uncalled bet (578) returned to 6e930065
+*** SHOWDOWN ***
+6e930065 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc 2c 9h]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 (button) folded before Flop
+Seat 6: a97c09cf (small blind) folded before Flop
+Seat 7: 52d25f9a (big blind) folded on the Flop
+Seat 8: 6e930065 won (770)
+
+
+Poker Hand #TM5671521489: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:18:48
+Table '7' 8-max Seat #4 is the button
+Seat 1: 2d715249 (19,640 in chips)
+Seat 2: 6333fcc7 (19,985 in chips)
+Seat 3: Hero (21,057 in chips)
+Seat 4: 7dfebde1 (19,790 in chips)
+Seat 5: 7bbffa16 (20,410 in chips)
+Seat 6: a97c09cf (20,210 in chips)
+Seat 7: 52d25f9a (18,078 in chips)
+Seat 8: 6e930065 (20,845 in chips)
+7dfebde1: posts the ante 15
+6333fcc7: posts the ante 15
+Hero: posts the ante 15
+6e930065: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+7bbffa16: posts small blind 50
+a97c09cf: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [7s 3c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+52d25f9a: raises 100 to 200
+6e930065: folds
+2d715249: folds
+6333fcc7: calls 200
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: calls 100
+*** FLOP *** [2h 5c 8c]
+a97c09cf: checks
+52d25f9a: bets 300
+6333fcc7: folds
+a97c09cf: calls 300
+*** TURN *** [2h 5c 8c] [6h]
+a97c09cf: checks
+52d25f9a: bets 1,650
+a97c09cf: calls 1,650
+*** RIVER *** [2h 5c 8c 6h] [6c]
+a97c09cf: checks
+52d25f9a: bets 4,000
+a97c09cf: folds
+Uncalled bet (4,000) returned to 52d25f9a
+*** SHOWDOWN ***
+52d25f9a collected 4,670 from pot
+*** SUMMARY ***
+Total pot 4,670 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 5c 8c 6h 6c]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded on the Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 (button) folded before Flop
+Seat 5: 7bbffa16 (small blind) folded before Flop
+Seat 6: a97c09cf (big blind) folded on the River
+Seat 7: 52d25f9a won (4,670)
+Seat 8: 6e930065 folded before Flop
+
+
+Poker Hand #TM5671521442: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:17:32
+Table '7' 8-max Seat #3 is the button
+Seat 1: 2d715249 (19,655 in chips)
+Seat 2: 6333fcc7 (20,000 in chips)
+Seat 3: Hero (21,372 in chips)
+Seat 4: 7dfebde1 (19,855 in chips)
+Seat 5: 7bbffa16 (19,955 in chips)
+Seat 6: a97c09cf (20,225 in chips)
+Seat 7: 52d25f9a (18,093 in chips)
+Seat 8: 6e930065 (20,860 in chips)
+6333fcc7: posts the ante 15
+7dfebde1: posts the ante 15
+Hero: posts the ante 15
+6e930065: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+7dfebde1: posts small blind 50
+7bbffa16: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 6333fcc7 
+Dealt to Hero [Ac 5s]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+a97c09cf: folds
+52d25f9a: folds
+6e930065: folds
+2d715249: folds
+6333fcc7: folds
+Hero: raises 100 to 200
+7dfebde1: folds
+7bbffa16: calls 100
+*** FLOP *** [Js 2s 8s]
+7bbffa16: checks
+Hero: checks
+*** TURN *** [Js 2s 8s] [Qc]
+7bbffa16: checks
+Hero: checks
+*** RIVER *** [Js 2s 8s Qc] [2d]
+7bbffa16: bets 100
+Hero: calls 100
+7bbffa16: shows [4c 4h] (two pair, Fours and Twos)
+Hero: shows [Ac 5s] (a pair of Twos)
+*** SHOWDOWN ***
+7bbffa16 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 2s 8s Qc 2d]
+Seat 1: 2d715249 folded before Flop
+Seat 2: 6333fcc7 folded before Flop
+Seat 3: Hero (button) showed [Ac 5s] and lost with a pair of Twos
+Seat 4: 7dfebde1 (small blind) folded before Flop
+Seat 5: 7bbffa16 (big blind) showed [4c 4h] and won (770) with two pair, Fours and Twos
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded before Flop
+Seat 8: 6e930065 folded before Flop
+
+
+Poker Hand #TM5671521411: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:16:40
+Table '7' 8-max Seat #1 is the button
+Seat 1: 2d715249 (19,670 in chips)
+Seat 3: Hero (19,770 in chips)
+Seat 4: 7dfebde1 (19,970 in chips)
+Seat 5: 7bbffa16 (19,970 in chips)
+Seat 6: a97c09cf (20,240 in chips)
+Seat 7: 52d25f9a (19,520 in chips)
+Seat 8: 6e930065 (20,875 in chips)
+7dfebde1: posts the ante 15
+6e930065: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+Hero: posts small blind 50
+7dfebde1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to Hero [8h 9h]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: raises 100 to 200
+6e930065: folds
+2d715249: folds
+Hero: calls 150
+7dfebde1: folds
+*** FLOP *** [2h Ah Jd]
+Hero: checks
+52d25f9a: checks
+*** TURN *** [2h Ah Jd] [Jh]
+Hero: bets 303
+52d25f9a: calls 303
+*** RIVER *** [2h Ah Jd Jh] [2d]
+Hero: bets 909
+52d25f9a: calls 909
+Hero: shows [8h 9h] (a flush Ace high)
+52d25f9a: shows [Ac 4c] (two pair, Aces and Jacks)
+*** SHOWDOWN ***
+Hero collected 3,029 from pot
+*** SUMMARY ***
+Total pot 3,029 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h Ah Jd Jh 2d]
+Seat 1: 2d715249 (button) folded before Flop
+Seat 3: Hero (small blind) showed [8h 9h] and won (3,029) with a flush Ace high
+Seat 4: 7dfebde1 (big blind) folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a showed [Ac 4c] and lost with two pair, Aces and Jacks
+Seat 8: 6e930065 folded before Flop
+
+
+Poker Hand #TM5671521366: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:15:31
+Table '7' 8-max Seat #8 is the button
+Seat 1: 2d715249 (19,885 in chips)
+Seat 3: Hero (19,985 in chips)
+Seat 4: 7dfebde1 (19,985 in chips)
+Seat 5: 7bbffa16 (19,985 in chips)
+Seat 6: a97c09cf (20,255 in chips)
+Seat 7: 52d25f9a (19,985 in chips)
+Seat 8: 6e930065 (19,935 in chips)
+7dfebde1: posts the ante 15
+6e930065: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+2d715249: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to Hero [9h 4c]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: folds
+52d25f9a: raises 100 to 200
+6e930065: calls 200
+2d715249: calls 150
+Hero: calls 100
+*** FLOP *** [5c Kh Kd]
+2d715249: checks
+Hero: checks
+52d25f9a: checks
+6e930065: checks
+*** TURN *** [5c Kh Kd] [Ts]
+2d715249: checks
+Hero: checks
+52d25f9a: bets 250
+6e930065: calls 250
+2d715249: folds
+Hero: folds
+*** RIVER *** [5c Kh Kd Ts] [6c]
+52d25f9a: checks
+6e930065: bets 703
+52d25f9a: folds
+Uncalled bet (703) returned to 6e930065
+*** SHOWDOWN ***
+6e930065 collected 1,405 from pot
+*** SUMMARY ***
+Total pot 1,405 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c Kh Kd Ts 6c]
+Seat 1: 2d715249 (small blind) folded on the Turn
+Seat 3: Hero (big blind) folded on the Turn
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf folded before Flop
+Seat 7: 52d25f9a folded on the River
+Seat 8: 6e930065 (button) won (1,405)
+
+
+Poker Hand #TM5671521345: Tournament #267996101, Bounty Hunters Deepstack Turbo $10.80 Hold'em No Limit - Level1(50/100(15)) - 2026/03/06 22:15:02
+Table '7' 8-max Seat #7 is the button
+Seat 1: 2d715249 (20,000 in chips)
+Seat 2: 78453ae0 (20,000 in chips)
+Seat 3: Hero (20,000 in chips)
+Seat 4: 7dfebde1 (20,000 in chips)
+Seat 5: 7bbffa16 (20,000 in chips)
+Seat 6: a97c09cf (20,000 in chips)
+Seat 7: 52d25f9a (20,000 in chips)
+Seat 8: 6e930065 (20,000 in chips)
+7dfebde1: posts the ante 15
+52d25f9a: posts the ante 15
+7bbffa16: posts the ante 15
+Hero: posts the ante 15
+6e930065: posts the ante 15
+2d715249: posts the ante 15
+a97c09cf: posts the ante 15
+78453ae0: posts the ante 15
+6e930065: posts small blind 50
+2d715249: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 2d715249 
+Dealt to 78453ae0 
+Dealt to Hero [2c Kh]
+Dealt to 7dfebde1 
+Dealt to 7bbffa16 
+Dealt to a97c09cf 
+Dealt to 52d25f9a 
+Dealt to 6e930065 
+78453ae0: folds
+Hero: folds
+7dfebde1: folds
+7bbffa16: folds
+a97c09cf: raises 100 to 200
+52d25f9a: folds
+6e930065: folds
+2d715249: folds
+Uncalled bet (100) returned to a97c09cf
+*** SHOWDOWN ***
+a97c09cf collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2d715249 (big blind) folded before Flop
+Seat 2: 78453ae0 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 7dfebde1 folded before Flop
+Seat 5: 7bbffa16 folded before Flop
+Seat 6: a97c09cf collected (370)
+Seat 7: 52d25f9a (button) folded before Flop
+Seat 8: 6e930065 (small blind) folded before Flop
+
+

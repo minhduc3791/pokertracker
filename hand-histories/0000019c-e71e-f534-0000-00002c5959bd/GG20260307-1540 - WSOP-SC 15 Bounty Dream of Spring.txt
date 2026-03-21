@@ -1,0 +1,4883 @@
+Poker Hand #TM5676867883: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level18(1,500/3,000(450)) - 2026/03/08 04:07:05
+Table '333' 8-max Seat #3 is the button
+Seat 1: Hero (52,644 in chips)
+Seat 2: a21ee098 (116,145 in chips)
+Seat 3: 41ca553 (17,267 in chips)
+Seat 4: aee4577b (92,396 in chips)
+Seat 5: 901ce975 (167,540 in chips)
+Seat 6: a6e80101 (78,029 in chips)
+Seat 7: 1353350 (24,090 in chips)
+Seat 8: 3fbf108e (65,376 in chips)
+41ca553: posts the ante 450
+3fbf108e: posts the ante 450
+Hero: posts the ante 450
+1353350: posts the ante 450
+901ce975: posts the ante 450
+aee4577b: posts the ante 450
+a21ee098: posts the ante 450
+a6e80101: posts the ante 450
+aee4577b: posts small blind 1,500
+901ce975: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Ah Tc]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+a6e80101: raises 3,000 to 6,000
+1353350: raises 17,640 to 23,640 and is all-in
+3fbf108e: folds
+Hero: raises 28,554 to 52,194 and is all-in
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: calls 46,194
+Hero: shows [Ah Tc]
+a6e80101: shows [Ac Jh]
+1353350: shows [9c 8c]
+*** FLOP *** [3d Qd 8s]
+*** TURN *** [3d Qd 8s] [3c]
+*** RIVER *** [3d Qd 8s 3c] [9h]
+*** SHOWDOWN ***
+1353350 collected 79,020 from pot
+a6e80101 collected 57,108 from pot
+*** SUMMARY ***
+Total pot 136,128 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d Qd 8s 3c 9h]
+Seat 1: Hero showed [Ah Tc] and lost with a pair of Threes
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 (button) folded before Flop
+Seat 4: aee4577b (small blind) folded before Flop
+Seat 5: 901ce975 (big blind) folded before Flop
+Seat 6: a6e80101 showed [Ac Jh] and won (57,108) with a pair of Threes
+Seat 7: 1353350 showed [9c 8c] and won (79,020) with two pair, Nines and Eights
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676867683: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level18(1,500/3,000(450)) - 2026/03/08 04:06:13
+Table '333' 8-max Seat #2 is the button
+Seat 1: Hero (53,094 in chips)
+Seat 2: a21ee098 (116,595 in chips)
+Seat 3: 41ca553 (19,217 in chips)
+Seat 4: aee4577b (95,846 in chips)
+Seat 5: 901ce975 (153,290 in chips)
+Seat 6: a6e80101 (78,479 in chips)
+Seat 7: 1353350 (31,140 in chips)
+Seat 8: 3fbf108e (65,826 in chips)
+3fbf108e: posts the ante 450
+41ca553: posts the ante 450
+Hero: posts the ante 450
+1353350: posts the ante 450
+901ce975: posts the ante 450
+aee4577b: posts the ante 450
+a21ee098: posts the ante 450
+a6e80101: posts the ante 450
+41ca553: posts small blind 1,500
+aee4577b: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Tc 4s]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+901ce975: raises 3,600 to 6,600
+a6e80101: folds
+1353350: calls 6,600
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+*** FLOP *** [Kh 3c 8d]
+901ce975: checks
+1353350: checks
+*** TURN *** [Kh 3c 8d] [Ks]
+901ce975: checks
+1353350: checks
+*** RIVER *** [Kh 3c 8d Ks] [Ad]
+901ce975: bets 7,029
+1353350: folds
+Uncalled bet (7,029) returned to 901ce975
+*** SHOWDOWN ***
+901ce975 collected 21,300 from pot
+*** SUMMARY ***
+Total pot 21,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 3c 8d Ks Ad]
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 (button) folded before Flop
+Seat 3: 41ca553 (small blind) folded before Flop
+Seat 4: aee4577b (big blind) folded before Flop
+Seat 5: 901ce975 won (21,300)
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 folded on the River
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676867543: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level18(1,500/3,000(450)) - 2026/03/08 04:05:21
+Table '333' 8-max Seat #1 is the button
+Seat 1: Hero (60,144 in chips)
+Seat 2: a21ee098 (118,545 in chips)
+Seat 3: 41ca553 (25,997 in chips)
+Seat 4: aee4577b (96,296 in chips)
+Seat 5: 901ce975 (153,740 in chips)
+Seat 6: a6e80101 (85,529 in chips)
+Seat 7: 1353350 (6,960 in chips)
+Seat 8: 3fbf108e (66,276 in chips)
+3fbf108e: posts the ante 450
+41ca553: posts the ante 450
+Hero: posts the ante 450
+1353350: posts the ante 450
+901ce975: posts the ante 450
+aee4577b: posts the ante 450
+a21ee098: posts the ante 450
+a6e80101: posts the ante 450
+a21ee098: posts small blind 1,500
+41ca553: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [Th 7c]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+aee4577b: folds
+901ce975: folds
+a6e80101: raises 3,600 to 6,600
+1353350: calls 6,510 and is all-in
+3fbf108e: folds
+Hero: calls 6,600
+a21ee098: folds
+41ca553: calls 3,600
+*** FLOP *** [9h 4c 2c]
+41ca553: checks
+a6e80101: checks
+Hero: checks
+*** TURN *** [9h 4c 2c] [Qd]
+41ca553: checks
+a6e80101: checks
+Hero: checks
+*** RIVER *** [9h 4c 2c Qd] [Jd]
+41ca553: checks
+a6e80101: checks
+Hero: checks
+41ca553: shows [5s 4d] (a pair of Fours)
+a6e80101: shows [As 7d] (Ace high)
+1353350: shows [Js 3d] (a pair of Jacks)
+Hero: shows [Th 7c] (Queen high)
+*** SHOWDOWN ***
+1353350 collected 31,140 from pot
+41ca553 collected 270 from pot
+*** SUMMARY ***
+Total pot 31,410 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 4c 2c Qd Jd]
+Seat 1: Hero (button) showed [Th 7c] and lost with Queen high
+Seat 2: a21ee098 (small blind) folded before Flop
+Seat 3: 41ca553 (big blind) showed [5s 4d] and won (270) with a pair of Fours
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 showed [As 7d] and lost with Ace high
+Seat 7: 1353350 showed [Js 3d] and won (31,140) with a pair of Jacks
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676867316: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level18(1,500/3,000(450)) - 2026/03/08 04:04:18
+Table '333' 8-max Seat #8 is the button
+Seat 1: Hero (62,094 in chips)
+Seat 2: a21ee098 (121,995 in chips)
+Seat 3: 41ca553 (26,447 in chips)
+Seat 4: aee4577b (96,746 in chips)
+Seat 5: 901ce975 (73,270 in chips)
+Seat 6: a6e80101 (85,979 in chips)
+Seat 7: 1353350 (80,230 in chips)
+Seat 8: 3fbf108e (66,726 in chips)
+3fbf108e: posts the ante 450
+41ca553: posts the ante 450
+Hero: posts the ante 450
+1353350: posts the ante 450
+901ce975: posts the ante 450
+aee4577b: posts the ante 450
+a21ee098: posts the ante 450
+a6e80101: posts the ante 450
+Hero: posts small blind 1,500
+a21ee098: posts big blind 3,000
+*** HOLE CARDS ***
+Dealt to Hero [5c 2d]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+41ca553: folds
+aee4577b: folds
+901ce975: raises 3,600 to 6,600
+a6e80101: folds
+1353350: calls 6,600
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+*** FLOP *** [Kd 8h Ah]
+901ce975: bets 7,029
+1353350: calls 7,029
+*** TURN *** [Kd 8h Ah] [5h]
+901ce975: checks
+1353350: checks
+*** RIVER *** [Kd 8h Ah 5h] [6d]
+901ce975: bets 59,191 and is all-in
+1353350: calls 59,191
+901ce975: shows [Th Kh] (a flush Ace high)
+1353350: shows [4c Ac] (a pair of Aces)
+*** SHOWDOWN ***
+901ce975 collected 153,740 from pot
+*** SUMMARY ***
+Total pot 153,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 8h Ah 5h 6d]
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: a21ee098 (big blind) folded before Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 showed [Th Kh] and won (153,740) with a flush Ace high
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 showed [4c Ac] and lost with a pair of Aces
+Seat 8: 3fbf108e (button) folded before Flop
+
+
+Poker Hand #TM5676867199: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 04:03:48
+Table '333' 8-max Seat #7 is the button
+Seat 1: Hero (58,394 in chips)
+Seat 2: a21ee098 (122,345 in chips)
+Seat 3: 41ca553 (26,797 in chips)
+Seat 4: aee4577b (97,096 in chips)
+Seat 5: 901ce975 (73,620 in chips)
+Seat 6: a6e80101 (86,329 in chips)
+Seat 7: 1353350 (80,580 in chips)
+Seat 8: 3fbf108e (68,326 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+3fbf108e: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [Qc 7s]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: folds
+1353350: folds
+3fbf108e: folds
+Uncalled bet (1,250) returned to Hero
+*** SHOWDOWN ***
+Hero collected 5,300 from pot
+*** SUMMARY ***
+Total pot 5,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) collected (5,300)
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 (button) folded before Flop
+Seat 8: 3fbf108e (small blind) folded before Flop
+
+
+Poker Hand #TM5676867110: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 04:03:20
+Table '333' 8-max Seat #6 is the button
+Seat 1: Hero (58,744 in chips)
+Seat 2: a21ee098 (122,695 in chips)
+Seat 3: 41ca553 (27,147 in chips)
+Seat 4: aee4577b (97,446 in chips)
+Seat 5: 901ce975 (73,970 in chips)
+Seat 6: a6e80101 (80,129 in chips)
+Seat 7: 1353350 (82,180 in chips)
+Seat 8: 3fbf108e (71,176 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+1353350: posts small blind 1,250
+3fbf108e: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [2h Ac]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: raises 2,500 to 5,000
+1353350: folds
+3fbf108e: folds
+Uncalled bet (2,500) returned to a6e80101
+*** SHOWDOWN ***
+a6e80101 collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 (button) collected (9,050)
+Seat 7: 1353350 (small blind) folded before Flop
+Seat 8: 3fbf108e (big blind) folded before Flop
+
+
+Poker Hand #TM5676866991: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 04:02:27
+Table '333' 8-max Seat #5 is the button
+Seat 1: Hero (59,094 in chips)
+Seat 2: a21ee098 (123,045 in chips)
+Seat 3: 41ca553 (27,497 in chips)
+Seat 4: aee4577b (97,796 in chips)
+Seat 5: 901ce975 (74,320 in chips)
+Seat 6: a6e80101 (81,729 in chips)
+Seat 7: 1353350 (78,480 in chips)
+Seat 8: 3fbf108e (71,526 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+a6e80101: posts small blind 1,250
+1353350: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [Qh 3s]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: folds
+Uncalled bet (1,250) returned to 1353350
+*** SHOWDOWN ***
+1353350 collected 5,300 from pot
+*** SUMMARY ***
+Total pot 5,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 (button) folded before Flop
+Seat 6: a6e80101 (small blind) folded before Flop
+Seat 7: 1353350 (big blind) collected (5,300)
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676866724: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:54:41
+Table '333' 8-max Seat #4 is the button
+Seat 1: Hero (59,444 in chips)
+Seat 2: a21ee098 (123,395 in chips)
+Seat 3: 41ca553 (27,847 in chips)
+Seat 4: aee4577b (98,146 in chips)
+Seat 5: 901ce975 (75,920 in chips)
+Seat 6: a6e80101 (101,604 in chips)
+Seat 7: 1353350 (55,255 in chips)
+Seat 8: 3fbf108e (71,876 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+901ce975: posts small blind 1,250
+a6e80101: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [Th 7h]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+1353350: calls 2,500
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: checks
+*** FLOP *** [Jd 9c Jc]
+a6e80101: checks
+1353350: bets 4,525
+a6e80101: calls 4,525
+*** TURN *** [Jd 9c Jc] [Ad]
+a6e80101: checks
+1353350: checks
+*** RIVER *** [Jd 9c Jc Ad] [5d]
+a6e80101: bets 12,500
+1353350: raises 21,550 to 34,050
+a6e80101: folds
+Uncalled bet (21,550) returned to 1353350
+*** SHOWDOWN ***
+1353350 collected 43,100 from pot
+*** SUMMARY ***
+Total pot 43,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 9c Jc Ad 5d]
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b (button) folded before Flop
+Seat 5: 901ce975 (small blind) folded before Flop
+Seat 6: a6e80101 (big blind) folded on the River
+Seat 7: 1353350 won (43,100)
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676866624: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:54:10
+Table '333' 8-max Seat #3 is the button
+Seat 1: Hero (59,794 in chips)
+Seat 2: a21ee098 (123,745 in chips)
+Seat 3: 41ca553 (28,197 in chips)
+Seat 4: aee4577b (99,746 in chips)
+Seat 5: 901ce975 (78,770 in chips)
+Seat 6: a6e80101 (101,954 in chips)
+Seat 7: 1353350 (49,055 in chips)
+Seat 8: 3fbf108e (72,226 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+aee4577b: posts small blind 1,250
+901ce975: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [Qh 7c]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+a6e80101: folds
+1353350: raises 7,500 to 10,000
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+Uncalled bet (7,500) returned to 1353350
+*** SHOWDOWN ***
+1353350 collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 folded before Flop
+Seat 3: 41ca553 (button) folded before Flop
+Seat 4: aee4577b (small blind) folded before Flop
+Seat 5: 901ce975 (big blind) folded before Flop
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 collected (9,050)
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676866571: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:53:48
+Table '333' 8-max Seat #2 is the button
+Seat 1: Hero (60,144 in chips)
+Seat 2: a21ee098 (124,095 in chips)
+Seat 3: 41ca553 (29,797 in chips)
+Seat 4: aee4577b (102,596 in chips)
+Seat 5: 901ce975 (79,120 in chips)
+Seat 6: a6e80101 (102,304 in chips)
+Seat 7: 1353350 (42,855 in chips)
+Seat 8: 3fbf108e (72,576 in chips)
+3fbf108e: posts the ante 350
+41ca553: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+41ca553: posts small blind 1,250
+aee4577b: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [7s 9h]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+901ce975: folds
+a6e80101: folds
+1353350: raises 7,500 to 10,000
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+aee4577b: folds
+Uncalled bet (7,500) returned to 1353350
+*** SHOWDOWN ***
+1353350 collected 9,050 from pot
+*** SUMMARY ***
+Total pot 9,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 (button) folded before Flop
+Seat 3: 41ca553 (small blind) folded before Flop
+Seat 4: aee4577b (big blind) folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 collected (9,050)
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676866426: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:53:04
+Table '333' 8-max Seat #1 is the button
+Seat 1: Hero (60,494 in chips)
+Seat 2: a21ee098 (125,695 in chips)
+Seat 3: 41ca553 (32,647 in chips)
+Seat 4: aee4577b (102,946 in chips)
+Seat 5: 901ce975 (84,970 in chips)
+Seat 6: a6e80101 (90,604 in chips)
+Seat 7: 1353350 (43,205 in chips)
+Seat 8: 3fbf108e (72,926 in chips)
+3fbf108e: posts the ante 350
+41ca553: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+a21ee098: posts small blind 1,250
+41ca553: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [Th 4s]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+aee4577b: folds
+901ce975: raises 3,000 to 5,500
+a6e80101: raises 9,500 to 15,000
+1353350: folds
+3fbf108e: folds
+Hero: folds
+a21ee098: folds
+41ca553: folds
+901ce975: folds
+Uncalled bet (9,500) returned to a6e80101
+*** SHOWDOWN ***
+a6e80101 collected 17,550 from pot
+*** SUMMARY ***
+Total pot 17,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: a21ee098 (small blind) folded before Flop
+Seat 3: 41ca553 (big blind) folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 collected (17,550)
+Seat 7: 1353350 folded before Flop
+Seat 8: 3fbf108e folded before Flop
+
+
+Poker Hand #TM5676866231: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:52:04
+Table '333' 8-max Seat #8 is the button
+Seat 1: Hero (45,394 in chips)
+Seat 2: a21ee098 (128,545 in chips)
+Seat 3: 41ca553 (32,997 in chips)
+Seat 4: aee4577b (103,296 in chips)
+Seat 5: 901ce975 (85,320 in chips)
+Seat 6: a6e80101 (90,954 in chips)
+Seat 7: 1353350 (53,705 in chips)
+Seat 8: 3fbf108e (73,276 in chips)
+3fbf108e: posts the ante 350
+41ca553: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+Hero: posts small blind 1,250
+a21ee098: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [8d Kc]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: folds
+1353350: calls 2,500
+3fbf108e: folds
+Hero: calls 1,250
+a21ee098: checks
+*** FLOP *** [Js 9d 7c]
+Hero: checks
+a21ee098: checks
+1353350: checks
+*** TURN *** [Js 9d 7c] [Tc]
+Hero: bets 7,650
+a21ee098: folds
+1353350: calls 7,650
+*** RIVER *** [Js 9d 7c Tc] [Ah]
+Hero: bets 19,200
+1353350: folds
+Uncalled bet (19,200) returned to Hero
+*** SHOWDOWN ***
+Hero collected 25,600 from pot
+*** SUMMARY ***
+Total pot 25,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 9d 7c Tc Ah]
+Seat 1: Hero (small blind) won (25,600)
+Seat 2: a21ee098 (big blind) folded on the Turn
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 folded on the River
+Seat 8: 3fbf108e (button) folded before Flop
+
+
+Poker Hand #TM5676866045: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:51:08
+Table '333' 8-max Seat #7 is the button
+Seat 1: Hero (48,244 in chips)
+Seat 2: a21ee098 (98,146 in chips)
+Seat 3: 41ca553 (33,347 in chips)
+Seat 4: aee4577b (103,646 in chips)
+Seat 5: 901ce975 (85,670 in chips)
+Seat 6: a6e80101 (91,304 in chips)
+Seat 7: 1353350 (78,254 in chips)
+Seat 8: 3fbf108e (74,876 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+3fbf108e: posts small blind 1,250
+Hero: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [3c 2h]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+a21ee098: raises 2,500 to 5,000
+41ca553: folds
+aee4577b: folds
+901ce975: folds
+a6e80101: folds
+1353350: calls 5,000
+3fbf108e: folds
+Hero: folds
+*** FLOP *** [Kc Kd Jh]
+a21ee098: checks
+1353350: checks
+*** TURN *** [Kc Kd Jh] [5d]
+a21ee098: bets 5,462
+1353350: calls 5,462
+*** RIVER *** [Kc Kd Jh 5d] [3h]
+a21ee098: checks
+1353350: bets 13,737
+a21ee098: calls 13,737
+1353350: shows [Tc Td] (two pair, Kings and Tens)
+a21ee098: shows [Ad Ac] (two pair, Aces and Kings)
+*** SHOWDOWN ***
+a21ee098 collected 54,948 from pot
+*** SUMMARY ***
+Total pot 54,948 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Kd Jh 5d 3h]
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: a21ee098 showed [Ad Ac] and won (54,948) with two pair, Aces and Kings
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded before Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 folded before Flop
+Seat 7: 1353350 (button) showed [Tc Td] and lost with two pair, Kings and Tens
+Seat 8: 3fbf108e (small blind) folded before Flop
+
+
+Poker Hand #TM5676865897: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:50:17
+Table '333' 8-max Seat #6 is the button
+Seat 1: Hero (48,594 in chips)
+Seat 2: a21ee098 (103,496 in chips)
+Seat 3: 41ca553 (33,697 in chips)
+Seat 4: aee4577b (108,996 in chips)
+Seat 5: 901ce975 (86,020 in chips)
+Seat 6: a6e80101 (91,654 in chips)
+Seat 7: 1353350 (60,804 in chips)
+Seat 8: 3fbf108e (80,226 in chips)
+41ca553: posts the ante 350
+3fbf108e: posts the ante 350
+Hero: posts the ante 350
+1353350: posts the ante 350
+901ce975: posts the ante 350
+aee4577b: posts the ante 350
+a21ee098: posts the ante 350
+a6e80101: posts the ante 350
+1353350: posts small blind 1,250
+3fbf108e: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to Hero [4s Ah]
+Dealt to a21ee098 
+Dealt to 41ca553 
+Dealt to aee4577b 
+Dealt to 901ce975 
+Dealt to a6e80101 
+Dealt to 1353350 
+Dealt to 3fbf108e 
+Hero: folds
+a21ee098: raises 2,500 to 5,000
+41ca553: folds
+aee4577b: calls 5,000
+901ce975: folds
+a6e80101: folds
+1353350: calls 3,750
+3fbf108e: calls 2,500
+*** FLOP *** [5c 7d Jc]
+1353350: bets 7,524
+3fbf108e: folds
+a21ee098: folds
+aee4577b: folds
+Uncalled bet (7,524) returned to 1353350
+*** SHOWDOWN ***
+1353350 collected 22,800 from pot
+*** SUMMARY ***
+Total pot 22,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 7d Jc]
+Seat 1: Hero folded before Flop
+Seat 2: a21ee098 folded on the Flop
+Seat 3: 41ca553 folded before Flop
+Seat 4: aee4577b folded on the Flop
+Seat 5: 901ce975 folded before Flop
+Seat 6: a6e80101 (button) folded before Flop
+Seat 7: 1353350 (small blind) won (22,800)
+Seat 8: 3fbf108e (big blind) folded on the Flop
+
+
+Poker Hand #TM5676875717: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level17(1,250/2,500(350)) - 2026/03/08 03:49:13
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (133,399 in chips)
+Seat 2: 39add0d9 (50,171 in chips)
+Seat 3: af114438 (43,507 in chips)
+Seat 4: dedddb02 (90,069 in chips)
+Seat 5: 65d416b8 (69,670 in chips)
+Seat 6: Hero (48,944 in chips)
+Seat 7: 94e8b5a0 (60,646 in chips)
+d80c7f68: posts the ante 350
+Hero: posts the ante 350
+af114438: posts the ante 350
+39add0d9: posts the ante 350
+dedddb02: posts the ante 350
+65d416b8: posts the ante 350
+94e8b5a0: posts the ante 350
+dedddb02: posts small blind 1,250
+65d416b8: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 65d416b8 
+Dealt to Hero [6c 9c]
+Dealt to 94e8b5a0 
+Hero: folds
+94e8b5a0: folds
+d80c7f68: folds
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+Uncalled bet (1,250) returned to 65d416b8
+*** SHOWDOWN ***
+65d416b8 collected 4,950 from pot
+*** SUMMARY ***
+Total pot 4,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 (button) folded before Flop
+Seat 4: dedddb02 (small blind) folded before Flop
+Seat 5: 65d416b8 (big blind) collected (4,950)
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+
+
+Poker Hand #TM5676875587: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:48:42
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (133,699 in chips)
+Seat 2: 39add0d9 (50,471 in chips)
+Seat 3: af114438 (44,807 in chips)
+Seat 4: dedddb02 (92,369 in chips)
+Seat 5: 65d416b8 (69,970 in chips)
+Seat 6: Hero (43,844 in chips)
+Seat 7: 94e8b5a0 (60,946 in chips)
+Seat 8: 43eb5c53 (30,896 in chips)
+d80c7f68: posts the ante 300
+Hero: posts the ante 300
+af114438: posts the ante 300
+39add0d9: posts the ante 300
+dedddb02: posts the ante 300
+43eb5c53: posts the ante 300
+65d416b8: posts the ante 300
+94e8b5a0: posts the ante 300
+af114438: posts small blind 1,000
+dedddb02: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 65d416b8 
+Dealt to Hero [Ah Ad]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+65d416b8: folds
+Hero: raises 2,000 to 4,000
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: folds
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+Uncalled bet (2,000) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,400 from pot
+*** SUMMARY ***
+Total pot 7,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 39add0d9 (button) folded before Flop
+Seat 3: af114438 (small blind) folded before Flop
+Seat 4: dedddb02 (big blind) folded before Flop
+Seat 5: 65d416b8 folded before Flop
+Seat 6: Hero collected (7,400)
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676875296: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:47:08
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (128,599 in chips)
+Seat 2: 39add0d9 (51,771 in chips)
+Seat 3: af114438 (47,107 in chips)
+Seat 4: dedddb02 (92,669 in chips)
+Seat 5: 65d416b8 (70,270 in chips)
+Seat 6: Hero (44,144 in chips)
+Seat 7: 94e8b5a0 (61,246 in chips)
+Seat 8: 43eb5c53 (31,196 in chips)
+d80c7f68: posts the ante 300
+Hero: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+65d416b8: posts the ante 300
+94e8b5a0: posts the ante 300
+39add0d9: posts small blind 1,000
+af114438: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 65d416b8 
+Dealt to Hero [Jd 5s]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+dedddb02: folds
+65d416b8: folds
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: raises 2,000 to 4,000
+39add0d9: folds
+af114438: folds
+Uncalled bet (2,000) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 7,400 from pot
+*** SUMMARY ***
+Total pot 7,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (button) collected (7,400)
+Seat 2: 39add0d9 (small blind) folded before Flop
+Seat 3: af114438 (big blind) folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 65d416b8 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676875062: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:45:57
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (132,899 in chips)
+Seat 2: 39add0d9 (56,071 in chips)
+Seat 3: af114438 (47,407 in chips)
+Seat 4: dedddb02 (92,969 in chips)
+Seat 6: Hero (48,444 in chips)
+Seat 7: 94e8b5a0 (47,446 in chips)
+Seat 8: 43eb5c53 (31,496 in chips)
+Hero: posts the ante 300
+d80c7f68: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+94e8b5a0: posts the ante 300
+d80c7f68: posts small blind 1,000
+39add0d9: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to Hero [2h 2d]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+af114438: folds
+dedddb02: folds
+Hero: raises 2,000 to 4,000
+94e8b5a0: calls 4,000
+43eb5c53: folds
+d80c7f68: calls 3,000
+39add0d9: calls 2,000
+*** FLOP *** [6s Ad 6h]
+d80c7f68: checks
+39add0d9: checks
+Hero: checks
+94e8b5a0: bets 5,973
+d80c7f68: folds
+39add0d9: folds
+Hero: folds
+Uncalled bet (5,973) returned to 94e8b5a0
+*** SHOWDOWN ***
+94e8b5a0 collected 18,100 from pot
+*** SUMMARY ***
+Total pot 18,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Ad 6h]
+Seat 1: d80c7f68 (small blind) folded on the Flop
+Seat 2: 39add0d9 (big blind) folded on the Flop
+Seat 3: af114438 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 6: Hero folded on the Flop
+Seat 7: 94e8b5a0 won (18,100)
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676874988: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:45:22
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (130,099 in chips)
+Seat 2: 39add0d9 (56,371 in chips)
+Seat 3: af114438 (47,707 in chips)
+Seat 4: dedddb02 (93,269 in chips)
+Seat 6: Hero (48,744 in chips)
+Seat 7: 94e8b5a0 (47,746 in chips)
+Seat 8: 43eb5c53 (32,796 in chips)
+Hero: posts the ante 300
+d80c7f68: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+94e8b5a0: posts the ante 300
+43eb5c53: posts small blind 1,000
+d80c7f68: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to Hero [Ts Jd]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+Uncalled bet (1,000) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 4,100 from pot
+*** SUMMARY ***
+Total pot 4,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (big blind) collected (4,100)
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676874832: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:44:38
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (130,399 in chips)
+Seat 2: 39add0d9 (56,671 in chips)
+Seat 3: af114438 (48,007 in chips)
+Seat 4: dedddb02 (93,569 in chips)
+Seat 6: Hero (53,044 in chips)
+Seat 7: 94e8b5a0 (49,046 in chips)
+Seat 8: 43eb5c53 (25,996 in chips)
+Hero: posts the ante 300
+d80c7f68: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+94e8b5a0: posts the ante 300
+94e8b5a0: posts small blind 1,000
+43eb5c53: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to Hero [2h 6c]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+d80c7f68: folds
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+Hero: raises 2,000 to 4,000
+94e8b5a0: folds
+43eb5c53: raises 21,696 to 25,696 and is all-in
+Hero: folds
+Uncalled bet (21,696) returned to 43eb5c53
+*** SHOWDOWN ***
+43eb5c53 collected 11,100 from pot
+*** SUMMARY ***
+Total pot 11,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 94e8b5a0 (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) collected (11,100)
+
+
+Poker Hand #TM5676874655: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:43:52
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (130,699 in chips)
+Seat 2: 39add0d9 (56,971 in chips)
+Seat 3: af114438 (48,307 in chips)
+Seat 4: dedddb02 (93,869 in chips)
+Seat 5: 9af9085b (18,622 in chips)
+Seat 6: Hero (30,622 in chips)
+Seat 7: 94e8b5a0 (51,346 in chips)
+Seat 8: 43eb5c53 (26,296 in chips)
+d80c7f68: posts the ante 300
+Hero: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+9af9085b: posts the ante 300
+94e8b5a0: posts the ante 300
+Hero: posts small blind 1,000
+94e8b5a0: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [As 8d]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: folds
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+9af9085b: raises 16,322 to 18,322 and is all-in
+Hero: raises 12,000 to 30,322 and is all-in
+94e8b5a0: folds
+Uncalled bet (12,000) returned to Hero
+Hero: shows [As 8d]
+9af9085b: shows [Qh 9h]
+*** FLOP *** [Ks 5d 7c]
+*** TURN *** [Ks 5d 7c] [Jd]
+*** RIVER *** [Ks 5d 7c Jd] [3s]
+94e8b5a0: shows [Td Qs] (King high)
+*** SHOWDOWN ***
+Hero collected 41,044 from pot
+*** SUMMARY ***
+Total pot 41,044 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 5d 7c Jd 3s]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b (button) showed [Qh 9h] and lost with King high
+Seat 6: Hero (small blind) showed [As 8d] and won (41,044) with Ace high
+Seat 7: 94e8b5a0 (big blind) folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676874527: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:43:00
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (130,999 in chips)
+Seat 2: 39add0d9 (57,271 in chips)
+Seat 3: af114438 (43,207 in chips)
+Seat 4: dedddb02 (94,169 in chips)
+Seat 5: 9af9085b (19,922 in chips)
+Seat 6: Hero (32,922 in chips)
+Seat 7: 94e8b5a0 (51,646 in chips)
+Seat 8: 43eb5c53 (26,596 in chips)
+d80c7f68: posts the ante 300
+Hero: posts the ante 300
+af114438: posts the ante 300
+dedddb02: posts the ante 300
+39add0d9: posts the ante 300
+43eb5c53: posts the ante 300
+9af9085b: posts the ante 300
+94e8b5a0: posts the ante 300
+9af9085b: posts small blind 1,000
+Hero: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [7d Kd]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: folds
+39add0d9: folds
+af114438: calls 2,000
+dedddb02: folds
+9af9085b: folds
+Hero: checks
+*** FLOP *** [Jh 4s 4h]
+Hero: checks
+af114438: bets 5,800
+Hero: folds
+Uncalled bet (5,800) returned to af114438
+*** SHOWDOWN ***
+af114438 collected 7,400 from pot
+*** SUMMARY ***
+Total pot 7,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 4s 4h]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 won (7,400)
+Seat 4: dedddb02 (button) folded before Flop
+Seat 5: 9af9085b (small blind) folded before Flop
+Seat 6: Hero (big blind) folded on the Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676874288: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level16(1,000/2,000(300)) - 2026/03/08 03:41:55
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (139,560 in chips)
+Seat 2: 39add0d9 (57,571 in chips)
+Seat 3: af114438 (43,507 in chips)
+Seat 4: dedddb02 (95,469 in chips)
+Seat 5: 9af9085b (8,561 in chips)
+Seat 6: Hero (33,222 in chips)
+Seat 7: 94e8b5a0 (51,946 in chips)
+Seat 8: 43eb5c53 (26,896 in chips)
+d80c7f68: posts the ante 300
+Hero: posts the ante 300
+af114438: posts the ante 300
+39add0d9: posts the ante 300
+dedddb02: posts the ante 300
+43eb5c53: posts the ante 300
+9af9085b: posts the ante 300
+94e8b5a0: posts the ante 300
+dedddb02: posts small blind 1,000
+9af9085b: posts big blind 2,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 39add0d9 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [4h 7d]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: raises 2,000 to 4,000
+39add0d9: folds
+af114438: folds
+dedddb02: folds
+9af9085b: calls 2,000
+*** FLOP *** [Ts 9d 7s]
+9af9085b: bets 4,261 and is all-in
+d80c7f68: calls 4,261
+9af9085b: shows [Qh Td] (a pair of Tens)
+d80c7f68: shows [8s 2c] (Ten high)
+*** TURN *** [Ts 9d 7s] [8h]
+*** RIVER *** [Ts 9d 7s 8h] [4c]
+*** SHOWDOWN ***
+9af9085b collected 19,922 from pot
+*** SUMMARY ***
+Total pot 19,922 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 9d 7s 8h 4c]
+Seat 1: d80c7f68 showed [8s 2c] and lost with a pair of Eights
+Seat 2: 39add0d9 folded before Flop
+Seat 3: af114438 (button) folded before Flop
+Seat 4: dedddb02 (small blind) folded before Flop
+Seat 5: 9af9085b (big blind) showed [Qh Td] and won (19,922) with a pair of Tens
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676874056: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:40:33
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (52,675 in chips)
+Seat 2: d306f558 (28,710 in chips)
+Seat 3: af114438 (45,207 in chips)
+Seat 4: dedddb02 (98,669 in chips)
+Seat 5: 9af9085b (61,236 in chips)
+Seat 6: Hero (33,422 in chips)
+Seat 7: 94e8b5a0 (52,146 in chips)
+Seat 8: 43eb5c53 (27,096 in chips)
+d306f558: posts the ante 200
+d80c7f68: posts the ante 200
+Hero: posts the ante 200
+af114438: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+d306f558: posts small blind 750
+af114438: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [2c 2s]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+dedddb02: raises 1,500 to 3,000
+9af9085b: raises 7,388 to 10,388
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: calls 10,388
+d306f558: raises 18,122 to 28,510 and is all-in
+af114438: folds
+dedddb02: folds
+9af9085b: raises 18,122 to 46,632
+d80c7f68: raises 5,843 to 52,475 and is all-in
+9af9085b: calls 5,843
+d80c7f68: shows [Jc Js]
+d306f558: shows [Qc Ac]
+9af9085b: shows [Qd As]
+*** FLOP *** [4d 6d 6s]
+*** TURN *** [4d 6d 6s] [2d]
+*** RIVER *** [4d 6d 6s 2d] [Jh]
+Hero: shows [2c 2s] (a full house, Twos full of Sixes)
+*** SHOWDOWN ***
+d80c7f68 collected 91,630 from pot
+d80c7f68 collected 47,930 from pot
+*** SUMMARY ***
+Total pot 139,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4d 6d 6s 2d Jh]
+Seat 1: d80c7f68 (button) showed [Jc Js] and won (139,560) with a full house, Jacks full of Sixes
+Seat 2: d306f558 (small blind) showed [Qc Ac] and lost with a pair of Sixes
+Seat 3: af114438 (big blind) folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b showed [Qd As] and lost with a pair of Sixes
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676873898: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:39:46
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (53,625 in chips)
+Seat 2: d306f558 (31,910 in chips)
+Seat 3: af114438 (45,407 in chips)
+Seat 4: dedddb02 (98,869 in chips)
+Seat 5: 9af9085b (61,436 in chips)
+Seat 6: Hero (33,622 in chips)
+Seat 7: 94e8b5a0 (46,996 in chips)
+Seat 8: 43eb5c53 (27,296 in chips)
+d306f558: posts the ante 200
+Hero: posts the ante 200
+d80c7f68: posts the ante 200
+af114438: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+d80c7f68: posts small blind 750
+d306f558: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to af114438 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [6s 5c]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+af114438: folds
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+94e8b5a0: raises 1,500 to 3,000
+43eb5c53: folds
+d80c7f68: folds
+d306f558: calls 1,500
+*** FLOP *** [4h 7c 3d]
+d306f558: checks
+94e8b5a0: bets 2,756
+d306f558: folds
+Uncalled bet (2,756) returned to 94e8b5a0
+*** SHOWDOWN ***
+94e8b5a0 collected 8,350 from pot
+*** SUMMARY ***
+Total pot 8,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 7c 3d]
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: d306f558 (big blind) folded on the Flop
+Seat 3: af114438 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 won (8,350)
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676873620: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:38:14
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (56,825 in chips)
+Seat 2: d306f558 (35,110 in chips)
+Seat 4: dedddb02 (90,919 in chips)
+Seat 5: 9af9085b (61,636 in chips)
+Seat 6: Hero (33,822 in chips)
+Seat 7: 94e8b5a0 (47,196 in chips)
+Seat 8: 43eb5c53 (28,246 in chips)
+d306f558: posts the ante 200
+Hero: posts the ante 200
+d80c7f68: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+43eb5c53: posts small blind 750
+d80c7f68: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [Qs Tc]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+d306f558: raises 1,500 to 3,000
+dedddb02: calls 3,000
+9af9085b: folds
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: calls 1,500
+*** FLOP *** [9h Js 5h]
+d80c7f68: checks
+d306f558: checks
+dedddb02: checks
+*** TURN *** [9h Js 5h] [Th]
+d80c7f68: checks
+d306f558: checks
+dedddb02: checks
+*** RIVER *** [9h Js 5h Th] [4s]
+d80c7f68: checks
+d306f558: checks
+dedddb02: checks
+d80c7f68: shows [6h Kd] (King high)
+d306f558: shows [8d Ad] (Ace high)
+dedddb02: shows [7h 7c] (a pair of Sevens)
+*** SHOWDOWN ***
+dedddb02 collected 11,150 from pot
+*** SUMMARY ***
+Total pot 11,150 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Js 5h Th 4s]
+Seat 1: d80c7f68 (big blind) showed [6h Kd] and lost with King high
+Seat 2: d306f558 showed [8d Ad] and lost with Ace high
+Seat 4: dedddb02 showed [7h 7c] and won (11,150) with a pair of Sevens
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676873413: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:37:28
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (57,025 in chips)
+Seat 2: d306f558 (35,310 in chips)
+Seat 3: 5d358459 (15,467 in chips)
+Seat 4: dedddb02 (72,002 in chips)
+Seat 5: 9af9085b (61,836 in chips)
+Seat 6: Hero (34,022 in chips)
+Seat 7: 94e8b5a0 (48,146 in chips)
+Seat 8: 43eb5c53 (29,946 in chips)
+5d358459: posts the ante 200
+d306f558: posts the ante 200
+Hero: posts the ante 200
+d80c7f68: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+94e8b5a0: posts small blind 750
+43eb5c53: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [4s 8h]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+d80c7f68: folds
+d306f558: folds
+5d358459: raises 13,767 to 15,267 and is all-in
+dedddb02: calls 15,267
+9af9085b: folds
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+5d358459: shows [6h 6s]
+dedddb02: shows [Ts Ac]
+*** FLOP *** [7s 4d Ad]
+*** TURN *** [7s 4d Ad] [8s]
+*** RIVER *** [7s 4d Ad 8s] [Kd]
+*** SHOWDOWN ***
+dedddb02 collected 34,384 from pot
+*** SUMMARY ***
+Total pot 34,384 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 4d Ad 8s Kd]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 showed [6h 6s] and lost with a pair of Sixes
+Seat 4: dedddb02 showed [Ts Ac] and won (34,384) with a pair of Aces
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 94e8b5a0 (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) folded before Flop
+
+
+Poker Hand #TM5676873314: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:36:47
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (57,225 in chips)
+Seat 2: d306f558 (35,510 in chips)
+Seat 3: 5d358459 (15,667 in chips)
+Seat 4: dedddb02 (72,202 in chips)
+Seat 5: 9af9085b (62,036 in chips)
+Seat 6: Hero (31,122 in chips)
+Seat 7: 94e8b5a0 (49,846 in chips)
+Seat 8: 43eb5c53 (30,146 in chips)
+5d358459: posts the ante 200
+d306f558: posts the ante 200
+d80c7f68: posts the ante 200
+Hero: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+Hero: posts small blind 750
+94e8b5a0: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [4d Kc]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: raises 1,500 to 3,000
+94e8b5a0: folds
+Uncalled bet (1,500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 4,600 from pot
+*** SUMMARY ***
+Total pot 4,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b (button) folded before Flop
+Seat 6: Hero (small blind) collected (4,600)
+Seat 7: 94e8b5a0 (big blind) folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676873227: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:36:22
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (57,425 in chips)
+Seat 2: d306f558 (35,710 in chips)
+Seat 3: 5d358459 (15,867 in chips)
+Seat 4: dedddb02 (72,402 in chips)
+Seat 5: 9af9085b (62,986 in chips)
+Seat 6: Hero (28,972 in chips)
+Seat 7: 94e8b5a0 (50,046 in chips)
+Seat 8: 43eb5c53 (30,346 in chips)
+5d358459: posts the ante 200
+d306f558: posts the ante 200
+d80c7f68: posts the ante 200
+Hero: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+9af9085b: posts small blind 750
+Hero: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [2h 5c]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Uncalled bet (750) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,100 from pot
+*** SUMMARY ***
+Total pot 3,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 (button) folded before Flop
+Seat 5: 9af9085b (small blind) folded before Flop
+Seat 6: Hero (big blind) collected (3,100)
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676872919: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:34:45
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (73,875 in chips)
+Seat 2: d306f558 (35,910 in chips)
+Seat 3: 5d358459 (16,067 in chips)
+Seat 4: dedddb02 (80,902 in chips)
+Seat 5: 9af9085b (37,036 in chips)
+Seat 6: Hero (29,172 in chips)
+Seat 7: 94e8b5a0 (50,246 in chips)
+Seat 8: 43eb5c53 (30,546 in chips)
+5d358459: posts the ante 200
+d306f558: posts the ante 200
+d80c7f68: posts the ante 200
+Hero: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+dedddb02: posts small blind 750
+9af9085b: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [5h 8c]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: raises 1,500 to 3,000
+d306f558: folds
+5d358459: folds
+dedddb02: calls 2,250
+9af9085b: calls 1,500
+*** FLOP *** [Jd 9s 7c]
+dedddb02: checks
+9af9085b: checks
+d80c7f68: bets 5,300
+dedddb02: calls 5,300
+9af9085b: calls 5,300
+*** TURN *** [Jd 9s 7c] [7h]
+dedddb02: checks
+9af9085b: bets 7,950
+d80c7f68: calls 7,950
+dedddb02: folds
+*** RIVER *** [Jd 9s 7c 7h] [9c]
+9af9085b: bets 20,586 and is all-in
+d80c7f68: folds
+Uncalled bet (20,586) returned to 9af9085b
+*** SHOWDOWN ***
+9af9085b collected 42,400 from pot
+*** SUMMARY ***
+Total pot 42,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 9s 7c 7h 9c]
+Seat 1: d80c7f68 folded on the River
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 (button) folded before Flop
+Seat 4: dedddb02 (small blind) folded on the Turn
+Seat 5: 9af9085b (big blind) won (42,400)
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676872739: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level15(750/1,500(200)) - 2026/03/08 03:34:00
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (74,075 in chips)
+Seat 2: d306f558 (36,110 in chips)
+Seat 3: 5d358459 (17,017 in chips)
+Seat 4: dedddb02 (82,602 in chips)
+Seat 5: 9af9085b (37,236 in chips)
+Seat 6: Hero (52,570 in chips)
+Seat 7: 94e8b5a0 (23,398 in chips)
+Seat 8: 43eb5c53 (30,746 in chips)
+5d358459: posts the ante 200
+d306f558: posts the ante 200
+d80c7f68: posts the ante 200
+Hero: posts the ante 200
+dedddb02: posts the ante 200
+43eb5c53: posts the ante 200
+9af9085b: posts the ante 200
+94e8b5a0: posts the ante 200
+5d358459: posts small blind 750
+dedddb02: posts big blind 1,500
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [8c 9c]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+9af9085b: folds
+Hero: raises 1,500 to 3,000
+94e8b5a0: raises 20,198 to 23,198 and is all-in
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+Hero: calls 20,198
+94e8b5a0: shows [Qc Ah]
+Hero: shows [8c 9c]
+*** FLOP *** [6h 5s 6c]
+*** TURN *** [6h 5s 6c] [Js]
+*** RIVER *** [6h 5s 6c Js] [5c]
+*** SHOWDOWN ***
+94e8b5a0 collected 50,246 from pot
+*** SUMMARY ***
+Total pot 50,246 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 5s 6c Js 5c]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 (button) folded before Flop
+Seat 3: 5d358459 (small blind) folded before Flop
+Seat 4: dedddb02 (big blind) folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero showed [8c 9c] and lost with two pair, Sixes and Fives
+Seat 7: 94e8b5a0 showed [Qc Ah] and won (50,246) with two pair, Sixes and Fives
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676872538: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:32:48
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (74,255 in chips)
+Seat 2: d306f558 (36,890 in chips)
+Seat 3: 5d358459 (56,278 in chips)
+Seat 4: dedddb02 (39,261 in chips)
+Seat 5: 9af9085b (37,416 in chips)
+Seat 6: Hero (55,150 in chips)
+Seat 7: 94e8b5a0 (23,578 in chips)
+Seat 8: 43eb5c53 (30,926 in chips)
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+94e8b5a0: posts the ante 180
+d306f558: posts small blind 600
+5d358459: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [5d 5h]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+dedddb02: raises 1,200 to 2,400
+9af9085b: folds
+Hero: calls 2,400
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: calls 1,200
+*** FLOP *** [Ts 8d Ad]
+5d358459: checks
+dedddb02: bets 4,620
+Hero: folds
+5d358459: calls 4,620
+*** TURN *** [Ts 8d Ad] [5c]
+5d358459: bets 6,099
+dedddb02: raises 25,962 to 32,061 and is all-in
+5d358459: calls 25,962
+dedddb02: shows [Td Ah] (two pair, Aces and Tens)
+5d358459: shows [As 6h] (a pair of Aces)
+*** RIVER *** [Ts 8d Ad 5c] [2s]
+*** SHOWDOWN ***
+dedddb02 collected 82,602 from pot
+*** SUMMARY ***
+Total pot 82,602 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 8d Ad 5c 2s]
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: d306f558 (small blind) folded before Flop
+Seat 3: 5d358459 (big blind) showed [As 6h] and lost with a pair of Aces
+Seat 4: dedddb02 showed [Td Ah] and won (82,602) with two pair, Aces and Tens
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded on the Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676872329: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:31:59
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (79,955 in chips)
+Seat 2: d306f558 (30,110 in chips)
+Seat 3: 5d358459 (56,458 in chips)
+Seat 4: dedddb02 (39,441 in chips)
+Seat 5: 9af9085b (37,596 in chips)
+Seat 6: Hero (55,330 in chips)
+Seat 7: 94e8b5a0 (23,758 in chips)
+Seat 8: 43eb5c53 (31,106 in chips)
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+Hero: posts the ante 180
+d80c7f68: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+94e8b5a0: posts the ante 180
+d80c7f68: posts small blind 600
+d306f558: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [4d 2s]
+Dealt to 94e8b5a0 
+Dealt to 43eb5c53 
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+94e8b5a0: folds
+43eb5c53: folds
+d80c7f68: raises 1,200 to 2,400
+d306f558: calls 1,200
+*** FLOP *** [8s 6c 7d]
+d80c7f68: checks
+d306f558: checks
+*** TURN *** [8s 6c 7d] [2h]
+d80c7f68: checks
+d306f558: bets 3,120
+d80c7f68: calls 3,120
+*** RIVER *** [8s 6c 7d 2h] [5s]
+d80c7f68: checks
+d306f558: bets 24,410 and is all-in
+d80c7f68: folds
+Uncalled bet (24,410) returned to d306f558
+*** SHOWDOWN ***
+d306f558 collected 12,480 from pot
+*** SUMMARY ***
+Total pot 12,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 6c 7d 2h 5s]
+Seat 1: d80c7f68 (small blind) folded on the River
+Seat 2: d306f558 (big blind) showed [Js 3c] and won (12,480)
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 94e8b5a0 folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676872284: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:31:26
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (81,335 in chips)
+Seat 2: d306f558 (30,290 in chips)
+Seat 3: 5d358459 (53,578 in chips)
+Seat 4: dedddb02 (39,621 in chips)
+Seat 5: 9af9085b (37,776 in chips)
+Seat 6: Hero (55,510 in chips)
+Seat 8: 43eb5c53 (31,886 in chips)
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+Hero: posts the ante 180
+d80c7f68: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+43eb5c53: posts small blind 600
+d80c7f68: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [8c 2s]
+Dealt to 43eb5c53 
+d306f558: folds
+5d358459: raises 3,600 to 4,800
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+43eb5c53: folds
+d80c7f68: folds
+Uncalled bet (3,600) returned to 5d358459
+*** SHOWDOWN ***
+5d358459 collected 4,260 from pot
+*** SUMMARY ***
+Total pot 4,260 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (big blind) folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 collected (4,260)
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676872085: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:30:41
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (69,090 in chips)
+Seat 2: d306f558 (30,470 in chips)
+Seat 3: 5d358459 (53,758 in chips)
+Seat 4: dedddb02 (39,801 in chips)
+Seat 5: 9af9085b (37,956 in chips)
+Seat 6: Hero (56,290 in chips)
+Seat 7: 159a026f (10,565 in chips)
+Seat 8: 43eb5c53 (32,066 in chips)
+5d358459: posts the ante 180
+159a026f: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+Hero: posts small blind 600
+159a026f: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [9h 2c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: raises 1,200 to 2,400
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+159a026f: raises 7,985 to 10,385 and is all-in
+d80c7f68: calls 7,985
+159a026f: shows [9d 9c]
+d80c7f68: shows [4s 5s]
+*** FLOP *** [Ad 2s Ts]
+*** TURN *** [Ad 2s Ts] [6c]
+*** RIVER *** [Ad 2s Ts 6c] [8s]
+*** SHOWDOWN ***
+d80c7f68 collected 22,810 from pot
+*** SUMMARY ***
+Total pot 22,810 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 2s Ts 6c 8s]
+Seat 1: d80c7f68 showed [4s 5s] and won (22,810) with a flush Ten high
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) showed [9d 9c] and lost with a pair of Nines
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676871981: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:30:17
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (69,270 in chips)
+Seat 2: d306f558 (27,410 in chips)
+Seat 3: 5d358459 (53,938 in chips)
+Seat 4: dedddb02 (39,981 in chips)
+Seat 5: 9af9085b (38,736 in chips)
+Seat 6: Hero (57,670 in chips)
+Seat 7: 159a026f (10,745 in chips)
+Seat 8: 43eb5c53 (32,246 in chips)
+5d358459: posts the ante 180
+159a026f: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+9af9085b: posts small blind 600
+Hero: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [2c 7h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: raises 1,200 to 2,400
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+Uncalled bet (1,200) returned to d306f558
+*** SHOWDOWN ***
+d306f558 collected 4,440 from pot
+*** SUMMARY ***
+Total pot 4,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 collected (4,440)
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 (button) folded before Flop
+Seat 5: 9af9085b (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676871914: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:29:59
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (69,450 in chips)
+Seat 2: d306f558 (27,590 in chips)
+Seat 3: 5d358459 (54,118 in chips)
+Seat 4: dedddb02 (40,761 in chips)
+Seat 5: 9af9085b (40,116 in chips)
+Seat 6: Hero (57,850 in chips)
+Seat 7: 159a026f (7,685 in chips)
+Seat 8: 43eb5c53 (32,426 in chips)
+5d358459: posts the ante 180
+159a026f: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+dedddb02: posts small blind 600
+9af9085b: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [2d 9d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: folds
+159a026f: raises 6,305 to 7,505 and is all-in
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Uncalled bet (6,305) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 4,440 from pot
+*** SUMMARY ***
+Total pot 4,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 (button) folded before Flop
+Seat 4: dedddb02 (small blind) folded before Flop
+Seat 5: 9af9085b (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f collected (4,440)
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676871769: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:29:08
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (60,030 in chips)
+Seat 2: d306f558 (30,290 in chips)
+Seat 3: 5d358459 (54,898 in chips)
+Seat 4: dedddb02 (43,461 in chips)
+Seat 5: 9af9085b (40,296 in chips)
+Seat 6: Hero (58,030 in chips)
+Seat 7: 159a026f (7,865 in chips)
+Seat 8: 43eb5c53 (35,126 in chips)
+159a026f: posts the ante 180
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+5d358459: posts small blind 600
+dedddb02: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [8s Tc]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+9af9085b: folds
+Hero: folds
+159a026f: folds
+43eb5c53: raises 1,320 to 2,520
+d80c7f68: calls 2,520
+d306f558: calls 2,520
+5d358459: folds
+dedddb02: calls 1,320
+*** FLOP *** [9h Kc Qd]
+dedddb02: checks
+43eb5c53: checks
+d80c7f68: bets 6,060
+d306f558: folds
+dedddb02: folds
+43eb5c53: folds
+Uncalled bet (6,060) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 12,120 from pot
+*** SUMMARY ***
+Total pot 12,120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Kc Qd]
+Seat 1: d80c7f68 won (12,120)
+Seat 2: d306f558 (button) folded on the Flop
+Seat 3: 5d358459 (small blind) folded before Flop
+Seat 4: dedddb02 (big blind) folded on the Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded on the Flop
+
+
+Poker Hand #TM5676871694: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:28:46
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (60,210 in chips)
+Seat 2: d306f558 (31,070 in chips)
+Seat 3: 5d358459 (56,278 in chips)
+Seat 4: dedddb02 (43,641 in chips)
+Seat 5: 9af9085b (40,476 in chips)
+Seat 6: Hero (58,210 in chips)
+Seat 7: 159a026f (4,805 in chips)
+Seat 8: 43eb5c53 (35,306 in chips)
+159a026f: posts the ante 180
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+d80c7f68: posts the ante 180
+Hero: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+d306f558: posts small blind 600
+5d358459: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [5d 3d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+159a026f: raises 3,425 to 4,625 and is all-in
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+Uncalled bet (3,425) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 4,440 from pot
+*** SUMMARY ***
+Total pot 4,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: d306f558 (small blind) folded before Flop
+Seat 3: 5d358459 (big blind) folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f collected (4,440)
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676871478: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:27:43
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (62,790 in chips)
+Seat 2: d306f558 (37,970 in chips)
+Seat 3: 5d358459 (56,458 in chips)
+Seat 4: dedddb02 (43,821 in chips)
+Seat 5: 9af9085b (40,656 in chips)
+Seat 6: Hero (47,830 in chips)
+Seat 7: 159a026f (4,985 in chips)
+Seat 8: 43eb5c53 (35,486 in chips)
+159a026f: posts the ante 180
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+Hero: posts the ante 180
+d80c7f68: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+d80c7f68: posts small blind 600
+d306f558: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [9s Qh]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: raises 1,200 to 2,400
+159a026f: folds
+43eb5c53: folds
+d80c7f68: calls 1,800
+d306f558: calls 1,200
+*** FLOP *** [9h Qc 3c]
+d80c7f68: checks
+d306f558: checks
+Hero: bets 4,320
+d80c7f68: folds
+d306f558: calls 4,320
+*** TURN *** [9h Qc 3c] [7d]
+d306f558: checks
+Hero: bets 15,360
+d306f558: folds
+Uncalled bet (15,360) returned to Hero
+*** SHOWDOWN ***
+Hero collected 17,280 from pot
+*** SUMMARY ***
+Total pot 17,280 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Qc 3c 7d]
+Seat 1: d80c7f68 (small blind) folded on the Flop
+Seat 2: d306f558 (big blind) folded on the Turn
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero won (17,280)
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676871239: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:26:40
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (65,370 in chips)
+Seat 2: d306f558 (33,710 in chips)
+Seat 3: 5d358459 (56,638 in chips)
+Seat 4: dedddb02 (44,001 in chips)
+Seat 5: 9af9085b (40,836 in chips)
+Seat 6: Hero (48,010 in chips)
+Seat 7: 159a026f (5,165 in chips)
+Seat 8: 43eb5c53 (36,266 in chips)
+159a026f: posts the ante 180
+5d358459: posts the ante 180
+d306f558: posts the ante 180
+Hero: posts the ante 180
+d80c7f68: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+43eb5c53: posts small blind 600
+d80c7f68: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [9h 2d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d306f558: raises 1,200 to 2,400
+5d358459: folds
+dedddb02: folds
+9af9085b: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: calls 1,200
+*** FLOP *** [Ac 3c 5h]
+d80c7f68: checks
+d306f558: bets 2,258
+d80c7f68: folds
+Uncalled bet (2,258) returned to d306f558
+*** SHOWDOWN ***
+d306f558 collected 6,840 from pot
+*** SUMMARY ***
+Total pot 6,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 3c 5h]
+Seat 1: d80c7f68 (big blind) folded on the Flop
+Seat 2: d306f558 won (6,840)
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676870961: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level14(600/1,200(180)) - 2026/03/08 03:25:20
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (65,550 in chips)
+Seat 2: d306f558 (33,890 in chips)
+Seat 3: 5d358459 (56,818 in chips)
+Seat 4: dedddb02 (44,181 in chips)
+Seat 5: 9af9085b (19,578 in chips)
+Seat 6: Hero (48,190 in chips)
+Seat 7: 159a026f (5,945 in chips)
+Seat 8: 43eb5c53 (55,844 in chips)
+5d358459: posts the ante 180
+159a026f: posts the ante 180
+d306f558: posts the ante 180
+Hero: posts the ante 180
+d80c7f68: posts the ante 180
+dedddb02: posts the ante 180
+43eb5c53: posts the ante 180
+9af9085b: posts the ante 180
+159a026f: posts small blind 600
+43eb5c53: posts big blind 1,200
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to dedddb02 
+Dealt to 9af9085b 
+Dealt to Hero [Qc 4s]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+dedddb02: folds
+9af9085b: raises 1,200 to 2,400
+Hero: folds
+159a026f: folds
+43eb5c53: calls 1,200
+*** FLOP *** [5s 8d Jc]
+43eb5c53: checks
+9af9085b: bets 2,052
+43eb5c53: calls 2,052
+*** TURN *** [5s 8d Jc] [Kd]
+43eb5c53: checks
+9af9085b: bets 5,472
+43eb5c53: raises 16,198 to 21,670
+9af9085b: calls 9,474 and is all-in
+Uncalled bet (6,724) returned to 43eb5c53
+43eb5c53: shows [3h 5c] (a pair of Fives)
+9af9085b: shows [8h 8c] (three of a kind, Eights)
+*** RIVER *** [5s 8d Jc Kd] [Ad]
+*** SHOWDOWN ***
+9af9085b collected 40,836 from pot
+*** SUMMARY ***
+Total pot 40,836 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 8d Jc Kd Ad]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: dedddb02 folded before Flop
+Seat 5: 9af9085b showed [8h 8c] and won (40,836) with three of a kind, Eights
+Seat 6: Hero (button) folded before Flop
+Seat 7: 159a026f (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) showed [3h 5c] and lost with a pair of Fives
+
+
+Poker Hand #TM5676870775: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:24:29
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (49,100 in chips)
+Seat 2: d306f558 (34,040 in chips)
+Seat 3: 5d358459 (56,968 in chips)
+Seat 5: 9af9085b (19,728 in chips)
+Seat 6: Hero (48,840 in chips)
+Seat 7: 159a026f (21,145 in chips)
+Seat 8: 43eb5c53 (55,994 in chips)
+5d358459: posts the ante 150
+159a026f: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+Hero: posts small blind 500
+159a026f: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 9af9085b 
+Dealt to Hero [3s Ac]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: raises 1,000 to 2,000
+d306f558: folds
+5d358459: folds
+9af9085b: folds
+Hero: folds
+159a026f: calls 1,000
+*** FLOP *** [6h 7h Ah]
+159a026f: checks
+d80c7f68: checks
+*** TURN *** [6h 7h Ah] [8c]
+159a026f: bets 2,500
+d80c7f68: calls 2,500
+*** RIVER *** [6h 7h Ah 8c] [Kh]
+159a026f: checks
+d80c7f68: bets 10,550
+159a026f: calls 10,550
+d80c7f68: shows [Qh 9c] (a flush Ace high)
+159a026f: shows [5h Th] (a flush Ace high)
+*** SHOWDOWN ***
+d80c7f68 collected 31,650 from pot
+*** SUMMARY ***
+Total pot 31,650 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7h Ah 8c Kh]
+Seat 1: d80c7f68 showed [Qh 9c] and won (31,650) with a flush Ace high
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 5: 9af9085b (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) showed [5h Th] and lost with a flush Ace high
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676870538: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:23:25
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (49,250 in chips)
+Seat 2: d306f558 (34,190 in chips)
+Seat 3: 5d358459 (57,118 in chips)
+Seat 4: f0d9d3a0 (21,000 in chips)
+Seat 5: 9af9085b (20,878 in chips)
+Seat 6: Hero (25,940 in chips)
+Seat 7: 159a026f (21,295 in chips)
+Seat 8: 43eb5c53 (56,144 in chips)
+5d358459: posts the ante 150
+159a026f: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+f0d9d3a0: posts small blind 500
+9af9085b: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [9h 9s]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: raises 1,000 to 2,000
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+f0d9d3a0: raises 18,850 to 20,850 and is all-in
+9af9085b: folds
+Hero: calls 18,850
+f0d9d3a0: shows [Tc Ac]
+Hero: shows [9h 9s]
+*** FLOP *** [9d 9c 4d]
+*** TURN *** [9d 9c 4d] [2d]
+*** RIVER *** [9d 9c 4d 2d] [8c]
+*** SHOWDOWN ***
+Hero collected 43,900 from pot
+*** SUMMARY ***
+Total pot 43,900 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 9c 4d 2d 8c]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 (button) folded before Flop
+Seat 4: f0d9d3a0 (small blind) showed [Tc Ac] and lost with a pair of Nines
+Seat 5: 9af9085b (big blind) folded before Flop
+Seat 6: Hero showed [9h 9s] and won (43,900) with four of a kind, Nines
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676870314: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:22:16
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (55,766 in chips)
+Seat 2: d306f558 (34,340 in chips)
+Seat 3: 5d358459 (46,702 in chips)
+Seat 4: f0d9d3a0 (24,150 in chips)
+Seat 5: 9af9085b (21,028 in chips)
+Seat 6: Hero (26,090 in chips)
+Seat 7: 159a026f (21,445 in chips)
+Seat 8: 43eb5c53 (56,294 in chips)
+159a026f: posts the ante 150
+5d358459: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+5d358459: posts small blind 500
+f0d9d3a0: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [8c Tc]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+9af9085b: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 2,000 to 3,000
+d306f558: folds
+5d358459: calls 2,500
+f0d9d3a0: calls 2,000
+*** FLOP *** [Jh Ad Kd]
+5d358459: checks
+f0d9d3a0: checks
+d80c7f68: bets 3,366
+5d358459: calls 3,366
+f0d9d3a0: folds
+*** TURN *** [Jh Ad Kd] [8d]
+5d358459: checks
+d80c7f68: checks
+*** RIVER *** [Jh Ad Kd 8d] [5d]
+5d358459: bets 5,588
+d80c7f68: folds
+Uncalled bet (5,588) returned to 5d358459
+*** SHOWDOWN ***
+5d358459 collected 16,932 from pot
+*** SUMMARY ***
+Total pot 16,932 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Ad Kd 8d 5d]
+Seat 1: d80c7f68 folded on the River
+Seat 2: d306f558 (button) folded before Flop
+Seat 3: 5d358459 (small blind) won (16,932)
+Seat 4: f0d9d3a0 (big blind) folded on the Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676870153: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:21:41
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (55,916 in chips)
+Seat 2: d306f558 (34,990 in chips)
+Seat 3: 5d358459 (39,902 in chips)
+Seat 4: f0d9d3a0 (24,300 in chips)
+Seat 5: 9af9085b (26,428 in chips)
+Seat 6: Hero (26,240 in chips)
+Seat 7: 159a026f (21,595 in chips)
+Seat 8: 43eb5c53 (56,444 in chips)
+159a026f: posts the ante 150
+5d358459: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+d306f558: posts small blind 500
+5d358459: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [7d 9s]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+f0d9d3a0: folds
+9af9085b: raises 1,200 to 2,200
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: calls 1,200
+*** FLOP *** [Ts 7s 4c]
+5d358459: bets 3,050
+9af9085b: calls 3,050
+*** TURN *** [Ts 7s 4c] [Ks]
+5d358459: bets 6,100
+9af9085b: folds
+Uncalled bet (6,100) returned to 5d358459
+*** SHOWDOWN ***
+5d358459 collected 12,200 from pot
+*** SUMMARY ***
+Total pot 12,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 7s 4c Ks]
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: d306f558 (small blind) folded before Flop
+Seat 3: 5d358459 (big blind) won (12,200)
+Seat 4: f0d9d3a0 folded before Flop
+Seat 5: 9af9085b folded on the Turn
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676870015: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:21:00
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (56,566 in chips)
+Seat 2: d306f558 (37,140 in chips)
+Seat 3: 5d358459 (40,052 in chips)
+Seat 4: f0d9d3a0 (24,450 in chips)
+Seat 5: 9af9085b (26,578 in chips)
+Seat 6: Hero (22,690 in chips)
+Seat 7: 159a026f (21,745 in chips)
+Seat 8: 43eb5c53 (56,594 in chips)
+159a026f: posts the ante 150
+5d358459: posts the ante 150
+d306f558: posts the ante 150
+Hero: posts the ante 150
+d80c7f68: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+d80c7f68: posts small blind 500
+d306f558: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [6d 6h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+5d358459: folds
+f0d9d3a0: folds
+9af9085b: folds
+Hero: raises 1,000 to 2,000
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: calls 1,000
+*** FLOP *** [4h Qs 2h]
+d306f558: checks
+Hero: checks
+*** TURN *** [4h Qs 2h] [3h]
+d306f558: checks
+Hero: checks
+*** RIVER *** [4h Qs 2h 3h] [Ac]
+d306f558: checks
+Hero: checks
+d306f558: shows [8c 3c] (a pair of Threes)
+Hero: shows [6d 6h] (a pair of Sixes)
+*** SHOWDOWN ***
+Hero collected 5,700 from pot
+*** SUMMARY ***
+Total pot 5,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h Qs 2h 3h Ac]
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: d306f558 (big blind) showed [8c 3c] and lost with a pair of Threes
+Seat 3: 5d358459 folded before Flop
+Seat 4: f0d9d3a0 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero showed [6d 6h] and won (5,700) with a pair of Sixes
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676869684: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:19:29
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (62,726 in chips)
+Seat 2: d306f558 (37,290 in chips)
+Seat 3: 5d358459 (40,202 in chips)
+Seat 4: f0d9d3a0 (27,100 in chips)
+Seat 5: 9af9085b (14,018 in chips)
+Seat 6: Hero (25,340 in chips)
+Seat 7: 159a026f (21,895 in chips)
+Seat 8: 43eb5c53 (57,244 in chips)
+159a026f: posts the ante 150
+5d358459: posts the ante 150
+d306f558: posts the ante 150
+Hero: posts the ante 150
+d80c7f68: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+43eb5c53: posts small blind 500
+d80c7f68: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [Kd Jd]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d306f558: folds
+5d358459: folds
+f0d9d3a0: raises 1,500 to 2,500
+9af9085b: calls 2,500
+Hero: calls 2,500
+159a026f: folds
+43eb5c53: folds
+d80c7f68: calls 1,500
+*** FLOP *** [7h Th 5c]
+d80c7f68: checks
+f0d9d3a0: checks
+9af9085b: bets 3,510
+Hero: folds
+d80c7f68: calls 3,510
+f0d9d3a0: folds
+*** TURN *** [7h Th 5c] [4c]
+d80c7f68: checks
+9af9085b: bets 7,858 and is all-in
+d80c7f68: folds
+Uncalled bet (7,858) returned to 9af9085b
+*** SHOWDOWN ***
+9af9085b collected 18,720 from pot
+*** SUMMARY ***
+Total pot 18,720 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h Th 5c 4c]
+Seat 1: d80c7f68 (big blind) folded on the Turn
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: f0d9d3a0 folded on the Flop
+Seat 5: 9af9085b won (18,720)
+Seat 6: Hero folded on the Flop
+Seat 7: 159a026f (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676869458: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:18:27
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (62,876 in chips)
+Seat 2: d306f558 (39,440 in chips)
+Seat 3: 5d358459 (40,352 in chips)
+Seat 4: f0d9d3a0 (27,250 in chips)
+Seat 5: 9af9085b (14,168 in chips)
+Seat 6: Hero (25,490 in chips)
+Seat 7: 159a026f (17,845 in chips)
+Seat 8: 43eb5c53 (58,394 in chips)
+5d358459: posts the ante 150
+159a026f: posts the ante 150
+d306f558: posts the ante 150
+Hero: posts the ante 150
+d80c7f68: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+159a026f: posts small blind 500
+43eb5c53: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [4h Kh]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: folds
+d306f558: raises 1,000 to 2,000
+5d358459: folds
+f0d9d3a0: folds
+9af9085b: folds
+Hero: folds
+159a026f: raises 15,695 to 17,695 and is all-in
+43eb5c53: folds
+d306f558: folds
+Uncalled bet (15,695) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 6,200 from pot
+*** SUMMARY ***
+Total pot 6,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: f0d9d3a0 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 159a026f (small blind) collected (6,200)
+Seat 8: 43eb5c53 (big blind) folded before Flop
+
+
+Poker Hand #TM5676869196: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:17:13
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (44,074 in chips)
+Seat 2: d306f558 (39,590 in chips)
+Seat 3: 5d358459 (40,502 in chips)
+Seat 4: f0d9d3a0 (29,400 in chips)
+Seat 5: 9af9085b (27,570 in chips)
+Seat 6: Hero (26,140 in chips)
+Seat 7: 159a026f (19,995 in chips)
+Seat 8: 43eb5c53 (58,544 in chips)
+5d358459: posts the ante 150
+159a026f: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+f0d9d3a0: posts the ante 150
+Hero: posts small blind 500
+159a026f: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to f0d9d3a0 
+Dealt to 9af9085b 
+Dealt to Hero [4s 5c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: raises 1,000 to 2,000
+d306f558: folds
+5d358459: folds
+f0d9d3a0: calls 2,000
+9af9085b: calls 2,000
+Hero: folds
+159a026f: calls 1,000
+*** FLOP *** [4c Ac Ts]
+159a026f: checks
+d80c7f68: bets 4,850
+f0d9d3a0: folds
+9af9085b: calls 4,850
+159a026f: folds
+*** TURN *** [4c Ac Ts] [6s]
+d80c7f68: checks
+9af9085b: checks
+*** RIVER *** [4c Ac Ts 6s] [8h]
+d80c7f68: bets 6,402
+9af9085b: calls 6,402
+d80c7f68: shows [Jh Ad] (a pair of Aces)
+9af9085b: shows [Ah 7h] (a pair of Aces)
+*** SHOWDOWN ***
+d80c7f68 collected 32,204 from pot
+*** SUMMARY ***
+Total pot 32,204 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Ac Ts 6s 8h]
+Seat 1: d80c7f68 showed [Jh Ad] and won (32,204) with a pair of Aces
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: f0d9d3a0 folded on the Flop
+Seat 5: 9af9085b (button) showed [Ah 7h] and lost with a pair of Aces
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) folded on the Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676869113: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level13(500/1,000(150)) - 2026/03/08 03:16:50
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (44,224 in chips)
+Seat 2: d306f558 (39,740 in chips)
+Seat 3: 5d358459 (40,652 in chips)
+Seat 5: 9af9085b (28,220 in chips)
+Seat 6: Hero (24,740 in chips)
+Seat 7: 159a026f (20,145 in chips)
+Seat 8: 43eb5c53 (58,694 in chips)
+5d358459: posts the ante 150
+159a026f: posts the ante 150
+d306f558: posts the ante 150
+d80c7f68: posts the ante 150
+Hero: posts the ante 150
+43eb5c53: posts the ante 150
+9af9085b: posts the ante 150
+9af9085b: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 9af9085b 
+Dealt to Hero [9c 8d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+9af9085b: folds
+Uncalled bet (500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,050 from pot
+*** SUMMARY ***
+Total pot 2,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 (button) folded before Flop
+Seat 5: 9af9085b (small blind) folded before Flop
+Seat 6: Hero (big blind) collected (2,050)
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676368903: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:15:53
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (32,204 in chips)
+Seat 2: d306f558 (39,860 in chips)
+Seat 3: 5d358459 (41,172 in chips)
+Seat 4: 779b1cd6 (20,760 in chips)
+Seat 5: 9af9085b (18,480 in chips)
+Seat 6: Hero (24,860 in chips)
+Seat 7: 159a026f (20,265 in chips)
+Seat 8: 43eb5c53 (58,814 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+779b1cd6: posts the ante 120
+43eb5c53: posts the ante 120
+9af9085b: posts the ante 120
+5d358459: posts small blind 400
+779b1cd6: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 779b1cd6 
+Dealt to 9af9085b 
+Dealt to Hero [4s 3h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+9af9085b: raises 960 to 1,760
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 30,324 to 32,084 and is all-in
+d306f558: folds
+5d358459: folds
+779b1cd6: calls 19,840 and is all-in
+9af9085b: calls 16,600 and is all-in
+Uncalled bet (11,444) returned to d80c7f68
+d80c7f68: shows [Jd Js]
+779b1cd6: shows [Kd Ac]
+9af9085b: shows [Jh Jc]
+*** FLOP *** [Td 8s 3s]
+*** TURN *** [Td 8s 3s] [8c]
+*** RIVER *** [Td 8s 3s 8c] [7h]
+*** SHOWDOWN ***
+9af9085b collected 28,220 from pot
+d80c7f68 collected 28,220 from pot
+d80c7f68 collected 4,560 from pot
+*** SUMMARY ***
+Total pot 61,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Td 8s 3s 8c 7h]
+Seat 1: d80c7f68 showed [Jd Js] and won (32,780) with two pair, Jacks and Eights
+Seat 2: d306f558 (button) folded before Flop
+Seat 3: 5d358459 (small blind) folded before Flop
+Seat 4: 779b1cd6 (big blind) showed [Kd Ac] and lost with a pair of Eights
+Seat 5: 9af9085b showed [Jh Jc] and won (28,220) with two pair, Jacks and Eights
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676368614: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:14:33
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (27,364 in chips)
+Seat 2: d306f558 (41,580 in chips)
+Seat 3: 5d358459 (42,092 in chips)
+Seat 4: 779b1cd6 (20,880 in chips)
+Seat 5: 9af9085b (18,600 in chips)
+Seat 6: Hero (24,980 in chips)
+Seat 7: 159a026f (21,985 in chips)
+Seat 8: 43eb5c53 (58,934 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+779b1cd6: posts the ante 120
+43eb5c53: posts the ante 120
+9af9085b: posts the ante 120
+d306f558: posts small blind 400
+5d358459: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 779b1cd6 
+Dealt to 9af9085b 
+Dealt to Hero [2s 9d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+779b1cd6: folds
+9af9085b: folds
+Hero: folds
+159a026f: raises 800 to 1,600
+43eb5c53: folds
+d80c7f68: calls 1,600
+d306f558: calls 1,200
+5d358459: folds
+*** FLOP *** [Ah 9s As]
+d306f558: checks
+159a026f: checks
+d80c7f68: checks
+*** TURN *** [Ah 9s As] [Qd]
+d306f558: checks
+159a026f: checks
+d80c7f68: checks
+*** RIVER *** [Ah 9s As Qd] [5h]
+d306f558: checks
+159a026f: checks
+d80c7f68: bets 3,280
+d306f558: folds
+159a026f: folds
+Uncalled bet (3,280) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 6,560 from pot
+*** SUMMARY ***
+Total pot 6,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 9s As Qd 5h]
+Seat 1: d80c7f68 (button) won (6,560)
+Seat 2: d306f558 (small blind) folded on the River
+Seat 3: 5d358459 (big blind) folded before Flop
+Seat 4: 779b1cd6 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded on the River
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676368443: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:13:48
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (27,884 in chips)
+Seat 2: d306f558 (51,460 in chips)
+Seat 3: 5d358459 (42,212 in chips)
+Seat 4: 779b1cd6 (9,880 in chips)
+Seat 5: 9af9085b (18,720 in chips)
+Seat 6: Hero (25,100 in chips)
+Seat 7: 159a026f (22,105 in chips)
+Seat 8: 43eb5c53 (59,054 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+779b1cd6: posts the ante 120
+43eb5c53: posts the ante 120
+9af9085b: posts the ante 120
+d80c7f68: posts small blind 400
+d306f558: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 779b1cd6 
+Dealt to 9af9085b 
+Dealt to Hero [5s 3c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+5d358459: folds
+779b1cd6: raises 8,960 to 9,760 and is all-in
+9af9085b: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: calls 8,960
+779b1cd6: shows [Th 9h]
+d306f558: shows [Ac 7c]
+*** FLOP *** [Ts 6d 9d]
+*** TURN *** [Ts 6d 9d] [5d]
+*** RIVER *** [Ts 6d 9d 5d] [2d]
+*** SHOWDOWN ***
+779b1cd6 collected 20,880 from pot
+*** SUMMARY ***
+Total pot 20,880 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 6d 9d 5d 2d]
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: d306f558 (big blind) showed [Ac 7c] and lost with Ace high
+Seat 3: 5d358459 folded before Flop
+Seat 4: 779b1cd6 showed [Th 9h] and won (20,880) with two pair, Tens and Nines
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676368129: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:12:24
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (28,804 in chips)
+Seat 2: d306f558 (51,580 in chips)
+Seat 3: 5d358459 (43,132 in chips)
+Seat 4: 779b1cd6 (10,000 in chips)
+Seat 5: 9af9085b (9,880 in chips)
+Seat 6: Hero (25,220 in chips)
+Seat 7: 159a026f (25,425 in chips)
+Seat 8: 43eb5c53 (62,374 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+779b1cd6: posts the ante 120
+43eb5c53: posts the ante 120
+9af9085b: posts the ante 120
+43eb5c53: posts small blind 400
+d80c7f68: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 779b1cd6 
+Dealt to 9af9085b 
+Dealt to Hero [Ts 5d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d306f558: folds
+5d358459: calls 800
+779b1cd6: folds
+9af9085b: calls 800
+Hero: folds
+159a026f: raises 2,400 to 3,200
+43eb5c53: calls 2,800
+d80c7f68: folds
+5d358459: folds
+9af9085b: calls 2,400
+*** FLOP *** [Tc Qc 7d]
+43eb5c53: checks
+9af9085b: bets 6,560 and is all-in
+159a026f: folds
+43eb5c53: folds
+Uncalled bet (6,560) returned to 9af9085b
+*** SHOWDOWN ***
+9af9085b collected 12,160 from pot
+*** SUMMARY ***
+Total pot 12,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Qc 7d]
+Seat 1: d80c7f68 (big blind) folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 779b1cd6 folded before Flop
+Seat 5: 9af9085b won (12,160)
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) folded on the Flop
+Seat 8: 43eb5c53 (small blind) folded on the Flop
+
+
+Poker Hand #TM5676367889: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:11:21
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (28,924 in chips)
+Seat 2: d306f558 (51,700 in chips)
+Seat 3: 5d358459 (43,252 in chips)
+Seat 5: 9af9085b (10,000 in chips)
+Seat 6: Hero (25,340 in chips)
+Seat 7: 159a026f (22,305 in chips)
+Seat 8: 43eb5c53 (64,894 in chips)
+5d358459: posts the ante 120
+159a026f: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+43eb5c53: posts the ante 120
+9af9085b: posts the ante 120
+159a026f: posts small blind 400
+43eb5c53: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 9af9085b 
+Dealt to Hero [7d 2c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+9af9085b: folds
+Hero: folds
+159a026f: calls 400
+43eb5c53: raises 1,600 to 2,400
+159a026f: calls 1,600
+*** FLOP *** [Kd Qh Th]
+159a026f: checks
+43eb5c53: checks
+*** TURN *** [Kd Qh Th] [Ac]
+159a026f: bets 2,800
+43eb5c53: folds
+Uncalled bet (2,800) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 5,640 from pot
+*** SUMMARY ***
+Total pot 5,640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd Qh Th Ac]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 5: 9af9085b folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 159a026f (small blind) won (5,640)
+Seat 8: 43eb5c53 (big blind) folded on the Turn
+
+
+Poker Hand #TM5676367557: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:09:51
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (29,044 in chips)
+Seat 2: d306f558 (16,540 in chips)
+Seat 3: 5d358459 (43,592 in chips)
+Seat 4: 74d857a3 (32,740 in chips)
+Seat 6: Hero (27,060 in chips)
+Seat 7: 159a026f (22,425 in chips)
+Seat 8: 43eb5c53 (65,014 in chips)
+5d358459: posts the ante 120
+159a026f: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+74d857a3: posts small blind 400
+Hero: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [7c 8s]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: raises 800 to 1,600
+5d358459: calls 1,600
+74d857a3: calls 1,200
+Hero: calls 800
+*** FLOP *** [8c Jc Ts]
+74d857a3: checks
+Hero: checks
+d306f558: bets 3,620
+5d358459: raises 4,779 to 8,399
+74d857a3: calls 8,399
+Hero: folds
+d306f558: raises 6,421 to 14,820 and is all-in
+5d358459: raises 27,052 to 41,872 and is all-in
+74d857a3: calls 22,621 and is all-in
+Uncalled bet (10,852) returned to 5d358459
+5d358459: shows [Tc Kc] (a pair of Tens)
+74d857a3: shows [6c 9c] (Jack high)
+d306f558: shows [Ac As] (a pair of Aces)
+*** TURN *** [8c Jc Ts] [2h]
+*** RIVER *** [8c Jc Ts 2h] [Ah]
+*** SHOWDOWN ***
+d306f558 collected 51,700 from pot
+5d358459 collected 32,400 from pot
+*** SUMMARY ***
+Total pot 84,100 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Jc Ts 2h Ah]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 showed [Ac As] and won (51,700) with three of a kind, Aces
+Seat 3: 5d358459 (button) showed [Tc Kc] and won (32,400) with a pair of Tens
+Seat 4: 74d857a3 (small blind) showed [6c 9c] and lost with Ace high
+Seat 6: Hero (big blind) folded on the Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676367437: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:09:17
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (26,324 in chips)
+Seat 2: d306f558 (16,660 in chips)
+Seat 3: 5d358459 (44,112 in chips)
+Seat 4: 74d857a3 (34,460 in chips)
+Seat 6: Hero (27,180 in chips)
+Seat 7: 159a026f (22,545 in chips)
+Seat 8: 43eb5c53 (65,134 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+5d358459: posts small blind 400
+74d857a3: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [8h 5c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 800 to 1,600
+d306f558: folds
+5d358459: folds
+74d857a3: calls 800
+*** FLOP *** [Ah 3s Td]
+74d857a3: checks
+d80c7f68: bets 2,220
+74d857a3: folds
+Uncalled bet (2,220) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 4,440 from pot
+*** SUMMARY ***
+Total pot 4,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 3s Td]
+Seat 1: d80c7f68 won (4,440)
+Seat 2: d306f558 (button) folded before Flop
+Seat 3: 5d358459 (small blind) folded before Flop
+Seat 4: 74d857a3 (big blind) folded on the Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676367353: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:08:55
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (26,444 in chips)
+Seat 2: d306f558 (17,180 in chips)
+Seat 3: 5d358459 (45,032 in chips)
+Seat 4: 74d857a3 (32,540 in chips)
+Seat 6: Hero (27,300 in chips)
+Seat 7: 159a026f (22,665 in chips)
+Seat 8: 43eb5c53 (65,254 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+d306f558: posts small blind 400
+5d358459: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [Jd Qh]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+74d857a3: raises 1,600 to 2,400
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+Uncalled bet (1,600) returned to 74d857a3
+*** SHOWDOWN ***
+74d857a3 collected 2,840 from pot
+*** SUMMARY ***
+Total pot 2,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: d306f558 (small blind) folded before Flop
+Seat 3: 5d358459 (big blind) folded before Flop
+Seat 4: 74d857a3 collected (2,840)
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676367197: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:08:09
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (26,964 in chips)
+Seat 2: d306f558 (8,090 in chips)
+Seat 3: 5d358459 (53,122 in chips)
+Seat 4: 74d857a3 (32,660 in chips)
+Seat 6: Hero (27,420 in chips)
+Seat 7: 159a026f (22,785 in chips)
+Seat 8: 43eb5c53 (65,374 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+d80c7f68: posts small blind 400
+d306f558: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [4s 2d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+5d358459: raises 1,600 to 2,400
+74d857a3: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: raises 5,570 to 7,970 and is all-in
+5d358459: calls 5,570
+d306f558: shows [Kh Jh]
+5d358459: shows [5c As]
+*** FLOP *** [Ah 6d 4h]
+*** TURN *** [Ah 6d 4h] [Jd]
+*** RIVER *** [Ah 6d 4h Jd] [Jc]
+*** SHOWDOWN ***
+d306f558 collected 17,180 from pot
+*** SUMMARY ***
+Total pot 17,180 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 6d 4h Jd Jc]
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: d306f558 (big blind) showed [Kh Jh] and won (17,180) with three of a kind, Jacks
+Seat 3: 5d358459 showed [5c As] and lost with two pair, Aces and Jacks
+Seat 4: 74d857a3 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676366952: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:07:05
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (30,150 in chips)
+Seat 2: d306f558 (8,210 in chips)
+Seat 3: 5d358459 (53,242 in chips)
+Seat 4: 74d857a3 (32,780 in chips)
+Seat 6: Hero (27,540 in chips)
+Seat 7: 159a026f (18,599 in chips)
+Seat 8: 43eb5c53 (65,894 in chips)
+159a026f: posts the ante 120
+5d358459: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+43eb5c53: posts small blind 400
+d80c7f68: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [Ks 4c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d306f558: folds
+5d358459: folds
+74d857a3: folds
+Hero: folds
+159a026f: raises 800 to 1,600
+43eb5c53: folds
+d80c7f68: calls 800
+*** FLOP *** [8h 7d 3c]
+d80c7f68: checks
+159a026f: bets 1,466
+d80c7f68: calls 1,466
+*** TURN *** [8h 7d 3c] [4d]
+d80c7f68: checks
+159a026f: bets 4,400
+d80c7f68: folds
+Uncalled bet (4,400) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 7,372 from pot
+*** SUMMARY ***
+Total pot 7,372 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 7d 3c 4d]
+Seat 1: d80c7f68 (big blind) folded on the Turn
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) won (7,372)
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676366726: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:06:06
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (30,270 in chips)
+Seat 2: d306f558 (8,330 in chips)
+Seat 3: 5d358459 (53,362 in chips)
+Seat 4: 74d857a3 (28,460 in chips)
+Seat 6: Hero (29,260 in chips)
+Seat 7: 159a026f (19,119 in chips)
+Seat 8: 43eb5c53 (67,614 in chips)
+5d358459: posts the ante 120
+159a026f: posts the ante 120
+d306f558: posts the ante 120
+Hero: posts the ante 120
+d80c7f68: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+159a026f: posts small blind 400
+43eb5c53: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to Hero [Ad 2d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+74d857a3: raises 800 to 1,600
+Hero: calls 1,600
+159a026f: folds
+43eb5c53: calls 800
+*** FLOP *** [3h 4h Kc]
+43eb5c53: checks
+74d857a3: bets 3,020
+Hero: folds
+43eb5c53: folds
+Uncalled bet (3,020) returned to 74d857a3
+*** SHOWDOWN ***
+74d857a3 collected 6,040 from pot
+*** SUMMARY ***
+Total pot 6,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 4h Kc]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 won (6,040)
+Seat 6: Hero (button) folded on the Flop
+Seat 7: 159a026f (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) folded on the Flop
+
+
+Poker Hand #TM5676366517: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level12(400/800(120)) - 2026/03/08 03:05:06
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (30,390 in chips)
+Seat 2: d306f558 (8,450 in chips)
+Seat 3: 5d358459 (54,282 in chips)
+Seat 4: 74d857a3 (13,100 in chips)
+Seat 5: 71f75a08 (12,640 in chips)
+Seat 6: Hero (29,780 in chips)
+Seat 7: 159a026f (20,039 in chips)
+Seat 8: 43eb5c53 (67,734 in chips)
+5d358459: posts the ante 120
+159a026f: posts the ante 120
+71f75a08: posts the ante 120
+d306f558: posts the ante 120
+d80c7f68: posts the ante 120
+Hero: posts the ante 120
+74d857a3: posts the ante 120
+43eb5c53: posts the ante 120
+Hero: posts small blind 400
+159a026f: posts big blind 800
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 71f75a08 
+Dealt to Hero [5h Qs]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: calls 800
+74d857a3: raises 1,880 to 2,680
+71f75a08: raises 9,840 to 12,520 and is all-in
+Hero: folds
+159a026f: folds
+5d358459: folds
+74d857a3: calls 9,840
+71f75a08: shows [Ah Js]
+74d857a3: shows [Kh Ks]
+*** FLOP *** [4c 7h 9d]
+*** TURN *** [4c 7h 9d] [5s]
+*** RIVER *** [4c 7h 9d 5s] [8s]
+*** SHOWDOWN ***
+74d857a3 collected 28,000 from pot
+*** SUMMARY ***
+Total pot 28,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 7h 9d 5s 8s]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 showed [Kh Ks] and won (28,000) with a pair of Kings
+Seat 5: 71f75a08 (button) showed [Ah Js] and lost with Ace high
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676366369: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 03:04:26
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (30,490 in chips)
+Seat 2: d306f558 (8,550 in chips)
+Seat 3: 5d358459 (54,382 in chips)
+Seat 4: 74d857a3 (13,200 in chips)
+Seat 5: 71f75a08 (9,000 in chips)
+Seat 6: Hero (31,350 in chips)
+Seat 7: 159a026f (20,139 in chips)
+Seat 8: 43eb5c53 (69,304 in chips)
+5d358459: posts the ante 100
+159a026f: posts the ante 100
+d306f558: posts the ante 100
+71f75a08: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+71f75a08: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 71f75a08 
+Dealt to Hero [Tc Ad]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: raises 770 to 1,470
+d80c7f68: folds
+d306f558: folds
+5d358459: folds
+74d857a3: folds
+71f75a08: calls 1,120
+Hero: calls 770
+*** FLOP *** [4h 6d 9c]
+71f75a08: checks
+Hero: checks
+43eb5c53: checks
+*** TURN *** [4h 6d 9c] [3d]
+71f75a08: bets 6,650
+Hero: folds
+43eb5c53: folds
+Uncalled bet (6,650) returned to 71f75a08
+*** SHOWDOWN ***
+71f75a08 collected 5,210 from pot
+*** SUMMARY ***
+Total pot 5,210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 6d 9c 3d]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 (button) folded before Flop
+Seat 5: 71f75a08 (small blind) won (5,210)
+Seat 6: Hero (big blind) folded on the Turn
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded on the Turn
+
+
+Poker Hand #TM5676366247: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 03:03:54
+Table '41' 8-max Seat #3 is the button
+Seat 1: d80c7f68 (28,740 in chips)
+Seat 2: d306f558 (8,650 in chips)
+Seat 3: 5d358459 (54,482 in chips)
+Seat 4: 74d857a3 (13,650 in chips)
+Seat 5: 71f75a08 (9,800 in chips)
+Seat 6: Hero (31,450 in chips)
+Seat 7: 159a026f (20,239 in chips)
+Seat 8: 43eb5c53 (69,404 in chips)
+5d358459: posts the ante 100
+159a026f: posts the ante 100
+d306f558: posts the ante 100
+71f75a08: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+74d857a3: posts small blind 350
+71f75a08: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 71f75a08 
+Dealt to Hero [Qs 9c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 1,400 to 2,100
+d306f558: folds
+5d358459: folds
+74d857a3: folds
+71f75a08: folds
+Uncalled bet (1,400) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 2,550 from pot
+*** SUMMARY ***
+Total pot 2,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 collected (2,550)
+Seat 2: d306f558 folded before Flop
+Seat 3: 5d358459 (button) folded before Flop
+Seat 4: 74d857a3 (small blind) folded before Flop
+Seat 5: 71f75a08 (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676366133: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 03:03:23
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (26,990 in chips)
+Seat 2: d306f558 (8,750 in chips)
+Seat 3: 5d358459 (54,932 in chips)
+Seat 4: 74d857a3 (14,450 in chips)
+Seat 5: 71f75a08 (9,900 in chips)
+Seat 6: Hero (31,550 in chips)
+Seat 7: 159a026f (20,339 in chips)
+Seat 8: 43eb5c53 (69,504 in chips)
+159a026f: posts the ante 100
+5d358459: posts the ante 100
+d306f558: posts the ante 100
+71f75a08: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+5d358459: posts small blind 350
+74d857a3: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 71f75a08 
+Dealt to Hero [3s 4h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+71f75a08: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 2,100 to 2,800
+d306f558: folds
+5d358459: folds
+74d857a3: folds
+Uncalled bet (2,100) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 2,550 from pot
+*** SUMMARY ***
+Total pot 2,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 collected (2,550)
+Seat 2: d306f558 (button) folded before Flop
+Seat 3: 5d358459 (small blind) folded before Flop
+Seat 4: 74d857a3 (big blind) folded before Flop
+Seat 5: 71f75a08 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365989: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 03:02:43
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (27,090 in chips)
+Seat 2: d306f558 (9,200 in chips)
+Seat 3: 5d358459 (52,482 in chips)
+Seat 4: 74d857a3 (15,950 in chips)
+Seat 5: 71f75a08 (10,000 in chips)
+Seat 6: Hero (31,650 in chips)
+Seat 7: 159a026f (20,439 in chips)
+Seat 8: 43eb5c53 (69,604 in chips)
+159a026f: posts the ante 100
+5d358459: posts the ante 100
+71f75a08: posts the ante 100
+d306f558: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+d306f558: posts small blind 350
+5d358459: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 71f75a08 
+Dealt to Hero [2d 3d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+74d857a3: raises 700 to 1,400
+71f75a08: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+d306f558: folds
+5d358459: calls 700
+*** FLOP *** [7s Th 3s]
+5d358459: checks
+74d857a3: checks
+*** TURN *** [7s Th 3s] [3c]
+5d358459: checks
+74d857a3: checks
+*** RIVER *** [7s Th 3s 3c] [Qs]
+5d358459: bets 1,975
+74d857a3: folds
+Uncalled bet (1,975) returned to 5d358459
+*** SHOWDOWN ***
+5d358459 collected 3,950 from pot
+*** SUMMARY ***
+Total pot 3,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Th 3s 3c Qs]
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: d306f558 (small blind) folded before Flop
+Seat 3: 5d358459 (big blind) won (3,950)
+Seat 4: 74d857a3 folded on the River
+Seat 5: 71f75a08 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365806: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 03:01:55
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (27,540 in chips)
+Seat 2: d306f558 (10,000 in chips)
+Seat 3: 5d358459 (52,582 in chips)
+Seat 4: 74d857a3 (16,050 in chips)
+Seat 5: 3e657a2 (72,236 in chips)
+Seat 6: Hero (31,750 in chips)
+Seat 7: 159a026f (20,539 in chips)
+Seat 8: 43eb5c53 (67,854 in chips)
+159a026f: posts the ante 100
+5d358459: posts the ante 100
+d306f558: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+d80c7f68: posts small blind 350
+d306f558: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to d306f558 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [2c Jd]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+5d358459: folds
+74d857a3: folds
+3e657a2: folds
+Hero: folds
+159a026f: folds
+43eb5c53: raises 770 to 1,470
+d80c7f68: folds
+d306f558: folds
+Uncalled bet (770) returned to 43eb5c53
+*** SHOWDOWN ***
+43eb5c53 collected 2,550 from pot
+*** SUMMARY ***
+Total pot 2,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: d306f558 (big blind) folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) collected (2,550)
+
+
+Poker Hand #TM5676365428: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:54:21
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (28,340 in chips)
+Seat 2: f840d3bc (10,000 in chips)
+Seat 3: 5d358459 (52,682 in chips)
+Seat 4: 74d857a3 (16,150 in chips)
+Seat 5: 3e657a2 (30,343 in chips)
+Seat 6: Hero (31,850 in chips)
+Seat 7: 159a026f (50,882 in chips)
+Seat 8: 43eb5c53 (68,304 in chips)
+159a026f: posts the ante 100
+5d358459: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+f840d3bc: posts the ante 100
+43eb5c53: posts the ante 100
+43eb5c53: posts small blind 350
+d80c7f68: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to f840d3bc 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [2c Th]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+f840d3bc: raises 9,200 to 9,900 and is all-in
+5d358459: folds
+74d857a3: folds
+3e657a2: raises 20,343 to 30,243 and is all-in
+Hero: folds
+159a026f: raises 20,539 to 50,782 and is all-in
+43eb5c53: folds
+d80c7f68: folds
+Uncalled bet (20,539) returned to 159a026f
+159a026f: shows [As Kc]
+f840d3bc: shows [7d 7s]
+3e657a2: shows [Ad Ac]
+*** FLOP *** [9h 6d 9d]
+*** TURN *** [9h 6d 9d] [Kh]
+*** RIVER *** [9h 6d 9d Kh] [2s]
+43eb5c53: shows [5s 5d] (two pair, Nines and Fives)
+*** SHOWDOWN ***
+3e657a2 collected 31,550 from pot
+3e657a2 collected 40,686 from pot
+*** SUMMARY ***
+Total pot 72,236 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h 6d 9d Kh 2s]
+Seat 1: d80c7f68 (big blind) folded before Flop
+Seat 2: f840d3bc showed [7d 7s] and lost with two pair, Nines and Sevens
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 5: 3e657a2 showed [Ad Ac] and won (72,236) with two pair, Aces and Nines
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) showed [As Kc] and lost with two pair, Kings and Nines
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676365365: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:53:36
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (29,840 in chips)
+Seat 3: 5d358459 (54,182 in chips)
+Seat 4: 74d857a3 (16,250 in chips)
+Seat 5: 3e657a2 (30,443 in chips)
+Seat 6: Hero (31,950 in chips)
+Seat 7: 159a026f (46,782 in chips)
+Seat 8: 43eb5c53 (69,104 in chips)
+5d358459: posts the ante 100
+159a026f: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+159a026f: posts small blind 350
+43eb5c53: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [7h 2s]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: raises 700 to 1,400
+5d358459: calls 1,400
+74d857a3: folds
+3e657a2: folds
+Hero: folds
+159a026f: raises 5,250 to 6,650
+43eb5c53: folds
+d80c7f68: folds
+5d358459: folds
+Uncalled bet (5,250) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 5,600 from pot
+*** SUMMARY ***
+Total pot 5,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 159a026f (small blind) collected (5,600)
+Seat 8: 43eb5c53 (big blind) folded before Flop
+
+
+Poker Hand #TM5676365315: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:52:49
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (22,340 in chips)
+Seat 2: 7bf1a75e (5,850 in chips)
+Seat 3: 5d358459 (54,282 in chips)
+Seat 4: 74d857a3 (16,350 in chips)
+Seat 5: 3e657a2 (30,543 in chips)
+Seat 6: Hero (32,400 in chips)
+Seat 7: 159a026f (47,582 in chips)
+Seat 8: 43eb5c53 (69,204 in chips)
+5d358459: posts the ante 100
+159a026f: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+Hero: posts small blind 350
+159a026f: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [5d 9d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: raises 700 to 1,400
+7bf1a75e: raises 4,350 to 5,750 and is all-in
+5d358459: folds
+74d857a3: folds
+3e657a2: folds
+Hero: folds
+159a026f: folds
+d80c7f68: calls 4,350
+7bf1a75e: shows [Qs As]
+d80c7f68: shows [3d 3c]
+*** FLOP *** [6d 2h Th]
+*** TURN *** [6d 2h Th] [Jh]
+*** RIVER *** [6d 2h Th Jh] [7c]
+*** SHOWDOWN ***
+d80c7f68 collected 13,350 from pot
+*** SUMMARY ***
+Total pot 13,350 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 2h Th Jh 7c]
+Seat 1: d80c7f68 showed [3d 3c] and won (13,350) with a pair of Threes
+Seat 2: 7bf1a75e showed [Qs As] and lost with Ace high
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 5: 3e657a2 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365254: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:51:59
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (22,440 in chips)
+Seat 2: 7bf1a75e (5,950 in chips)
+Seat 3: 5d358459 (54,382 in chips)
+Seat 4: 74d857a3 (16,450 in chips)
+Seat 5: 3e657a2 (29,143 in chips)
+Seat 6: Hero (33,200 in chips)
+Seat 7: 159a026f (47,682 in chips)
+Seat 8: 43eb5c53 (69,304 in chips)
+5d358459: posts the ante 100
+159a026f: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+74d857a3: posts the ante 100
+3e657a2: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+3e657a2: posts small blind 350
+Hero: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 5d358459 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [8h 5c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: folds
+5d358459: folds
+74d857a3: folds
+3e657a2: calls 350
+Hero: checks
+*** FLOP *** [As 8d Tc]
+3e657a2: checks
+Hero: checks
+*** TURN *** [As 8d Tc] [Ks]
+3e657a2: checks
+Hero: checks
+*** RIVER *** [As 8d Tc Ks] [9h]
+3e657a2: checks
+Hero: checks
+3e657a2: shows [Qs Td] (a pair of Tens)
+Hero: shows [8h 5c] (a pair of Eights)
+*** SHOWDOWN ***
+3e657a2 collected 2,200 from pot
+*** SUMMARY ***
+Total pot 2,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 8d Tc Ks 9h]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 7bf1a75e folded before Flop
+Seat 3: 5d358459 folded before Flop
+Seat 4: 74d857a3 (button) folded before Flop
+Seat 5: 3e657a2 (small blind) showed [Qs Td] and won (2,200) with a pair of Tens
+Seat 6: Hero (big blind) showed [8h 5c] and lost with a pair of Eights
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365215: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:51:33
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (19,390 in chips)
+Seat 2: 7bf1a75e (6,050 in chips)
+Seat 4: 74d857a3 (16,900 in chips)
+Seat 5: 3e657a2 (29,943 in chips)
+Seat 6: Hero (34,700 in chips)
+Seat 7: 159a026f (47,782 in chips)
+Seat 8: 43eb5c53 (69,404 in chips)
+159a026f: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+74d857a3: posts small blind 350
+3e657a2: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [5h Ad]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: raises 700 to 1,400
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 3,413 to 4,813
+7bf1a75e: folds
+74d857a3: folds
+3e657a2: folds
+Hero: folds
+Uncalled bet (3,413) returned to d80c7f68
+*** SHOWDOWN ***
+d80c7f68 collected 4,550 from pot
+*** SUMMARY ***
+Total pot 4,550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 collected (4,550)
+Seat 2: 7bf1a75e (button) folded before Flop
+Seat 4: 74d857a3 (small blind) folded before Flop
+Seat 5: 3e657a2 (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365163: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:50:55
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (19,490 in chips)
+Seat 2: 7bf1a75e (2,775 in chips)
+Seat 4: 74d857a3 (19,675 in chips)
+Seat 5: 3e657a2 (30,043 in chips)
+Seat 6: Hero (34,800 in chips)
+Seat 7: 159a026f (47,882 in chips)
+Seat 8: 43eb5c53 (69,504 in chips)
+159a026f: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+7bf1a75e: posts small blind 350
+74d857a3: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [3c Kc]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+3e657a2: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: raises 1,975 to 2,675 and is all-in
+74d857a3: calls 1,975
+7bf1a75e: shows [4c 4s]
+74d857a3: shows [As Qs]
+*** FLOP *** [9c Ts 2c]
+*** TURN *** [9c Ts 2c] [3s]
+*** RIVER *** [9c Ts 2c 3s] [7c]
+*** SHOWDOWN ***
+7bf1a75e collected 6,050 from pot
+*** SUMMARY ***
+Total pot 6,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c Ts 2c 3s 7c]
+Seat 1: d80c7f68 (button) folded before Flop
+Seat 2: 7bf1a75e (small blind) showed [4c 4s] and won (6,050) with a pair of Fours
+Seat 4: 74d857a3 (big blind) showed [As Qs] and lost with Ace high
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676365130: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:50:34
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (19,940 in chips)
+Seat 2: 7bf1a75e (3,575 in chips)
+Seat 4: 74d857a3 (18,025 in chips)
+Seat 5: 3e657a2 (30,143 in chips)
+Seat 6: Hero (34,900 in chips)
+Seat 7: 159a026f (47,982 in chips)
+Seat 8: 43eb5c53 (69,604 in chips)
+159a026f: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+d80c7f68: posts small blind 350
+7bf1a75e: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [2h Jd]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+74d857a3: raises 700 to 1,400
+3e657a2: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: folds
+Uncalled bet (700) returned to 74d857a3
+*** SHOWDOWN ***
+74d857a3 collected 2,450 from pot
+*** SUMMARY ***
+Total pot 2,450 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 (small blind) folded before Flop
+Seat 2: 7bf1a75e (big blind) folded before Flop
+Seat 4: 74d857a3 collected (2,450)
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676365034: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:49:18
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (23,890 in chips)
+Seat 2: 7bf1a75e (3,675 in chips)
+Seat 4: 74d857a3 (18,125 in chips)
+Seat 5: 3e657a2 (24,293 in chips)
+Seat 6: Hero (35,000 in chips)
+Seat 7: 159a026f (48,082 in chips)
+Seat 8: 43eb5c53 (71,104 in chips)
+159a026f: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+74d857a3: posts the ante 100
+43eb5c53: posts the ante 100
+7bf1a75e: posts the ante 100
+43eb5c53: posts small blind 350
+d80c7f68: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 74d857a3 
+Dealt to 3e657a2 
+Dealt to Hero [Jh 6d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+7bf1a75e: folds
+74d857a3: folds
+3e657a2: raises 700 to 1,400
+Hero: folds
+159a026f: folds
+43eb5c53: calls 1,050
+d80c7f68: calls 700
+*** FLOP *** [7h 7d Kd]
+43eb5c53: checks
+d80c7f68: checks
+3e657a2: checks
+*** TURN *** [7h 7d Kd] [Kc]
+43eb5c53: checks
+d80c7f68: bets 2,450
+3e657a2: calls 2,450
+43eb5c53: folds
+*** RIVER *** [7h 7d Kd Kc] [As]
+d80c7f68: checks
+3e657a2: bets 3,430
+d80c7f68: folds
+Uncalled bet (3,430) returned to 3e657a2
+*** SHOWDOWN ***
+3e657a2 collected 9,800 from pot
+*** SUMMARY ***
+Total pot 9,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 7d Kd Kc As]
+Seat 1: d80c7f68 (big blind) folded on the River
+Seat 2: 7bf1a75e folded before Flop
+Seat 4: 74d857a3 folded before Flop
+Seat 5: 3e657a2 won (9,800)
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) folded before Flop
+Seat 8: 43eb5c53 (small blind) folded on the Turn
+
+
+Poker Hand #TM5676364901: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:47:35
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (15,670 in chips)
+Seat 2: 7bf1a75e (19,345 in chips)
+Seat 3: da7db845 (9,810 in chips)
+Seat 4: 73043524 (9,660 in chips)
+Seat 5: 3e657a2 (24,393 in chips)
+Seat 6: Hero (6,730 in chips)
+Seat 7: 159a026f (48,532 in chips)
+Seat 8: 43eb5c53 (71,904 in chips)
+159a026f: posts the ante 100
+Hero: posts the ante 100
+d80c7f68: posts the ante 100
+3e657a2: posts the ante 100
+73043524: posts the ante 100
+43eb5c53: posts the ante 100
+da7db845: posts the ante 100
+7bf1a75e: posts the ante 100
+159a026f: posts small blind 350
+43eb5c53: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to da7db845 
+Dealt to 73043524 
+Dealt to 3e657a2 
+Dealt to Hero [5s 5d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: raises 700 to 1,400
+7bf1a75e: calls 1,400
+da7db845: calls 1,400
+73043524: raises 8,160 to 9,560 and is all-in
+3e657a2: folds
+Hero: calls 6,630 and is all-in
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 6,010 to 15,570 and is all-in
+7bf1a75e: calls 14,170
+da7db845: calls 8,310 and is all-in
+d80c7f68: shows [Qh Ah]
+7bf1a75e: shows [8s 9s]
+da7db845: shows [7h 9h]
+73043524: shows [Qd 2d]
+Hero: shows [5s 5d]
+*** FLOP *** [Ks 3c 6h]
+*** TURN *** [Ks 3c 6h] [Tc]
+*** RIVER *** [Ks 3c 6h Tc] [5c]
+*** SHOWDOWN ***
+Hero collected 35,000 from pot
+d80c7f68 collected 11,720 from pot
+d80c7f68 collected 450 from pot
+d80c7f68 collected 11,720 from pot
+*** SUMMARY ***
+Total pot 58,890 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 3c 6h Tc 5c]
+Seat 1: d80c7f68 showed [Qh Ah] and won (23,890) with Ace high
+Seat 2: 7bf1a75e showed [8s 9s] and lost with King high
+Seat 3: da7db845 showed [7h 9h] and lost with King high
+Seat 4: 73043524 showed [Qd 2d] and lost with King high
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero (button) showed [5s 5d] and won (35,000) with three of a kind, Fives
+Seat 7: 159a026f (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) folded before Flop
+
+
+Poker Hand #TM5676364825: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level11(350/700(100)) - 2026/03/08 02:46:32
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (17,240 in chips)
+Seat 2: 7bf1a75e (19,445 in chips)
+Seat 3: da7db845 (9,910 in chips)
+Seat 4: 73043524 (9,760 in chips)
+Seat 5: 3e657a2 (24,493 in chips)
+Seat 6: Hero (7,180 in chips)
+Seat 7: 159a026f (50,102 in chips)
+Seat 8: 43eb5c53 (67,914 in chips)
+159a026f: posts the ante 100
+d80c7f68: posts the ante 100
+Hero: posts the ante 100
+3e657a2: posts the ante 100
+73043524: posts the ante 100
+43eb5c53: posts the ante 100
+da7db845: posts the ante 100
+7bf1a75e: posts the ante 100
+Hero: posts small blind 350
+159a026f: posts big blind 700
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to da7db845 
+Dealt to 73043524 
+Dealt to 3e657a2 
+Dealt to Hero [Js 7c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: raises 770 to 1,470
+d80c7f68: calls 1,470
+7bf1a75e: folds
+da7db845: folds
+73043524: folds
+3e657a2: folds
+Hero: folds
+159a026f: calls 770
+*** FLOP *** [Tc Qc 3h]
+159a026f: checks
+43eb5c53: bets 2,836
+d80c7f68: folds
+159a026f: folds
+Uncalled bet (2,836) returned to 43eb5c53
+*** SHOWDOWN ***
+43eb5c53 collected 5,560 from pot
+*** SUMMARY ***
+Total pot 5,560 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc Qc 3h]
+Seat 1: d80c7f68 folded on the Flop
+Seat 2: 7bf1a75e folded before Flop
+Seat 3: da7db845 folded before Flop
+Seat 4: 73043524 folded before Flop
+Seat 5: 3e657a2 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) folded on the Flop
+Seat 8: 43eb5c53 won (5,560)
+
+
+Poker Hand #TM5676364780: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:45:56
+Table '41' 8-max Seat #4 is the button
+Seat 1: d80c7f68 (17,330 in chips)
+Seat 2: 7bf1a75e (17,315 in chips)
+Seat 3: da7db845 (10,000 in chips)
+Seat 4: 73043524 (9,850 in chips)
+Seat 5: 3e657a2 (24,883 in chips)
+Seat 6: Hero (8,470 in chips)
+Seat 7: 159a026f (50,192 in chips)
+Seat 8: 43eb5c53 (68,004 in chips)
+159a026f: posts the ante 90
+d80c7f68: posts the ante 90
+Hero: posts the ante 90
+3e657a2: posts the ante 90
+73043524: posts the ante 90
+43eb5c53: posts the ante 90
+da7db845: posts the ante 90
+7bf1a75e: posts the ante 90
+3e657a2: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to da7db845 
+Dealt to 73043524 
+Dealt to 3e657a2 
+Dealt to Hero [Jh 9c]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: raises 600 to 1,200
+da7db845: folds
+73043524: folds
+3e657a2: folds
+Hero: calls 600
+*** FLOP *** [6d 8d 8c]
+Hero: checks
+7bf1a75e: bets 2,565
+Hero: folds
+Uncalled bet (2,565) returned to 7bf1a75e
+*** SHOWDOWN ***
+7bf1a75e collected 3,420 from pot
+*** SUMMARY ***
+Total pot 3,420 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 8d 8c]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 7bf1a75e won (3,420)
+Seat 3: da7db845 folded before Flop
+Seat 4: 73043524 (button) folded before Flop
+Seat 5: 3e657a2 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded on the Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676364735: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:45:18
+Table '41' 8-max Seat #2 is the button
+Seat 1: d80c7f68 (17,420 in chips)
+Seat 2: 7bf1a75e (17,405 in chips)
+Seat 4: 73043524 (8,710 in chips)
+Seat 5: 3e657a2 (25,573 in chips)
+Seat 6: Hero (8,560 in chips)
+Seat 7: 159a026f (50,282 in chips)
+Seat 8: 43eb5c53 (68,094 in chips)
+159a026f: posts the ante 90
+d80c7f68: posts the ante 90
+Hero: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+73043524: posts the ante 90
+7bf1a75e: posts the ante 90
+73043524: posts small blind 300
+3e657a2: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 73043524 
+Dealt to 3e657a2 
+Dealt to Hero [3h 2h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: folds
+73043524: raises 8,020 to 8,620 and is all-in
+3e657a2: folds
+Uncalled bet (8,020) returned to 73043524
+*** SHOWDOWN ***
+73043524 collected 1,830 from pot
+*** SUMMARY ***
+Total pot 1,830 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 7bf1a75e (button) folded before Flop
+Seat 4: 73043524 (small blind) collected (1,830)
+Seat 5: 3e657a2 (big blind) folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676364675: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:44:39
+Table '41' 8-max Seat #1 is the button
+Seat 1: d80c7f68 (18,710 in chips)
+Seat 2: 7bf1a75e (18,695 in chips)
+Seat 4: 73043524 (10,000 in chips)
+Seat 5: 3e657a2 (25,663 in chips)
+Seat 6: Hero (8,650 in chips)
+Seat 7: 159a026f (46,142 in chips)
+Seat 8: 43eb5c53 (68,184 in chips)
+159a026f: posts the ante 90
+d80c7f68: posts the ante 90
+Hero: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+73043524: posts the ante 90
+7bf1a75e: posts the ante 90
+7bf1a75e: posts small blind 300
+73043524: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 73043524 
+Dealt to 3e657a2 
+Dealt to Hero [8c 5h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+3e657a2: folds
+Hero: folds
+159a026f: raises 600 to 1,200
+43eb5c53: folds
+d80c7f68: calls 1,200
+7bf1a75e: calls 900
+73043524: calls 600
+*** FLOP *** [4h 4s Jd]
+7bf1a75e: checks
+73043524: checks
+159a026f: bets 1,792
+d80c7f68: folds
+7bf1a75e: folds
+73043524: folds
+Uncalled bet (1,792) returned to 159a026f
+*** SHOWDOWN ***
+159a026f collected 5,430 from pot
+*** SUMMARY ***
+Total pot 5,430 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h 4s Jd]
+Seat 1: d80c7f68 (button) folded on the Flop
+Seat 2: 7bf1a75e (small blind) folded on the Flop
+Seat 4: 73043524 (big blind) folded on the Flop
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f won (5,430)
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676364618: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:43:49
+Table '41' 8-max Seat #8 is the button
+Seat 1: d80c7f68 (9,130 in chips)
+Seat 2: 7bf1a75e (27,825 in chips)
+Seat 3: 75f5165d (59,025 in chips)
+Seat 5: 3e657a2 (25,753 in chips)
+Seat 6: Hero (8,740 in chips)
+Seat 7: 159a026f (46,232 in chips)
+Seat 8: 43eb5c53 (68,274 in chips)
+159a026f: posts the ante 90
+75f5165d: posts the ante 90
+Hero: posts the ante 90
+d80c7f68: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+7bf1a75e: posts the ante 90
+d80c7f68: posts small blind 300
+7bf1a75e: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 75f5165d 
+Dealt to 3e657a2 
+Dealt to Hero [Qh Td]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+75f5165d: folds
+3e657a2: folds
+Hero: folds
+159a026f: folds
+43eb5c53: folds
+d80c7f68: raises 600 to 1,200
+7bf1a75e: raises 26,535 to 27,735 and is all-in
+d80c7f68: calls 7,840 and is all-in
+Uncalled bet (18,695) returned to 7bf1a75e
+7bf1a75e: shows [7h Ad]
+d80c7f68: shows [Qc Tc]
+*** FLOP *** [5c 9d 6c]
+*** TURN *** [5c 9d 6c] [7d]
+*** RIVER *** [5c 9d 6c 7d] [Ac]
+*** SHOWDOWN ***
+d80c7f68 collected 18,710 from pot
+*** SUMMARY ***
+Total pot 18,710 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9d 6c 7d Ac]
+Seat 1: d80c7f68 (small blind) showed [Qc Tc] and won (18,710) with a flush Ace high
+Seat 2: 7bf1a75e (big blind) showed [7h Ad] and lost with two pair, Aces and Sevens
+Seat 3: 75f5165d folded before Flop
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 (button) folded before Flop
+
+
+Poker Hand #TM5676364547: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:42:54
+Table '41' 8-max Seat #7 is the button
+Seat 1: d80c7f68 (9,820 in chips)
+Seat 2: 7bf1a75e (27,915 in chips)
+Seat 3: 75f5165d (59,115 in chips)
+Seat 4: 674bfb52 (11,035 in chips)
+Seat 5: 3e657a2 (25,843 in chips)
+Seat 6: Hero (8,830 in chips)
+Seat 7: 159a026f (33,757 in chips)
+Seat 8: 43eb5c53 (68,664 in chips)
+159a026f: posts the ante 90
+75f5165d: posts the ante 90
+674bfb52: posts the ante 90
+Hero: posts the ante 90
+d80c7f68: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+7bf1a75e: posts the ante 90
+43eb5c53: posts small blind 300
+d80c7f68: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 75f5165d 
+Dealt to 674bfb52 
+Dealt to 3e657a2 
+Dealt to Hero [3c Jd]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+7bf1a75e: folds
+75f5165d: folds
+674bfb52: raises 600 to 1,200
+3e657a2: folds
+Hero: folds
+159a026f: raises 2,100 to 3,300
+43eb5c53: folds
+d80c7f68: folds
+674bfb52: calls 2,100
+*** FLOP *** [6d 9h 3s]
+674bfb52: bets 7,645 and is all-in
+159a026f: calls 7,645
+674bfb52: shows [Ts Js] (Jack high)
+159a026f: shows [Kh Ah] (Ace high)
+*** TURN *** [6d 9h 3s] [Ac]
+*** RIVER *** [6d 9h 3s Ac] [6c]
+*** SHOWDOWN ***
+159a026f collected 23,510 from pot
+*** SUMMARY ***
+Total pot 23,510 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d 9h 3s Ac 6c]
+Seat 1: d80c7f68 (big blind) folded before Flop
+Seat 2: 7bf1a75e folded before Flop
+Seat 3: 75f5165d folded before Flop
+Seat 4: 674bfb52 showed [Ts Js] and lost with a pair of Sixes
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero folded before Flop
+Seat 7: 159a026f (button) showed [Kh Ah] and won (23,510) with two pair, Aces and Sixes
+Seat 8: 43eb5c53 (small blind) folded before Flop
+
+
+Poker Hand #TM5676364417: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:41:10
+Table '41' 8-max Seat #6 is the button
+Seat 1: d80c7f68 (9,910 in chips)
+Seat 2: 7bf1a75e (28,005 in chips)
+Seat 3: 75f5165d (59,205 in chips)
+Seat 4: 674bfb52 (14,035 in chips)
+Seat 5: 3e657a2 (25,933 in chips)
+Seat 6: Hero (8,920 in chips)
+Seat 7: 159a026f (34,147 in chips)
+Seat 8: 43eb5c53 (64,824 in chips)
+75f5165d: posts the ante 90
+159a026f: posts the ante 90
+674bfb52: posts the ante 90
+Hero: posts the ante 90
+d80c7f68: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+7bf1a75e: posts the ante 90
+159a026f: posts small blind 300
+43eb5c53: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 75f5165d 
+Dealt to 674bfb52 
+Dealt to 3e657a2 
+Dealt to Hero [Kd 2d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+d80c7f68: folds
+7bf1a75e: folds
+75f5165d: folds
+674bfb52: raises 600 to 1,200
+3e657a2: folds
+Hero: folds
+159a026f: folds
+43eb5c53: calls 600
+*** FLOP *** [6c 6d 2s]
+43eb5c53: checks
+674bfb52: checks
+*** TURN *** [6c 6d 2s] [Ac]
+43eb5c53: checks
+674bfb52: bets 1,710
+43eb5c53: calls 1,710
+*** RIVER *** [6c 6d 2s Ac] [7c]
+43eb5c53: checks
+674bfb52: checks
+43eb5c53: shows [5h Ah] (two pair, Aces and Sixes)
+674bfb52: shows [Js Td] (a pair of Sixes)
+*** SHOWDOWN ***
+43eb5c53 collected 6,840 from pot
+*** SUMMARY ***
+Total pot 6,840 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c 6d 2s Ac 7c]
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 7bf1a75e folded before Flop
+Seat 3: 75f5165d folded before Flop
+Seat 4: 674bfb52 showed [Js Td] and lost with a pair of Sixes
+Seat 5: 3e657a2 folded before Flop
+Seat 6: Hero (button) folded before Flop
+Seat 7: 159a026f (small blind) folded before Flop
+Seat 8: 43eb5c53 (big blind) showed [5h Ah] and won (6,840) with two pair, Aces and Sixes
+
+
+Poker Hand #TM5676364386: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:40:41
+Table '41' 8-max Seat #5 is the button
+Seat 1: d80c7f68 (10,000 in chips)
+Seat 2: 7bf1a75e (26,475 in chips)
+Seat 3: 75f5165d (59,295 in chips)
+Seat 4: 674bfb52 (14,125 in chips)
+Seat 5: 3e657a2 (26,023 in chips)
+Seat 6: Hero (9,310 in chips)
+Seat 7: 159a026f (34,837 in chips)
+Seat 8: 43eb5c53 (64,914 in chips)
+75f5165d: posts the ante 90
+159a026f: posts the ante 90
+674bfb52: posts the ante 90
+d80c7f68: posts the ante 90
+Hero: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+7bf1a75e: posts the ante 90
+Hero: posts small blind 300
+159a026f: posts big blind 600
+*** HOLE CARDS ***
+Dealt to d80c7f68 
+Dealt to 7bf1a75e 
+Dealt to 75f5165d 
+Dealt to 674bfb52 
+Dealt to 3e657a2 
+Dealt to Hero [Qh 5h]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+43eb5c53: folds
+d80c7f68: folds
+7bf1a75e: raises 600 to 1,200
+75f5165d: folds
+674bfb52: folds
+3e657a2: folds
+Hero: folds
+159a026f: folds
+Uncalled bet (600) returned to 7bf1a75e
+*** SHOWDOWN ***
+7bf1a75e collected 2,220 from pot
+*** SUMMARY ***
+Total pot 2,220 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: d80c7f68 folded before Flop
+Seat 2: 7bf1a75e collected (2,220)
+Seat 3: 75f5165d folded before Flop
+Seat 4: 674bfb52 folded before Flop
+Seat 5: 3e657a2 (button) folded before Flop
+Seat 6: Hero (small blind) folded before Flop
+Seat 7: 159a026f (big blind) folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+
+Poker Hand #TM5676364359: Tournament #267745764, WSOP-SC: $15 Bounty Dream of Spring Hold'em No Limit - Level10(300/600(90)) - 2026/03/08 02:40:17
+Table '41' 8-max Seat #3 is the button
+Seat 2: 7bf1a75e (26,565 in chips)
+Seat 3: 75f5165d (57,945 in chips)
+Seat 5: 3e657a2 (26,413 in chips)
+Seat 6: Hero (10,000 in chips)
+Seat 7: 159a026f (34,927 in chips)
+Seat 8: 43eb5c53 (65,004 in chips)
+75f5165d: posts the ante 90
+159a026f: posts the ante 90
+Hero: posts the ante 90
+3e657a2: posts the ante 90
+43eb5c53: posts the ante 90
+7bf1a75e: posts the ante 90
+3e657a2: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 7bf1a75e 
+Dealt to 75f5165d 
+Dealt to 3e657a2 
+Dealt to Hero [Th 4d]
+Dealt to 159a026f 
+Dealt to 43eb5c53 
+159a026f: folds
+43eb5c53: folds
+7bf1a75e: folds
+75f5165d: raises 900 to 1,500
+3e657a2: folds
+Hero: folds
+Uncalled bet (900) returned to 75f5165d
+*** SHOWDOWN ***
+75f5165d collected 2,040 from pot
+*** SUMMARY ***
+Total pot 2,040 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 7bf1a75e folded before Flop
+Seat 3: 75f5165d (button) collected (2,040)
+Seat 5: 3e657a2 (small blind) folded before Flop
+Seat 6: Hero (big blind) folded before Flop
+Seat 7: 159a026f folded before Flop
+Seat 8: 43eb5c53 folded before Flop
+
+

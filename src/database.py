@@ -196,6 +196,185 @@ class DatabaseManager:
         cursor.execute("SELECT COUNT(*) FROM players")
         return cursor.fetchone()[0]
     
+    def get_all_players(self) -> List[tuple]:
+        """Get all players.
+        
+        Returns:
+            List of (player_id, screen_name, is_hero) tuples
+        """
+        cursor = self.connection.cursor()
+        cursor.execute("SELECT id, screen_name, is_hero FROM players ORDER BY screen_name")
+        return cursor.fetchall()
+    
+    def get_player_by_id(self, player_id: int) -> Optional[tuple]:
+        """Get player by ID.
+        
+        Args:
+            player_id: Player ID
+            
+        Returns:
+            (player_id, screen_name, is_hero) or None
+        """
+        cursor = self.connection.cursor()
+        cursor.execute("SELECT id, screen_name, is_hero FROM players WHERE id=?", (player_id,))
+        return cursor.fetchone()
+    
+    def get_player_stats_all_tables(self, player_id: int) -> Dict[str, tuple]:
+        """Get all stats for a player aggregated across all tables.
+        
+        Args:
+            player_id: Player ID
+            
+        Returns:
+            Dict of stat_name: (numerator, denominator)
+        """
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT stat_name, SUM(numerator), SUM(denominator) 
+               FROM player_stats 
+               WHERE player_id=? 
+               GROUP BY stat_name""",
+            (player_id,)
+        )
+        return {row[0]: (row[1], row[2]) for row in cursor.fetchall()}
+    
+    def get_tables_for_player(self, player_id: int) -> List[str]:
+        """Get all table names a player has played at.
+        
+        Args:
+            player_id: Player ID
+            
+        Returns:
+            List of table names
+        """
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT DISTINCT table_name FROM player_stats WHERE player_id=?""",
+            (player_id,)
+        )
+        return [row[0] for row in cursor.fetchall()]
+    
+    def get_player_hand_ids(self, player_id: int, table_name: Optional[str] = None, limit: int = 100) -> List[str]:
+        """Get hand IDs that contain this player.
+        
+        Args:
+            player_id: Player ID
+            table_name: Optional table filter
+            limit: Max number of hands
+            
+        Returns:
+            List of hand IDs
+        """
+        cursor = self.connection.cursor()
+        if table_name:
+            cursor.execute(
+                """SELECT hand_id FROM hands 
+                   WHERE parsed_data LIKE ? 
+                   ORDER BY datetime DESC 
+                   LIMIT ?""",
+                (f'%"{player_id}"%', limit)
+            )
+        else:
+            cursor.execute(
+                """SELECT hand_id FROM hands 
+                   WHERE parsed_data LIKE ? 
+                   ORDER BY datetime DESC 
+                   LIMIT ?""",
+                (f'%"{player_id}"%', limit)
+            )
+        return [row[0] for row in cursor.fetchall()]
+    
+    def get_hand_by_id(self, hand_id: str) -> Optional[Dict]:
+        """Get a hand by its ID.
+        
+        Args:
+            hand_id: Hand ID
+            
+        Returns:
+            Dict with hand data or None
+        """
+        cursor = self.connection.cursor()
+        cursor.execute(
+            "SELECT hand_id, table_name, datetime, raw_text, parsed_data FROM hands WHERE hand_id=?",
+            (hand_id,)
+        )
+        row = cursor.fetchone()
+        if not row:
+            return None
+        return {
+            'hand_id': row[0],
+            'table_name': row[1],
+            'datetime': row[2],
+            'raw_text': row[3],
+            'parsed_data': json.loads(row[4])
+        }
+    
+    def get_player_summary(self) -> List[Dict]:
+        """Get summary statistics for all players.
+        
+        Returns:
+            List of player summaries with aggregated stats
+        """
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT 
+                   p.id,
+                   p.screen_name,
+                   p.is_hero,
+                   COUNT(DISTINCT ps.table_name) as tables_played,
+                   SUM(CASE WHEN ps.stat_name = 'VPIP' THEN ps.denominator ELSE 0 END) as hands_played
+               FROM players p
+               LEFT JOIN player_stats ps ON p.id = ps.player_id
+               GROUP BY p.id
+               ORDER BY hands_played DESC"""
+        )
+        results = []
+        for row in cursor.fetchall():
+            player_id = row[0]
+            stats = self.get_player_stats_all_tables(player_id)
+            results.append({
+                'id': player_id,
+                'screen_name': row[1],
+                'is_hero': row[2],
+                'tables_played': row[3],
+                'hands_played': row[4],
+                'stats': stats
+            })
+        return results
+    
+    def get_recent_hands_for_player(self, player_id: int, limit: int = 50) -> List[Dict]:
+        """Get recent hands involving this player.
+        
+        Args:
+            player_id: Player ID
+            limit: Max hands to return
+            
+        Returns:
+            List of hand dicts
+        """
+        cursor = self.connection.cursor()
+        cursor.execute(
+            """SELECT hand_id, table_name, datetime, raw_text, parsed_data 
+               FROM hands 
+               WHERE parsed_data LIKE ?
+               ORDER BY datetime DESC 
+               LIMIT ?""",
+            (f'%"screen_name",%', limit)
+        )
+        hands = []
+        for row in cursor.fetchall():
+            parsed = json.loads(row[4])
+            player_names = [p[0] for p in parsed.get('players', [])]
+            if str(player_id) in str(parsed) or any(p[1] for p in parsed.get('players', []) if str(player_id) in str(p)):
+                hands.append({
+                    'hand_id': row[0],
+                    'table_name': row[1],
+                    'datetime': row[2],
+                    'raw_text': row[3],
+                    'parsed_data': parsed
+                })
+        return hands
+    
     def close(self):
         """Close database connection."""
         if self.connection:

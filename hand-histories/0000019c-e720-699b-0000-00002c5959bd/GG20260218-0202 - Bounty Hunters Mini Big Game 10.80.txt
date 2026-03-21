@@ -1,0 +1,66 @@
+Poker Hand #TM5603195779: Tournament #264258980, Bounty Hunters Mini Big Game $10.80 Hold'em No Limit - Level7(1,250/2,500(350)) - 2026/02/18 13:02:21
+Table '61' 8-max Seat #8 is the button
+Seat 1: e8291bb5 (8,843 in chips)
+Seat 2: edb9d58b (228,922 in chips)
+Seat 3: de4ddd3e (205,439 in chips)
+Seat 4: b035b02c (332,940 in chips)
+Seat 5: 28c9f2d5 (100,000 in chips)
+Seat 6: 59deceb (98,867 in chips)
+Seat 7: Hero (100,000 in chips)
+Seat 8: f70000f7 (493,398 in chips)
+b035b02c: posts the ante 350
+de4ddd3e: posts the ante 350
+28c9f2d5: posts the ante 350
+Hero: posts the ante 350
+edb9d58b: posts the ante 350
+59deceb: posts the ante 350
+e8291bb5: posts the ante 350
+f70000f7: posts the ante 350
+e8291bb5: posts small blind 1,250
+edb9d58b: posts big blind 2,500
+*** HOLE CARDS ***
+Dealt to e8291bb5 
+Dealt to edb9d58b 
+Dealt to de4ddd3e 
+Dealt to b035b02c 
+Dealt to 28c9f2d5 
+Dealt to 59deceb 
+Dealt to Hero [Qc Th]
+Dealt to f70000f7 
+de4ddd3e: folds
+b035b02c: raises 2,500 to 5,000
+28c9f2d5: calls 5,000
+59deceb: folds
+Hero: calls 5,000
+f70000f7: calls 5,000
+e8291bb5: raises 3,493 to 8,493 and is all-in
+edb9d58b: folds
+b035b02c: calls 3,493
+28c9f2d5: calls 3,493
+Hero: raises 91,157 to 99,650 and is all-in
+f70000f7: folds
+b035b02c: folds
+28c9f2d5: calls 91,157 and is all-in
+Hero: shows [Qc Th]
+e8291bb5: shows [4s 3d]
+28c9f2d5: shows [2s 2d]
+*** FLOP *** [Jd 5d Ac]
+*** TURN *** [Jd 5d Ac] [9c]
+*** RIVER *** [Jd 5d Ac 9c] [5s]
+f70000f7: shows [Qd] (a pair of Fives)
+*** SHOWDOWN ***
+28c9f2d5 collected 44,272 from pot
+28c9f2d5 collected 182,314 from pot
+*** SUMMARY ***
+Total pot 226,586 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 5d Ac 9c 5s]
+Seat 1: e8291bb5 (small blind) showed [4s 3d] and lost with a pair of Fives
+Seat 2: edb9d58b (big blind) folded before Flop
+Seat 3: de4ddd3e folded before Flop
+Seat 4: b035b02c folded before Flop
+Seat 5: 28c9f2d5 showed [2s 2d] and won (226,586) with two pair, Fives and Twos
+Seat 6: 59deceb folded before Flop
+Seat 7: Hero showed [Qc Th] and lost with a pair of Fives
+Seat 8: f70000f7 (button) folded before Flop
+
+

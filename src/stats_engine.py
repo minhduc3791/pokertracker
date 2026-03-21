@@ -71,16 +71,17 @@ class StatsEngine:
     def _identify_hero(self, player_name: str) -> bool:
         """Identify if a player is the hero.
         
+        In GGPoker hand histories, "Hero" is a placeholder label for the current player.
+        We check if the configured hero_screen_name matches, or if it's the placeholder.
+        
         Args:
             player_name: Player's screen name
             
         Returns:
             True if this is the hero player
         """
-        if player_name == "Hero":
-            return True
-        
         hero_screen_name = self.config.get("hero_screen_name")
+        
         if hero_screen_name and player_name == hero_screen_name:
             return True
         

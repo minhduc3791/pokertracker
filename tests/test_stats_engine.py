@@ -15,6 +15,7 @@ class TestStatsEngine:
         """Set up test fixtures."""
         self.db = DatabaseManager(":memory:")
         self.config = ConfigManager()
+        self.config.set("hero_screen_name", "HeroPlayer")
         self.stats = StatsEngine(self.db, self.config)
 
     def teardown_method(self):
@@ -25,7 +26,7 @@ class TestStatsEngine:
         """Helper to create a parsed hand for testing."""
         if players is None:
             players = [
-                Player(screen_name="Hero", seat=1, stack=10000, is_hero=True),
+                Player(screen_name="HeroPlayer", seat=1, stack=10000, is_hero=False),
                 Player(screen_name="Villain", seat=2, stack=10000, is_hero=False),
             ]
         if board is None:
@@ -46,16 +47,16 @@ class TestStatsEngine:
         """Test that VPIP increments when player puts money in voluntarily."""
         actions = [
             Action(player="Villain", action_type=ActionType.BET, amount=100, street="preflop"),
-            Action(player="Hero", action_type=ActionType.CALL, amount=100, street="preflop"),
+            Action(player="HeroPlayer", action_type=ActionType.CALL, amount=100, street="preflop"),
             Action(player="Villain", action_type=ActionType.CHECK, amount=0, street="flop"),
-            Action(player="Hero", action_type=ActionType.CHECK, amount=0, street="flop"),
+            Action(player="HeroPlayer", action_type=ActionType.CHECK, amount=0, street="flop"),
             Action(player="Villain", action_type=ActionType.BET, amount=200, street="flop"),
-            Action(player="Hero", action_type=ActionType.FOLD, amount=0, street="flop"),
+            Action(player="HeroPlayer", action_type=ActionType.FOLD, amount=0, street="flop"),
         ]
         hand = self._create_parsed_hand(actions)
         self.stats.process_hand(hand)
         
-        hero_id = self.db.get_or_create_player("Hero", is_hero=True)
+        hero_id = self.db.get_or_create_player("HeroPlayer", is_hero=True)
         stats = self.db.get_player_stats(hero_id, "1")
         
         assert StatType.VPIP.value in stats
@@ -66,16 +67,16 @@ class TestStatsEngine:
         """Test that VPIP increments when player calls."""
         actions = [
             Action(player="Villain", action_type=ActionType.RAISE, amount=100, street="preflop"),
-            Action(player="Hero", action_type=ActionType.CALL, amount=100, street="preflop"),
+            Action(player="HeroPlayer", action_type=ActionType.CALL, amount=100, street="preflop"),
             Action(player="Villain", action_type=ActionType.CHECK, amount=0, street="flop"),
-            Action(player="Hero", action_type=ActionType.CHECK, amount=0, street="flop"),
+            Action(player="HeroPlayer", action_type=ActionType.CHECK, amount=0, street="flop"),
             Action(player="Villain", action_type=ActionType.CHECK, amount=0, street="turn"),
-            Action(player="Hero", action_type=ActionType.CHECK, amount=0, street="turn"),
+            Action(player="HeroPlayer", action_type=ActionType.CHECK, amount=0, street="turn"),
         ]
         hand = self._create_parsed_hand(actions, board=[])
         self.stats.process_hand(hand)
         
-        hero_id = self.db.get_or_create_player("Hero", is_hero=True)
+        hero_id = self.db.get_or_create_player("HeroPlayer", is_hero=True)
         stats = self.db.get_player_stats(hero_id, "1")
         
         assert StatType.VPIP.value in stats
@@ -85,14 +86,14 @@ class TestStatsEngine:
         """Test that stats are properly stored in the database."""
         actions = [
             Action(player="Villain", action_type=ActionType.BET, amount=100, street="preflop"),
-            Action(player="Hero", action_type=ActionType.CALL, amount=100, street="preflop"),
+            Action(player="HeroPlayer", action_type=ActionType.CALL, amount=100, street="preflop"),
             Action(player="Villain", action_type=ActionType.CHECK, amount=0, street="flop"),
-            Action(player="Hero", action_type=ActionType.CHECK, amount=0, street="flop"),
+            Action(player="HeroPlayer", action_type=ActionType.CHECK, amount=0, street="flop"),
         ]
         hand = self._create_parsed_hand(actions)
         self.stats.process_hand(hand)
         
-        hero_id = self.db.get_or_create_player("Hero", is_hero=True)
+        hero_id = self.db.get_or_create_player("HeroPlayer", is_hero=True)
         stats = self.db.get_player_stats(hero_id, "1")
         
         assert len(stats) > 0
@@ -112,7 +113,7 @@ class TestStatsEngine:
 
     def test_hero_identification_from_hero_string(self):
         """Test that 'Hero' player is correctly identified."""
-        assert self.stats._identify_hero("Hero") is True
+        assert self.stats._identify_hero("HeroPlayer") is True
         assert self.stats._identify_hero("OtherPlayer") is False
 
     def test_hero_identification_from_config(self):
@@ -128,7 +129,7 @@ class TestStatsEngine:
         hand = self._create_parsed_hand(actions, board=[])
         self.stats.process_hand(hand)
         
-        hero_id = self.db.get_or_create_player("Hero", is_hero=True)
+        hero_id = self.db.get_or_create_player("HeroPlayer", is_hero=True)
         cursor = self.db.connection.cursor()
         cursor.execute("SELECT is_hero FROM players WHERE id=?", (hero_id,))
         result = cursor.fetchone()

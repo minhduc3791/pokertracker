@@ -97,12 +97,11 @@ class Natural8Parser(HandHistoryParser):
             screen_name = match.group(2)
             stack_str = match.group(3).replace(',', '')
             stack = float(stack_str)
-            is_hero = screen_name == "Hero"
             players.append(Player(
                 screen_name=screen_name,
                 seat=seat,
                 stack=stack,
-                is_hero=is_hero
+                is_hero=False
             ))
         return players
 

@@ -274,7 +274,7 @@ class PokerTrackerGUI:
         dir_entry.insert(0, self.config.get('hand_history_directory', './hand-histories'))
         dir_entry.pack(side=tk.LEFT, fill=tk.X, expand=True)
 
-        ttk.Button(dir_frame, text="Browse", command=lambda: dir_entry.insert(0, filedialog.askdirectory() or dir_entry.get())).pack(side=tk.LEFT, padx=(5, 0))
+        ttk.Button(dir_frame, text="Browse", command=lambda: [dir_entry.delete(0, tk.END), dir_entry.insert(0, filedialog.askdirectory() or dir_entry.get())]).pack(side=tk.LEFT, padx=(5, 0))
 
         progress_var = tk.StringVar(value="Ready to import...")
         progress_label = tk.Label(import_win, textvariable=progress_var, font=("Arial", 10))

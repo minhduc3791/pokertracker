@@ -61,13 +61,13 @@ class TestNatural8Parser:
         assert "742d0fa7" in screen_names
         assert "Hero" in screen_names
 
-    def test_parse_hand_identifies_hero(self):
-        """Test that parse_hand correctly identifies Hero player."""
+    def test_parse_hand_extracts_hero_player_name(self):
+        """Test that parse_hand extracts 'Hero' as a player name from hand history."""
         result = self.parser.parse_hand(CASH_GAME_HAND)
         assert result is not None
         hero = next((p for p in result.players if p.screen_name == "Hero"), None)
         assert hero is not None
-        assert hero.is_hero is True
+        assert hero.is_hero is False
 
     def test_parse_hand_extracts_actions(self):
         """Test that parse_hand extracts actions by street."""

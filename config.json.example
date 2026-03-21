@@ -1,0 +1,8 @@
+{
+    "natural8_process_name": "Natural8.exe",
+    "hand_history_directory": "./hand-histories",
+    "hero_screen_name": null,
+    "database_path": "poker_tracker.db",
+    "log_level": "INFO",
+    "log_file": "poker_tracker.log"
+}

@@ -6,6 +6,10 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from pathlib import Path
 
+if getattr(sys, 'frozen', False):
+    sys.stdout = open(os.devnull, 'w')
+    sys.stderr = open(os.devnull, 'w')
+
 from src.database import DatabaseManager
 from src.config import ConfigManager
 
@@ -315,31 +319,47 @@ class PokerTrackerGUI:
                 txt_files = list(Path(folder).rglob("*.txt"))
                 total = len(txt_files)
                 progress_bar["maximum"] = total
+                progress_bar.start()
 
                 imported = 0
+                skipped_no_match = 0
+                skipped_parse_error = 0
+
                 for i, file_path in enumerate(txt_files):
                     try:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            content = f.read()
+                        content = None
+                        for encoding in ['utf-8', 'utf-8-sig', 'latin-1', 'cp1252']:
+                            try:
+                                with open(file_path, 'r', encoding=encoding) as f:
+                                    content = f.read()
+                                break
+                            except UnicodeDecodeError:
+                                continue
 
-                        if parser.can_parse(content):
+                        if content and parser.can_parse(content):
                             hand = parser.parse_hand(content)
                             if hand:
                                 self.db.insert_hand(hand)
                                 stats.process_hand(hand)
                                 imported += 1
+                            else:
+                                skipped_parse_error += 1
+                        else:
+                            skipped_no_match += 1
 
                         progress_bar["value"] = i + 1
-                        progress_var.set(f"Processing {i+1}/{total}...")
-
-                        if (i + 1) % 100 == 0:
-                            log_message(f"Processed {i+1} files, {imported} imported")
+                        progress_var.set(f"Processing {i+1}/{total}... ({imported} imported)")
 
                     except Exception as e:
-                        print(f"Error processing {file_path}: {e}")
+                        log_message(f"Error: {file_path.name}: {e}")
 
-                log_message(f"\nImport complete! {imported} hands imported.")
+                log_message(f"\nImport complete!")
+                log_message(f"Total files: {total}")
+                log_message(f"Successfully imported: {imported}")
+                log_message(f"Skipped (not GG format): {skipped_no_match}")
+                log_message(f"Skipped (parse error): {skipped_parse_error}")
                 progress_var.set(f"Done! {imported} hands imported.")
+                progress_bar.stop()
                 self._load_data()
 
             except Exception as e:

@@ -2,39 +2,30 @@
 
 import sys
 import os
-from PyInstaller.utils.hooks import collect_all, collect_submodules
+from pathlib import Path
 
 block_cipher = None
-
-datas = []
-binaries = []
-hiddenimports = [
-    'psutil',
-    'watchdog',
-    'src.config',
-    'src.database',
-    'src.natural8_parser',
-    'src.stats_engine',
-    'src.process_detector',
-    'src.file_watcher',
-    'src.parser_base',
-]
 
 a = Analysis(
     ['src\\gui.py'],
     pathex=[],
-    binaries=binaries,
-    datas=datas,
-    hiddenimports=hiddenimports,
+    binaries=[],
+    datas=[],
+    hiddenimports=[
+        'psutil',
+        'watchdog',
+        'src.config',
+        'src.database',
+        'src.natural8_parser',
+        'src.stats_engine',
+        'src.process_detector',
+        'src.file_watcher',
+        'src.parser_base',
+    ],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=[
-        'tkinter',
-        '_tkinter',
-        'tcl',
-        'tk',
-    ],
+    excludes=[],
     win_no_prefer_redirects=False,
     win_private_assemblies=False,
     cipher=block_cipher,

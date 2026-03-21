@@ -6,15 +6,16 @@ from pathlib import Path
 
 block_cipher = None
 
-project_root = Path(SPECFILE).parent
+script_dir = Path(os.path.dirname(os.path.abspath(SPECFILE)))
+project_root = script_dir.parent
 
 a = Analysis(
-    ['src/gui.py'],
+    [str(project_root / 'src' / 'gui.py')],
     pathex=[str(project_root / 'src')],
     binaries=[],
     datas=[
-        ('icon.ico', '.'),
-        ('icon.png', '.'),
+        (str(project_root / 'icon.ico'), '.'),
+        (str(project_root / 'icon.png'), '.'),
     ],
     hiddenimports=[
         'psutil',
@@ -26,7 +27,6 @@ a = Analysis(
         'src.process_detector',
         'src.file_watcher',
         'src.parser_base',
-        'tkinter',
     ],
     hookspath=[],
     hooksconfig={},
@@ -60,5 +60,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon='icon.ico',
+    icon=str(project_root / 'icon.ico'),
 )

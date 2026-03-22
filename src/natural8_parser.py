@@ -150,7 +150,7 @@ class Natural8Parser(HandHistoryParser):
         if blind_match:
             return Action(
                 player=blind_match.group(1),
-                action_type=ActionType.BET,
+                action_type=ActionType.BLIND,
                 amount=float(blind_match.group(3).replace(',', '')),
                 street=street
             )
@@ -159,7 +159,7 @@ class Natural8Parser(HandHistoryParser):
         if blind_match:
             return Action(
                 player=blind_match.group(1),
-                action_type=ActionType.BET,
+                action_type=ActionType.BLIND,
                 amount=float(blind_match.group(3).replace(',', '')),
                 street=street
             )
@@ -168,7 +168,7 @@ class Natural8Parser(HandHistoryParser):
         if ante_match:
             return Action(
                 player=ante_match.group(1),
-                action_type=ActionType.BET,
+                action_type=ActionType.ANTE,
                 amount=float(ante_match.group(3).replace(',', '')),
                 street=street
             )
@@ -177,7 +177,7 @@ class Natural8Parser(HandHistoryParser):
         if straddle_match:
             return Action(
                 player=straddle_match.group(1),
-                action_type=ActionType.BET,
+                action_type=ActionType.STRADDLE,
                 amount=float(straddle_match.group(3).replace(',', '')),
                 street=street
             )

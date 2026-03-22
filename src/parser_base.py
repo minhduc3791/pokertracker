@@ -13,6 +13,9 @@ class ActionType(Enum):
     BET = "bet"
     RAISE = "raise"
     ALLIN = "allin"
+    BLIND = "blind"
+    ANTE = "ante"
+    STRADDLE = "straddle"
 
 
 @dataclass

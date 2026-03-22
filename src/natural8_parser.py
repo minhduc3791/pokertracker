@@ -193,7 +193,16 @@ class Natural8Parser(HandHistoryParser):
         if ': calls' in line:
             parts = line.split(': calls ')
             player = parts[0].strip()
-            amount = float(parts[1].replace(',', '')) if len(parts) > 1 else 0
+            amount = 0
+            if len(parts) > 1:
+                amount_part = parts[1].split(' and is all')[0].split(' and')[0]
+                amount_str = amount_part.replace(',', '').strip()
+                try:
+                    amount = float(amount_str)
+                except ValueError:
+                    nums = re.findall(r'[\d,]+', line)
+                    if nums:
+                        amount = float(nums[-1].replace(',', ''))
             return Action(player=player, action_type=ActionType.CALL, amount=amount, street=street)
         
         if 'and is all-in' in line:
@@ -210,17 +219,29 @@ class Natural8Parser(HandHistoryParser):
             player = parts[0].strip()
             amount = 0
             if len(parts) > 1:
-                amount_str = parts[1].replace(' and is all-in', '')
-                amount = float(amount_str.replace(',', ''))
+                amount_part = parts[1].split(' and is all')[0].split(' and')[0]
+                amount_str = amount_part.replace(',', '').strip()
+                try:
+                    amount = float(amount_str)
+                except ValueError:
+                    nums = re.findall(r'[\d,]+', line)
+                    if nums:
+                        amount = float(nums[-1].replace(',', ''))
             return Action(player=player, action_type=ActionType.BET, amount=amount, street=street)
         
         if ': raises' in line:
             parts = line.split(': raises ')
             player = parts[0].strip()
             amount = 0
-            nums = re.findall(r'[\d,]+', line)
-            if nums:
-                amount = float(nums[-1].replace(',', ''))
+            if len(parts) > 1:
+                amount_part = parts[1].split(' and is all')[0].split(' and')[0]
+                amount_str = amount_part.replace(',', '').strip()
+                try:
+                    amount = float(amount_str)
+                except ValueError:
+                    nums = re.findall(r'[\d,]+', line)
+                    if nums:
+                        amount = float(nums[-1].replace(',', ''))
             return Action(player=player, action_type=ActionType.RAISE, amount=amount, street=street)
         
         if 'and is all-in' in line:

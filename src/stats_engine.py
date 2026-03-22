@@ -133,15 +133,13 @@ class StatsEngine:
         lines = parsed_hand.raw_text.split('\n')
         
         for line in lines:
-            if 'showed' in line.lower():
-                if ':' in line:
-                    player = line.split(':')[0].strip()
-                    if 'Seat' in line:
-                        parts = line.split(':')
-                        if len(parts) >= 2:
-                            player = parts[1].strip().split()[0]
-                    if player:
-                        showdown_players.append(player)
+            if ' showed ' in line.lower():
+                if 'Seat ' in line and ':' in line:
+                    parts = line.split(':')
+                    if len(parts) >= 2:
+                        name_part = parts[1].strip()
+                        name = name_part.split()[0]
+                        showdown_players.append(name)
         
         return list(set(showdown_players))
 
@@ -156,8 +154,8 @@ class StatsEngine:
             True if player won
         """
         for line in parsed_hand.raw_text.split('\n'):
-            if 'showed' in line.lower() and player_name in line:
-                if 'won' in line.lower():
+            if ' showed ' in line.lower() and player_name in line:
+                if ' won ' in line.lower():
                     return True
         return False
 
@@ -180,7 +178,7 @@ class StatsEngine:
         """Update 3-bet stat.
         
         A 3-bet is when a player makes the second raise preflop.
-        Only counts for players who had the opportunity (entered pot voluntarily).
+        Denominator is when there's an opportunity (at least 2 raises preflop).
         
         Args:
             player_id: Player ID
@@ -193,18 +191,18 @@ class StatsEngine:
         
         player_raised = False
         raise_count = 0
-        first_raiser = None
         
         for action in actions:
             if action.action_type == ActionType.RAISE:
                 raise_count += 1
-                if raise_count == 1:
-                    first_raiser = action.player
-                elif raise_count == 2 and action.player == player.screen_name:
+                if raise_count == 2 and action.player == player.screen_name:
                     player_raised = True
         
-        if player_raised:
-            self.db.increment_stat(player_id, table_name, StatType.THREE_BET.value, 1, 1)
+        if raise_count >= 2:
+            if player_raised:
+                self.db.increment_stat(player_id, table_name, StatType.THREE_BET.value, 1, 1)
+            else:
+                self.db.increment_stat(player_id, table_name, StatType.THREE_BET.value, 0, 1)
 
     def _update_fold_to_bet(self, player_id: int, table_name: str, player, actions: List[Action]) -> None:
         """Update fold to bet stat (any street).

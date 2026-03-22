@@ -130,15 +130,19 @@ class StatsEngine:
             List of player names
         """
         showdown_players = []
-        for action in parsed_hand.actions:
-            if "shows" in action.player or "collected" in str(action):
-                pass
-        summary_text = parsed_hand.raw_text.lower()
-        for line in parsed_hand.raw_text.split('\n'):
-            if 'showed' in line.lower() or 'won' in line.lower():
-                parts = line.split(':')
-                if parts:
-                    showdown_players.append(parts[0].strip())
+        lines = parsed_hand.raw_text.split('\n')
+        
+        for line in lines:
+            if 'showed' in line.lower():
+                if ':' in line:
+                    player = line.split(':')[0].strip()
+                    if 'Seat' in line:
+                        parts = line.split(':')
+                        if len(parts) >= 2:
+                            player = parts[1].strip().split()[0]
+                    if player:
+                        showdown_players.append(player)
+        
         return list(set(showdown_players))
 
     def _player_won(self, parsed_hand: ParsedHand, player_name: str) -> bool:
@@ -175,24 +179,37 @@ class StatsEngine:
     def _update_three_bet(self, player_id: int, table_name: str, player, actions: List[Action]) -> None:
         """Update 3-bet stat.
         
+        A 3-bet is when a player makes the second raise preflop.
+        Only counts for players who had the opportunity (entered pot voluntarily).
+        
         Args:
             player_id: Player ID
             table_name: Table name
             player: Player object
             actions: Hand actions
         """
+        if not actions:
+            return
+        
+        player_raised = False
         raise_count = 0
+        first_raiser = None
+        
         for action in actions:
             if action.action_type == ActionType.RAISE:
                 raise_count += 1
+                if raise_count == 1:
+                    first_raiser = action.player
+                elif raise_count == 2 and action.player == player.screen_name:
+                    player_raised = True
         
-        if raise_count >= 2 and player.screen_name == actions[-1].player:
+        if player_raised:
             self.db.increment_stat(player_id, table_name, StatType.THREE_BET.value, 1, 1)
-        elif raise_count >= 2:
-            self.db.increment_stat(player_id, table_name, StatType.THREE_BET.value, 0, 1)
 
     def _update_fold_to_bet(self, player_id: int, table_name: str, player, actions: List[Action]) -> None:
-        """Update fold to bet stat.
+        """Update fold to bet stat (any street).
+        
+        Tracks when a player faces a bet and folds.
         
         Args:
             player_id: Player ID
@@ -202,11 +219,12 @@ class StatsEngine:
         """
         facing_bet = False
         folded = False
+        
         for action in actions:
             if action.player == player.screen_name:
                 if action.action_type == ActionType.BET:
                     facing_bet = True
-                if action.action_type == ActionType.FOLD and facing_bet:
+                elif action.action_type == ActionType.FOLD and facing_bet:
                     folded = True
                     break
         
@@ -220,6 +238,9 @@ class StatsEngine:
                      preflop_actions: List[Action]) -> None:
         """Update continuation bet stat.
         
+        Only the preflop aggressor can make a CBet.
+        Only counts if there were flop actions and player was aggressor.
+        
         Args:
             player_id: Player ID
             table_name: Table name
@@ -229,20 +250,15 @@ class StatsEngine:
         """
         preflop_aggressor = self._get_preflop_aggressor(preflop_actions)
         
-        if not flop_actions:
+        if not flop_actions or preflop_aggressor != player.screen_name:
             return
         
         for action in flop_actions:
-            if action.player == preflop_aggressor and action.street == "flop":
-                if action.action_type == ActionType.BET:
-                    self.db.increment_stat(player_id, table_name, StatType.CBET_TURN.value, 1, 1)
-                    return
+            if action.player == player.screen_name and action.action_type == ActionType.BET:
+                self.db.increment_stat(player_id, table_name, StatType.CBET_TURN.value, 1, 1)
+                return
         
-        if preflop_aggressor == player.screen_name and flop_actions:
-            cbet_offered = any(a.action_type in [ActionType.BET, ActionType.CHECK, ActionType.FOLD] 
-                              for a in flop_actions if a.player != player.screen_name)
-            if cbet_offered:
-                self.db.increment_stat(player_id, table_name, StatType.CBET_TURN.value, 0, 1)
+        self.db.increment_stat(player_id, table_name, StatType.CBET_TURN.value, 0, 1)
 
     def _update_cbet_turn(self, player_id: int, table_name: str, player, turn_actions: List[Action],
                           flop_actions: List[Action]) -> None:

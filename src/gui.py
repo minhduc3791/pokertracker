@@ -6,10 +6,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from pathlib import Path
 
-if getattr(sys, 'frozen', False):
-    sys.stdout = open(os.devnull, 'w')
-    sys.stderr = open(os.devnull, 'w')
-
 from src.database import DatabaseManager
 from src.config import ConfigManager
 
